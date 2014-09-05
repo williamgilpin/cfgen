@@ -1,0 +1,1453 @@
+     ----------------------------------------------------------------
+     Otherness
+
+     Tamise Van Pelt
+     Idaho State University
+     vantamis@isu.edu
+
+     © 2000 Tamise Van Pelt.
+     All rights reserved.
+     ----------------------------------------------------------------
+
+  1. As half of a signifying binary, the "Other" is a term with a
+     rich and lengthy philosophical history dating at least from
+     Plato's Sophist, in which the Stranger participates in a
+     dialogue on the ontological problems of being and non-being, of
+     the One and the Other.[1] In the twentieth century, this
+     Platonic mix of ontology with alterity informs the work of
+     Emmanuel Levinas, who is countered by Simone de Beauvoir, who
+     influences feminist philosophers, who influence theorists of
+     political, racial, and sexual identity--forming a great chain of
+     inquiry into being.[2] Additional philosophical perspectives on
+     Otherness abound, and Hegel (via Kojève), Heidegger, and Sartre
+     all present important statements on alterity. In this century,
+     Jacques Lacan's place in the history of alterity is unique,
+     however, because Lacan insists on a decentering of Otherness
+     that parallels his much-discussed decentering of the Subject.
+     Specifically, Lacan explores an intrapsychic Otherness different
+     from the Other of interpersonal theories of identity and
+     distinct from the philosophical problem of Other Minds--a
+     problem grounded in solipsism rather than narcissism.
+
+  2. Unlike his contemporaries, Lacan postulates a gap between an
+     Other and an other that echoes a gap between the Subject and the
+     ego. These twin decenterings imply Lacan's symbolic and
+     imaginary registers, since the "decentering of the Subject" is
+     another way of saying that the Subject and the ego inhabit
+     disjunct registers. Likewise, the disjunction between the
+     symbolic linguistic Other and the imaginary mirroring other
+     signifies a decentering of the former from the latter. Taken
+     together, these two decenterings articulate a post-humanist
+     subjectivity at odds with contemporary constructions of the
+     "Other" as a person, particularly a person who is marginal or
+     subversive in some way. This conceptual disjunction between
+     theories of a humanized Other and Lacan's radically alterior
+     Otherness suggests a gap between the two approaches. Ironically,
+     though, discussions that humanize the Other frequently cite
+     Lacan, so it seems valuable to ask why.
+
+  3. Lacan's rhetoric in and of itself invites his readers to
+     overlook his decentering of the Other. Sometimes Lacan refers to
+     the symbolic Other as the big Other and the imaginary other as
+     the little other, but for the most part Lacan simply uses
+     capitalization to distinguish the Other from the other. Though
+     no reader would misread "Subject" for "ego," the much subtler
+     rhetorical distinction between "Other" and "other" can easily be
+     missed--especially if readers don't supplement the explicit
+     discourse of alterity with the implicit discourse of the
+     registers. Since Lacan discusses the Other topically without any
+     explicit reference to the registers, his readers are often
+     called upon to supply the implicit theoretical context. Envision
+     the fate of the casual reader of Lacan who, interested in
+     British literature, picks up Seminar VII on ethics to read
+     "Courtly Love as Anamorphosis." This reader sees: "In many
+     cases, it seems that a function like that of a blessing or
+     salutation is for the courtly lover the supreme gift, the sign
+     of the Other as such, and nothing more" (152). Lacking the
+     implied but unspecified discursive context of the registers,
+     this reader can easily take Lacan's "sign of the Other" to be a
+     token received from an "Other" person. Only familiarity with
+     Lacan's theory of the registers allows his reader to grasp the
+     intrapsychic "sign of the Other" as a decentering connection
+     with the signifier in the unconscious that the courtly lover
+     mis/takes for transcendence. Similarly, when Lacan writes in
+     Seminar II that "the obsessional is always an other" he is
+     talking about the obsessional's ego-involvement, not the
+     obsessional's loss of identity. Again, Lacan's point assumes the
+     registers, allying the obsessional with the rhetorically
+     explicit "other" and alienating the obsessional from the
+     discursively implicit "Other." Lacking the framework of the
+     theory of the registers, a reader would be hard pressed to
+     unravel either of these Lacanian invocations of alterity.
+
+  4. The currency of the idea of the Other in theory generally makes
+     the reading of the decentered Other in Lacan even more
+     difficult. The contemporary idea of the Other rooted in area
+     studies inscribes itself in theories of race, class, and gender
+     and reinscribes itself in post-colonial theories of national
+     identities, both placed and displaced. Consequently, a plethora
+     of critical discourses use the term "Other" to signify quite
+     differently than Lacan. In identity politics, the decentering of
+     the Subject can lead to an equal and opposite reaction: a
+     centering--an entification--of the Other as object, an "it"
+     denied the status of a "Thou." Thus, readers familiar with
+     theoretical discourses defining Otherness as race or class or
+     gender or nationality see Otherness as attribute rather than
+     alterity.
+
+  5. Since alterity is crucial to an understanding of Lacanian
+     Otherness, and since the Other of contemporary theory means many
+     things to many discourses, it will be useful first to
+     distinguish the Other of identity theories from the decentered
+     Other of Lacanian analysis. With this Lacanian decentering of
+     the Other in mind, I then want to explore the way two theorists
+     of identity deploy Lacanian Otherness: Abdul R. JanMohamed uses
+     the registers that distinguish otherness from Otherness in his
+     reading of colonialist novels; Judith Butler disputes the
+     validity of the distinction between the registers on which
+     Lacan's decentering of the Other is based. In dialogue with
+     theories of identity, Lacanian theory insists on the radicality
+     of Otherness, an alterity that has frequently been obscured by
+     the residual humanism implicit in the construction of the
+     Subject as a political entity. Finally, this overview of
+     Otherness will examine the relationship between the decentering
+     of the Other and phallic discourse to argue the value of a
+     politics that listens for the Other rather than speaking on its
+     behalf.
+
+     The Other in Theories of Identity
+
+  6. Many contemporary theories of identity use the Other as half of
+     a Self/Other dichotomy distinguishing one person from another.
+     For instance, pointing out an oppositional racial distinction,
+     Terry Goldie's "The Representation of the Indigene" states: "At
+     least since Fanon's Black Skin, White Masks (1952) it has been a
+     commonplace to use 'Other' and 'not-self' for the white view of
+     blacks and for the resulting black view of themselves" (233).[3]
+     Racial selves rather than subjects are at issue here in Goldie's
+     distinction between white people and black people. The same
+     interpersonal dichotomy of race appears in Abdul R. JanMohamed's
+     "The Economy of Manichean Allegory":
+
+          Troubled by the nagging contradiction between the
+          theoretical justification of exploitation and the barbarity
+          of its actual practice, [colonialist fiction] also attempts
+          to mask the contradiction by obsessively portraying the
+          supposed inferiority and barbarity of the racial Other,
+          thereby insisting on the profound moral difference between
+          self and Other. (23)
+
+     Here, an implicit humanism enters the anti-humanist discourse on
+     race, imported by the idea of the racial "self." Similarly,
+     Goldie discusses the racial distinctions between the Self and
+     the Other in terms of specific attributes, saying that
+     "[p]resumably the first instance in which one human perceived
+     another as Other in racial terms came when the first recognized
+     the second as different in colour, facial features, language"
+     (235). Now Goldie makes the previously implicit humanism
+     explicit, but not without reason. In critiques that explore
+     inhumanity, humanizing the Other makes a political statement.
+     This statement, in turn, reminds us that the discourse of
+     political rights and the discourse of humanism are twin
+     intellectual legacies, two branches of the tree of Enlightenment
+     knowledge.
+
+  7. Discourses of gendered selves parallel discourses of racial
+     identity in the tendency to humanize the Other. Thus, a parallel
+     distinction appears in feminist discourses discussing woman as
+     Other, particularly those discourses opposing patriarchy. Where
+     political rights are at issue, discourses refer both to woman as
+     an Other human being and to the Subject as a political entity, a
+     theoretical move that unifies the "Subject" as a person
+     subjected to the law of the land. For instance, adopting the
+     language of oppositional feminism, Raman Selden[4] generalizes
+     about feminist theory: "In many different societies, women, like
+     colonised subjects, have been relegated to the position of
+     'other', 'colonised' by various forms of patriarchal domination"
+     (249). Simone de Beauvoir's The Second Sex emphasizes the
+     humanism that is at stake in the Self/Other dichotomy, writing
+     of the Biblical Genesis: "... humanity is male and man defines
+     woman not in herself but as relative to him... He is the
+     Subject, he is the Absolute--she is the Other" (xxii); this
+     "expression of a duality... of the Self and the Other" is
+     socially and historically pervasive, de Beauvoir points out
+     (xxii). Of de Beauvoir's and Virginia Woolf's feminisms, Selden
+     continues: "Being dispersed among men, women have no separate
+     history, no natural solidarity; nor have they combined as other
+     oppressed groups have. Woman is riveted into a lop-sided
+     relationship with man: he is the 'One', she the 'Other'... and,
+     à la Virginia Woolf's 'looking glass', the assumption of woman
+     as 'Other' is further internalised by women themselves" (210).
+     Here, Selden's analysis of the woman's internalization of her
+     attributes parallels Goldie's analysis of black identification
+     above, and both invoke a discourse on Otherness that has
+     Platonic rather than psychoanalytic roots.
+
+  8. National identity, too, presents itself in terms of Selves and
+     Others, adopting the plural construction characteristic of
+     discourses about identity. Here, Homi Bhabha discusses the
+     post-colonial condition: "[The Derridean entre] makes it
+     possible to begin envisaging national, anti-nationalist,
+     histories of the 'people'. It is in this space that we will find
+     those words with which we can speak of Ourselves and Others"
+     ("Cultural Diversity" 209). Similarly, Xiaomei Chen concludes a
+     discussion of "Occidentalism as Counterdiscourse" with the
+     following analysis that treats East and West as implicit human
+     agents:
+
+          ... it seems imperative that we at least attempt to find a
+          reasonable balance between Self and Other, between East and
+          West, so that no culture is fundamentally privileged over
+          its Others. Perhaps the realities of history cannot allow
+          such a balance to be fully realized. Indeed, it is even
+          necessary to affirm that these master tropes are
+          necessarily veiled by the fictional. What must be stressed
+          here is then even imagining such a balance--surely one of
+          the first requirements of a new order of things--can never
+          be possible without each Self being confronted by an Other,
+          or by the Other being approached from the point of view of
+          the Self in its own specific historical and cultural
+          conditions. (89)
+
+     The idea here, that Otherness is both agentic and a matter of
+     point of view, is taken up by Judith Butler in a discussion of
+     sexual identity when she writes in Bodies that Matter that "gay
+     and lesbian identity positions... constitute themselves through
+     the production and repudiation of a heterosexual Other" (112).
+     As Butler's analysis shows, Otherness can be relative, making
+     the interpersonal dichotomy of Self and Other endlessly
+     reversible.
+
+  9. Judith Butler's critique of the "exclusionary logic" of the
+     Other as it signifies in the Self/Other binary of identity
+     points toward the limited usefulness of oppositional
+     constructions. Lacanian logic, moreover, demonstrates the
+     intrapsychic resistance that manifests when just such signifying
+     binaries as white/black, West/East, or heterosexual/homosexual
+     merge with a fixed, imaginary ego identity. Like intrapsychic
+     resistance, political resistance has a use, particularly where
+     brute survival is at issue. However, resistance denies the
+     epistemological fact that in order to replicate the Self/Other
+     signifying difference--in order to shape a foundational symbolic
+     distinction--both terms necessarily implicate each other. In
+     many of the discussions above, Chen's "fundamental privilege" is
+     less the issue than foundational, epistemological privilege.
+     Civilized, superior Western white male heterosexual colonizers
+     are foundationally privileged; we know in advance and without
+     appeal to specific circumstance or historical context that this
+     is so. Foundational difference makes a truth claim about the
+     world; foundational difference prescribes positions, inscribes
+     hierarchy, proscribes recombination. In and of themselves, such
+     differences are descriptive at best, their insistent fixity
+     rendering them insufficient for the analysis of dynamic
+     problems, whether the problems are intrapsychic, social, or
+     political. Discourses that align the Other with the marginal or
+     with the subversive avoid a confrontation with complexity, just
+     as JanMohamed's exemplary redistribution of the attribute of
+     "barbarity" from colonizer to colonized, above, stops short of
+     an inquiry into ego identification as a transitive process.
+     Allied binaries and binary realignments only build a thicker
+     epistemological foundation.
+
+ 10. Thick epistemology is vulnerable epistemology. As JanMohamed's
+     portable barbarity points out above, multiple binaries align and
+     realign, attributes can be assigned and reassigned. Infelicitous
+     combinatories undermine foundational privilege, whether the
+     claim of privilege operates as an entitlement or an accusation.
+     So long as there is an investment in the foundational signifying
+     difference, the emergence of the combinatory's undesirable
+     elements will arouse resistance. For instance, Melville Chater's
+     paean to the new South African Union in a 1931 edition of The
+     National Geographic sets up and reinforces a typical colonialist
+     foundational distinction between hard-working, intelligent
+     whites entitled to the prosperity they enjoy and lazy,
+     superstitious blacks (who presumably have what they have
+     "earned" as well). When Chater's foray over the veldt discovers
+     a "forlorn scene" of "dismal shacks, where some frowzy men and
+     women and a plethora of dull-faced children [lounge] in the
+     sunshine," he rescues his foundations: "Yet they [are] whites,
+     or, rather, 'poor white,' representing a South African aspect of
+     that retrogressive type which is found in many lands" (441).
+     When this relativizing of whiteness seems inadequate to explain
+     "so formidable a number as 120,000 to 150,000" poor whites,
+     Chater attributes the deterioration of the poor whites to "that
+     too-easeful existence, based on slave help and game aplenty"
+     (441). Having inadvertently tainted the white superiority he has
+     constructed as the outcome of white hard work by the insertion
+     of slavery into his discourse, Chater reasserts his foundation:
+     in a stunning attempt to purify white superiority, he
+     redistributes a poor white squatter to the black half of his
+     equation by comparing the squatter's language to that of "the
+     American 'black-face' comedian"(441). Chater's inadvertent
+     denaturalizing of blackness has stumbled upon a blackness
+     constructed by whites for white entertainment. He has entered
+     the territory of the combinatory of combinatories, the Lacanian
+     unconscious--the Lacanian Other.
+
+ 11. A more contemporary and purposeful recuperation of race from the
+     stasis of foundational difference is effected by Honduran
+     comedian Carlos Mencia, who jokes that Los Angelinos meeting
+     someone from Honduras or El Salvador or Guatemala inevitably ask
+     "Now, what part of Mexico is that?" Mencia exposes the
+     exclusionary work of the foundational binary that identifies
+     race in Black/White terms with a logic that reintroduces the
+     combinatory: If you're white, you're white in L.A. Go to Miami
+     and you're still white. If you're black in L.A., go to New York
+     and you're still black. Referring to himself, Mencia points out
+     that in L.A. he's a Mexican. "If I go to Miami, I'm a Cuban. And
+     if I go to New York, I'm..." He gestures to the audience who
+     respond "Puerto Rican." "See," he concludes, "You know what I'm
+     talking about." Shunted off to the racial unconscious by a
+     foundational Black/White race-ism, Mencia's own race must be
+     articulated by indirection. Thus, the unary signifier "Hispanic"
+     remains in the linguistic Otherness and only enters the joke
+     obliquely, as a signifier for another
+     signifier--[Hispanic]/Mexican, [Hispanic]/Cuban,
+     [Hispanic]/Puerto Rican. Mencia's comedic tactic parallels the
+     strategy Benita Parry praises in Bhabha's post-colonial theory:
+     Bhabha "show[s] the wide range of stereotypes and the shifting
+     subject positions assigned to the colonized in the colonialist
+     text" in order to liberate "an autonomous native 'difference'"
+     from the binary European/Other (41).[4] Similarly, Judith
+     Butler's Bodies that Matter works with the exclusionary logics
+     of both male/female and heterosexual/homosexual to open up the
+     combinatory expressions of sexual orientation these foundational
+     binaries preclude. Since these latter examples of linguistic
+     identity have ventured into the territory of complex Otherness
+     evocative of Lacan's theory of the registers, this is a good
+     point at which to distinguish clearly the doubling of alterity
+     in the symbolic and the imaginary.
+
+     There is no Other of the Other:
+     (but there is an other of the Other)
+
+ 12. The journey that eventually leads Lacan to the aphoristic
+     insistence that "there is no Other of the Other" (there is no
+     meta-language beyond language) begins with a denaturalization of
+     paranoid psychosis. The ideas Lacan forms during his medical
+     training lead him to counter the prevailing psychiatric view of
+     psychosis as a biologically-based personality trait by positing
+     a developmental phenomenology he only later finds in Freud.
+     Interested in folies à deux, and especially as such madness
+     manifests in women's "inspired" speech and writings, Lacan is
+     very much a man attuned to the surrealist 1930s.[5] What he
+     writes for medical journals he revises for surrealist journals,
+     but his interest is consistently in the otherness of the
+     other--an interest that culminates in mirror stage theory. The
+     interpersonal here seems undeniable. Lacan writes about the
+     crime of the two Papin sisters. He writes his thesis on the
+     psychotic Aimée's attack on a famous French actress. Moreover,
+     Lacan's many references to Hegel's struggle for recognition
+     between the Master and the Slave certainly imply an agon between
+     people rather than a contest within. Lacan's mirror stage essay
+     points out that a pigeon matures via an encounter with another
+     of its own kind. Even the mirroring moment can be read as
+     involving the infant and the mother. All in all, early on, Lacan
+     seems deeply involved with the interpersonal, the social, even
+     the cultural.
+
+ 13. Read against the retrospect of his later interests, mirror stage
+     theory appears to be Lacan's failed attempt to explain the
+     dynamics of an intrapsychic alterity in interpersonal terms. Not
+     until his theory of the registers does Lacan achieve the
+     post-humanist position he seeks. The dominance of a formative
+     phenomenology in the earlier essay gives "The Mirror Stage" its
+     interpersonal slant. In the theory of the registers, by
+     contrast, the phenomenal is folded within the structure of
+     language and intrapsychic structure is irremediably fissured
+     with the gaps between the imaginary, the symbolic, and the real.
+     Since none of the registers is confluent with the others, Lacan
+     avoids the problem of a seamless solipsism. He avoids a tabula
+     rasa subjectivity passively constructed from without as well.
+     So, it is not experience but experience's imagistic residue that
+     figures in the imaginary register. It is not the many instances
+     of communication with other people but language as a whole that
+     signifies in the symbolic. Nor is the model without constraint
+     since the real is always there as an unimaginable, unsignifiable
+     limit on what would otherwise constitute a psychic en abîme of
+     mirroring or signification without end.
+
+ 14. Models of the psyche necessarily inform analytic praxis, and
+     Lacan's theory of the registers is his attempt to come to grips
+     with the theory/practice gap. While Schema L as the sketch on
+     Lacan's chalkboard is not the model on the analyst's couch,
+     there is an intriguing and ambiguous family relationship between
+     the two. Though the terms may be the same, the contexts differ,
+     and working across the contextual divide can make Lacan's theory
+     appear to contradict itself, rendering straightforward
+     terminology paradoxical. The problem of discussing alterity is
+     made all the more difficult for Lacan because he continually
+     engages the divide between the interpersonal situation of
+     analysis in practice and the intrapsychic dynamics that
+     underwrite whatever interventions analytic practice makes.
+     Practice motivates the transition from mirror stage theory to
+     register theory as the latter is announced in Lacan's manifesto
+     on the function of speech and language in the Freudian field.
+     His paper takes issue with non-Lacanian forms of analysis that
+     he finds therapeutically inadequate precisely because of their
+     emphases on the interpersonal. Increasingly, Lacan insists that
+     analysis must be a process in which the analyst creates a
+     therapeutic context where the analysand's intrapsychic processes
+     are the only processes in play. The cadaverous, "dead" position
+     of the Lacanian analyst is meant to deconstruct analysis as
+     humanistic interaction. Thus, Lacan's discussion of Otherness
+     must be read with special attention to context for three
+     reasons: because Otherness is a term that Lacan himself doubles
+     in his structural theory of the registers and in his dynamic
+     theory of desire, because it is a term that defines an
+     intrapsychic process and determines an interpersonal practice,
+     and because it is a signifier shared by the discourse of
+     analysis and by everyday language.
+
+ 15. Since the idea of otherness is a term whose name--"the
+     other"--remains the same but whose implications change, Lacan
+     provides many interpretations of otherness. Some of the examples
+     contrast the other with the Other and emphasize the distinction
+     between the registers. In his second seminar, for instance, he
+     compares the "radical Other" as one "pole of the subjective
+     relation," with the "other which isn't an other at all, since it
+     is essentially coupled with the ego, in a relation which is
+     always reflexive, interchangeable" (321). Bearing in mind that
+     Lacan is discussing a subjective rather than an intersubjective
+     relation, and that the reflexive coupling of other with ego is
+     an intrapsychic phenomenon for which another person is, at best,
+     a prop or a pretext, consider this elaboration of the analyst's
+     alterity: the analyst "partakes of the radical nature of the
+     Other, in so far as he is what is most inaccessible" to the
+     extent that the analyst's own ego is "effaced" and the analyst's
+     resistance is not aroused (324). The analyst's refusal to play
+     along with the game dictated by the ego of the analysand throws
+     the analysand back into a confrontation with the intrapsychic
+     gap between the other and the Other, since expecting to confirm
+     the former the analysand encounters the latter. So, "what leaves
+     the imaginary of the ego of the subject is in accordance not
+     with this other to which he is accustomed, and who is just his
+     partner, the person who is made so as to enter into his game,
+     but precisely with this radical Other which is hidden from him"
+     (324). Without another person to play along with the habitual
+     imaginary game, the subject looks to the intrapsychic Other. If
+     the analysis is successful, the Other will yield to the subject
+     its Truth.
+
+ 16. Appropriately, one of Lacan's exemplary readings of radical
+     alterity occurs in his Seminar III on psychosis, where he
+     presents an analytic case study exploring the speech of a
+     paranoid young woman. In this reworking of his analytic roots,
+     Lacan presents a clear decentering of the imaginary other from
+     the symbolic Other. The disjunction is evident in Lacan's
+     redefinition of psychotic projection--which might seem to be
+     classically imaginary--as a mechanism that has been "placed
+     outside the general symbolization structuring the subject" and
+     returns "from without" (47). Lacan's patient is a "girl" who
+     tells him about her "run-in in the hallway with an ill-mannered
+     sort of chap," a married man who was also the illicit lover of
+     her neighbor. While passing her in the hall, the man had
+     devalued her by saying a dirty word to her. But she herself had
+     spoken to him first, saying "I've just been to the butcher's"
+     [the charcutier, who specializes in pork]. He had responded:
+     "Sow!" In his analysis, Lacan's own response to the girl is a
+     mistake, he admits. He interprets. He shows his analysand that
+     he understands her comment "I've just been to the butcher's" as
+     a reference to pork, and by doing so he "enter[s] into the
+     patient's game... collaborat[ing] in [her] resistance" (48).
+     Though he does not explicitly articulate his failure in terms of
+     the registers, the distinction is clear. Lacan, through his
+     display of "understanding," has reinforced the patient's
+     imaginary at the expense of asking, symbolically, why there is
+     something in the patient's speech to be understood. The analytic
+     question is: "Why did she say, I've just been to the butcher's
+     and not Pig?" (48-49).
+
+ 17. Lacan goes on to insist that the interaction between the girl
+     who might have said "Pig!" and the man who calls her "Sow!" is
+     not an instance of his maxim that in speech the subject receives
+     her message in an inverted form. In other words, here, the
+     message should not be constructed as a symbolic exchange since
+     the message at issue "is not identical with speech, far from it"
+     (Sem III 49). The girl herself is enmeshed in the desire of her
+     neighbor and the neighbor's lover, a desire of which she is
+     censorious to the point of wondering whether it is possible
+     "through taking legal action, to get them into hospital" (49).
+     She had been friends with the neighbor until the love affair
+     interrupted the friendship; afterwards she intruded on the
+     couple while they were dining or reading or "at their toilet"
+     until they threw her out. So Lacan rereads the conversation's
+     intrapsychic implications: "Sow, what is that? It is effectively
+     her message, but is it not rather her message to herself?" (49).
+     The analysand's ego has met her alter ego in the hallway; the
+     moment is a mirror.
+
+ 18. Lacan connects this case study to his schema of subjectivity:
+
+          ... Is it the reality of objects that is at issue? Who
+          normally speaks in reality, for us? Is it reality, exactly,
+          when someone speaks to us? The point of the remarks I made
+          to you last time on the other and the Other, the other with
+          a small o and the Other with a big O, was to get you to
+          notice that when the Other with a big O speaks it is not
+          purely and simply the reality in front of you, namely the
+          individual who is holding forth. The Other is beyond that
+          reality.
+
+          In true speech the Other is that before which you make
+          yourself recognized. But you can make yourself recognized
+          by it only because it is recognized first. (50-51)
+
+     Having thus clarified the impersonal nature of the big Other,
+     Lacan notes that in the paranoid insult, the Other is not in
+     question since the patient doesn't recognize the Other "behind
+     him who is speaking. She receives her own speech from him, but
+     not inverted, her own speech is in the other who is herself, the
+     little other, her reflection in the mirror, her counterpart"
+     (51). Though she seems to look at another person, the girl sees
+     only herself.
+
+ 19. The distinction Lacan makes here between the Other and the
+     other, between the symbolic and the imaginary, involves the pact
+     of language. Part of the process of recognition for the Subject
+     as a subject involves the risky business of addressing the
+     absolute Other beyond all that is known. Addressed to another
+     person, the very Otherness of speech puts that person in a
+     position to be recognized by the speaker and to recognize the
+     speaker in return because both speakers share a symbolic
+     commitment of which neither speaker is the origin. Committed
+     speech is discourse, which for Lacan "includes acts, steps, the
+     contortions of puppets, yourselves included, caught up in the
+     game... An utterance commits you to maintaining it through your
+     discourse, or to repudiating it, or to objecting to it, or to
+     conforming to it, to refuting it, but, even more, to complying
+     with many things that are within the rules of the game" (51).
+     With these relationships between the registers, alterity,
+     discourse, and the pact in mind, I want to return to two
+     discourses on identity and Otherness that address Lacan's
+     register theory directly--one by invoking it, another by
+     repudiating it--in order to explore the link between discourse
+     and symptom.
+
+     Discourse, Symptom, and Otherness:
+     "The unconscious is the discourse of the Other."
+
+ 20. The following two examples of the discourse of identity
+     theory--Abdul R. JanMohamed's "The Economy of Manichean
+     Allegory" and Judith Butler's "The Lesbian Phallus and the
+     Morphological Imaginary"--offer critiques engaging Lacanian
+     Otherness. As critiques, these essays are discourses about
+     discourses, meta-discourses in which Otherness signifies.
+     Because meta-discourses offer levels of complexity, symptoms
+     appear in such discourses as deflections of the discursive flow
+     as such. Briefly, the Lacanian symptom, like the letter in the
+     "Purloined Letter," is "a fourth element, which can serve... as
+     signum" (Sem I 280). The symptom operates to link the imaginary
+     and the symbolic into signs which figure against the real of
+     "the organism as ground" (280). Slavoj Zizek points to the
+     element of repetition involved in the Lacanian symptom,
+     identifying the symptom as "a particular signifying formation
+     which confers on the subject its very ontological consistency...
+     if the symptom is dissolved, the subject itself loses the ground
+     under his feet, disintegrates" (155). This element of
+     consistency conferred by the symptom is characteristic of what
+     Lacan calls the "narcissistic Bildung" of the ego and relates to
+     the repetitious character of empty speech. Since theoretical
+     terms easily empty themselves of meaning (as theory's opponents
+     tirelessly point out), the "Other" may mark a symptom in a
+     discourse of identity.
+
+ 21. In this first encounter between identity theory and Lacanian
+     analysis, Abdul R. JanMohamed uses the Lacanian registers to
+     make a distinction between forms of colonial discourse. A useful
+     error--possibly a symptom--occurs in JanMohamed's essay at the
+     point where the discourse of post-colonialism disrupts the
+     discourse on the registers forcing an either/or choice between
+     irreconcilable constructions of Otherness. This error provides a
+     helpful comparison to a similar error in Butler's chapter, an
+     error productive of a symptom at every level of Butler's
+     discourse, from the literal, to the paradigmatic, to the
+     interpretive. Since from the analytic point of view both the
+     error and the symptom locate discursive truth, both JanMohamed
+     and Butler tell the truth about the encounter between theories
+     of identity and the Lacanian registers.
+
+ 22. The registers appear as unified and unifying descriptive
+     categories when Abdul R. JanMohamed writes "I would argue that
+     colonialist literature is divisible into two broad categories:
+     the 'imaginary' and the 'symbolic'" (19). Next, JanMohamed goes
+     on to transcend the categorical in a sophisticated contrast
+     between the work that aggressivity does in the 'imaginary' text
+     and the work that mediation and problematization do in the
+     'symbolic' text. Having employed a Lacanian discourse to frame
+     his discussion of the colonialist novel, however, JanMohamed
+     writes that some "symbolic" novels are "conceived in the
+     'symbolic' realm of intersubjectivity, heterogeneity, and
+     particularity but are seduced by the specularity of 'imaginary'
+     Otherness" (19-20). This sudden collapsing of the distinction
+     between the registers in the error "'imaginary' Otherness" is
+     jarring to any reader familiar with Lacan. Abdul R. JanMohamed
+     has broken the law!
+
+ 23. Since JanMohamed's essay provides exemplary instances both of
+     discursive creativity and of discursive failure as they impact
+     the relation between the writer and his reader, I want to review
+     the sequence above in two ways. First, I will look at the
+     interpersonal symbolic law of discourse that, once invoked,
+     binds writer to reader in an intrasubjective and impersonal
+     pact. The writer's thesis invokes Lacan's discourse of the
+     registers and asks the reader to be bound by the pact that this
+     discourse constitutes. This is a symbolic pact par excellence
+     since neither the writer nor the reader originate the discourse
+     but both agree to be bound by its rules in order to allow the
+     possibility of a meaningful exchange, in order to agree on the
+     terms by which they will produce meanings together. Since the
+     writer has selected a Lacanian discourse, 'imaginary' and
+     'symbolic' cease to be overdetermined signifiers in the
+     linguistic unconscious. 'Imaginary' and 'symbolic' now invoke a
+     set of relations defined by Lacan's discourse, a discourse in
+     which these terms signify in quite specific ways. Because and
+     only because he has involved his reader in this pact of the
+     registers, JanMohamed is free to explore the implications of the
+     encounter between Lacanian theory and the colonialist novel. As
+     the writer elaborates the particulars of the work of the
+     imaginary in the colonialist novel, the reader can appreciate
+     JanMohamed's insight because the reader sees the colonialist
+     novel in fresh and interesting ways and because the fruitful
+     encounter between the Lacanian imaginary and colonialist fiction
+     reveals new and unforeseen implications of the imaginary
+     register itself. Creativity thus requires the law; creativity is
+     paradoxically both bound to the law and unbound by it.
+
+ 24. The moment JanMohamed writes "'imaginary' Otherness," he breaks
+     the law of Lacanian discourse and cancels his pact with the
+     reader. Until the violation occurs, the reader is bound by the
+     pact called "Lacanian discourse"; "imaginary," "symbolic," and
+     "Otherness" hold out the possibility of meaning-making (though
+     they do not guarantee it). At the breaking of the pact, the
+     terms cease to be terms within a discourse; released from the
+     pact they are signifiers only. Lacking their discursive support,
+     "imaginary" and "Otherness" thus signify randomly. Because he
+     has broken his Lacanian pact with the reader, the reader has no
+     possible way to grasp what JanMohamed might be trying to signify
+     by "'imaginary' Otherness." No context can stabilize what
+     fractured discursive syntax has set free. Since signification
+     outside the pact is idiosyncratic, the effect of the broken pact
+     is to change "imaginary" and "Otherness" into random markers
+     that preclude creativity in both the writing and the reading.
+     The markers come and go--in and out of the linguistic
+     unconscious--for reasons that may or may not be related to the
+     colonialist novel, the stated project at hand. Once the pact has
+     been broken by the writer, the reader can always declare the
+     discursive failure an accident and continue as if the pact were
+     still in place--but the reader is now on alert and any
+     additional error will render the text indecipherable in terms of
+     its stated project.[6]
+
+ 25. Besides the rupture of interpersonal give and take between
+     writer and reader, the collapse of this fruitful contact between
+     the discourse of the colonial novel and Lacan's discourse of the
+     registers in JanMohamed's essay signifies intrapsychically as
+     the deformation of one discourse by another. If repeated,
+     "'imaginary' Otherness" becomes a symptom rather than an error,
+     and the essay manifests a subjective encounter with Otherness
+     far beyond its post-colonial critique. Consequently, the
+     discursive symptom provides a profitable alternative to the
+     sterile fusion of Lacanian theory with the discourse of
+     post-colonialism. Because Lacan's distinction between the
+     registers implies a decentering of Otherness that JanMohamed
+     cannot maintain while simultaneously committed to a
+     post-colonial construction of Self and Other, the reader is
+     moved to ask why there is a symptom in the discourse at this
+     point. It seems that the entified Other appears here as the
+     symptom of a post-colonial commitment that runs deeper than the
+     Lacanian discourse to which the writer is ostensibly committed.
+     Since the Other of humanism cannot signify save by suturing the
+     gap between the imaginary other and the symbolic Other, this is
+     precisely what JanMohamed does. The repressed post-colonial
+     humanism returns in the symptomatic fusion of "'imaginary'
+     Otherness."
+
+ 26. The discursive symptom manifest in Abdul R. JanMohamed's essay
+     signifies psychoanalytically because he intends to use the
+     Lacanian registers to frame his exploration of the colonial
+     novel. A very different discursive symptom arises in Judith
+     Butler's influential critique of Lacanian analysis, Bodies that
+     Matter, a critique in which she doubts that the registers
+     signify at all. Here, a fusion of Lacanian registers pervades
+     Butler's discussion of "The Lesbian Phallus and the
+     Morphological Imaginary." While both Butler and JanMohamed
+     effect symptomatic erasures of the Lacanian other, the
+     symptomatic erasure in Butler manifests distinctively--as an
+     inability to accurately quote Lacan's own text in spite of her
+     extraordinary scholarly rigor.[7] The misquotations enter her
+     discussion from the moment Butler denies the distinction between
+     the registers, but the symptom is prefigured by her insertion of
+     Lacan's structural theory of the registers into his essay on the
+     mirror stage.
+
+ 27. Butler's chapter conflates psychoanalytic models that are
+     theoretically and historically distinct--both Freudian models
+     and Lacanian ones, and this conflation lays the theoretical
+     groundwork from which the symptomatic misquotations arise. Thus,
+     Butler reads "On Narcissism" against The Ego and the Id, though
+     the former belongs to a mid-Freudian model that differs
+     significantly from the last "entified" model of a psyche
+     composed of Id-Ego-Superego. Similarly, Butler uses Lacan's
+     mirror stage essay to argue for the imaginary nature of the
+     phallus in "The Signification of the Phallus"--even though the
+     former essay provides a coda to Lacan's early phenomenal and
+     developmental model of the psyche while the latter condenses a
+     portion of the seminar on desire, a seminar reflecting Lacan's
+     structural theorizing at its strongest. As we have earlier seen,
+     though mirror stage theory and register theory do share
+     signifiers, their variant theoretical models constellate variant
+     signifieds; if the terms remain the same, their meanings have
+     structurally altered. However, the alteration fails to make its
+     way into Butler's critical assimilation of the latter model to
+     its predecessor.
+
+ 28. Butler's most overtly symptomatic collapsing of the Lacanian
+     registers reveals itself in her persistent error in directly
+     quoting the text of Lacan's early seminars. Like JanMohamed,
+     Butler substitutes the symbolic Other for the mirroring other.
+     It is as if, having merged mirror stage theory with register
+     theory, Butler is literally unable to see a significatory
+     difference between the two. As a result, Butler continually
+     fails to distinguish the imaginary other from the symbolic
+     Other, a collapse of terminological distinction equivalent to
+     suggesting there is no difference between the Subject and the
+     ego. Since the distinction within alterity is so central to
+     Lacanian theory generally and to his model of the Subject of the
+     unconscious specifically, other and Other are definitional.
+     Moreover, the other and the Other draw a precise and consistent
+     distinction between the mirroring imaginary and the symbolic
+     treasury of signifiers. By continually effacing the imaginary
+     other with the symbolic Other, Butler indeed does what she
+     explicitly states as her essay's goal: she "rewrit[es] the
+     morphological imaginary" (72) though the rewriting is far more
+     literal than her subheading implies.
+
+ 29. Where Lacan speaks of the body finding its unity "in the image
+     of the other" with a small o (Sem II 54), Butler rewrites "in
+     the image of the Other" with a capital (75), and where Lacan
+     writes "the imaginary structuration of the ego forms around the
+     specular image of the body itself, of the image of the other,"
+     small o, imaginary other (Sem II 94), Butler again revises to
+     "the image of the Other" with a capital O (76), collapsing
+     Lacan's straightforward structural distinction and begging the
+     issue of structural difference. Butler perpetuates the error in
+     her own discussion, commenting that "the specular image of the
+     body itself is in some sense the image of the Other" (76) and
+     that the "extrapolating function" of narcissism is the
+     "principle by which any other object or Other is known" (77).
+     There is no small irony in Butler's symptomatic misquotation of
+     Lacan given her rigorous inclusion of parallel phrases from both
+     French and English texts, and carefully documented citations
+     from both the French and English seminars.[8] But as Lacan
+     points out, the unconscious is always visible, right there,
+     literally spelled out in the symptom in the text--and Butler's
+     text proves no exception to this Lacanian rule.
+
+ 30. The symptomatic disappearance of the imaginary other in Butler's
+     thoroughgoing critique of the mirror stage essay parallels the
+     conflation of the registers in JanMohamed's essay. In
+     JanMohamed's criticism, the symptom arises at the moment of
+     discursive incompatibility between the post-colonial paradigm of
+     Self and Other and the Lacanian distinction between an other and
+     the Other as the unconscious locus of language. Is there a
+     similar discursive rupture in Butler's argument? Looking more
+     closely at Butler's actual text may be helpful here. The
+     substitutions begin in citations in which Lacan specifically
+     mentions the body in connection with the registers--so Butler's
+     central concern in Bodies that Matter and her theory of
+     performativity are both at stake when the misquotations begin.
+     Her page-long explication of Lacan's mirror stage theory in
+     which five symptomatic substitutions of the symbolic Other for
+     the imaginary other occur also addresses the body, specifically
+     the "organs [that] are caught up in the narcissistic relation"
+     (76-77). The following page of text, on which the symptomatic
+     substitution occurs three more times, argues that the previously
+     generic "organs" may be "the male genitals" (77), and if so,
+     Lacan's mirror stage theory grounds itself on a specifically
+     masculine narcissism. Butler concludes that the narcissistically
+     engaged masculine organs now condition and structure every
+     object and Other, and as a result, the "extrapolating function"
+     of narcissism raised to an epistemological principle becomes
+     phallogocentric. In short, a phallic imaginary is masculine and
+     any explanatory function such an imaginary might serve is
+     inherently phallogocentric. Therefore, it is from Lacan's
+     phallogocentrism that Butler's lesbian phallus liberates us,
+     providing a subversive substitute for the hetero/sexist Phallic
+     Signifier that she herself has taken great pains to introduce
+     into the Lacanian imaginary register.
+
+ 31. Here, more explicitly, is the problem. Lacan theorizes that
+     there is a privileged signifier in the symbolic register and
+     that this privileged symbolic signifier is the phallus. Butler
+     wants to argue against the real of the body, wants to argue that
+     the body is "a process whereby regulatory norms materialize
+     'sex' and achieve this materialization through a forcible
+     reiteration of those norms" (2). Thus, Butler's theory of
+     materialization stops short of the radical constructionist claim
+     that the body is only a symbolic construct. She finds an
+     appealing alternative to constructionism in Lacan's early theory
+     where the imagined, alienated body appears in the mirror. This
+     Lacanian mirroring replication supports Butler's theory of
+     materialization. But Lacan did not stop with his mirror stage
+     theory, and though he once situated the body helpfully in the
+     imaginary, he later positioned the phallus in the symbolic
+     register--where Butler very much needs it not to be if her
+     argument for a projective materialization of a phantasmatic
+     phallus is to succeed. Consequently, a collapsing of Lacanian
+     paradigms and issues ensues.
+
+ 32. After arguing for the imaginary nature of the penis, Butler goes
+     on to suggest that Lacan has simply renamed the penis the
+     phallus (80); further, that the penis is the "privileged
+     referent" to be symbolized by the phallus (84); and finally,
+     that the relationship between penis and phallus (and by
+     implication between imaginary and symbolic) is the relationship
+     of signified to signifier (90). But issues of significatory
+     slippage are not issues of reference, nor are they issues of
+     meaning, and this series of conflations simply reiterates the
+     earlier fusion of psychoanalytic models, creating a theoretical
+     pastiche against which Butler then argues with great
+     sophistication and subtlety.[9] Given the persistent insertion
+     of the symbolic into the imaginary, and the assimilation of the
+     symbolic construct phallus to the image of the penis, it is not
+     surprising to hear Butler conclude that "if the phallus is an
+     imaginary effect, a wishful transfiguration, then it is not
+     merely the symbolic status of the phallus that is called into
+     question, but the very distinction between the symbolic and the
+     imaginary" (79). But just whose wishful transfiguration does
+     Butler's text demonstrate, we may want to ask, since the
+     symptom, Freud tells us, marks the location of the wish and it
+     has clearly been Butler's wish to do away with the distinction
+     between the registers all along. Since Butler's critique merges
+     Lacan's phallic discourse of desire with his theory of the
+     registers, I next distinguish betweeen these two in "The
+     significantion of the phallus," Lacan's most controversial
+     essay. Returning the phallic signifier to the symbolic register,
+     in turn, shows how the signifying phallus generates a
+     post-humanist Otherness.
+
+     "Man's [sic] desire is the desire of the Other"
+
+ 33. Lacan's hypothesis of the phallic signifier offers a
+     many-layered theory of unconscious Otherness at odds with any
+     conscious marking of any human being as an "Other." While the
+     Lacanian unconscious locates power in Otherness, the phallic
+     signifier, by contrast, locates power in subjectivity. Unlike
+     the unity of the imaginary imago, which provides a simple
+     referential image of an other, the symbolic phallic signifier
+     constrains Otherness by buttoning a signifier, an
+     identification, and a discourse together into one neat package.
+     In the wildly overdetermined signifying multiplicity of the
+     symbolic register, the phallus provides a determined and
+     determining force. It is precisely the phallic propensity for
+     self-replication that inseminates the reproduction--the
+     reiteration as Butler calls it--of the Subject. What is at issue
+     in Lacan's polemic "The Signification of the Phallus" is the
+     predominant role of this phallic signifier as the Aufhebung of
+     signifying difference per se. Since this is a far more complex
+     idea than either the decentering of the Subject or the gap
+     within alterity, we will proceed slowly. Lacan insists that
+     seven years of seminars have brought him to the conclusion that
+     he must "promulgate as necessary to any articulation of analytic
+     phenomena the notion of the signifier, as opposed to that of the
+     signified" (284); he must insist on the priority of the marker
+     over its meanings. Freud's discovery, which predates Saussure's
+     retroactive linguistic explication of it, "gives to the
+     signifier/signified opposition the full extent of its
+     implications: namely that the signifier has an active function
+     in determining certain effects in which the signifiable appears
+     as submitting to its mark" (284). Thus, the active, agentic
+     function of language resides in mark-making, and signifying is
+     an active rather than a reflective process.
+
+ 34. That a subject is the product of a linguistic unconscious should
+     not be taken as evidence of this subject's "cultural"
+     construction (284), nor should a subject be seen as the product
+     of an "ideological psycho-genesis" (285). Lacan sees Horney's
+     feminist social-psychological analysis as the latter and
+     dismisses all such "question-begging appeal to the concrete"
+     (285). Appeal to the concrete is beside the Freudian point. The
+     only laws that interest Lacan are the laws that govern the other
+     scene of the unconscious, the laws of combination and
+     substitution--of metaphor and metonymy--by which signifiers
+     generate the "determining effects for the institution of the
+     subject" (285). Lacan goes on to define the Other as that by
+     which he "designate[es]... the very locus evoked by the recourse
+     to speech in any relation in which the Other intervenes" (285).
+     The logic of the signifier is thus anterior to the production of
+     meaning, the "awakening of the signified" (285)--suggesting that
+     meaning is discovered rather than made wherever the unconscious
+     is in play.
+
+ 35. Lacan next invokes his theory of the registers to reiterate his
+     argument for the symbolic character of the phallus as a
+     privileged signifier. The phallus of Freudian doctrine cannot be
+     assigned to the imaginary register because it "is not a
+     phantasy" (285). Nor is it constrained by the biological real of
+     "the organ, penis or clitoris, that it symbolizes" (285). "For
+     the phallus is a signifier," Lacan concludes, having made his
+     case for the location of the signifying phallus in the symbolic
+     register. But it is a signifier with a difference from other
+     signifiers. The phallus is a signifier that can "designate as a
+     whole the effects of the signified" (285). We can tell that a
+     phallic signifier is present by its effects. And what are these
+     effects? The linguistic fate of the speaking being is to be
+     unable to articulate need save as a demand that empowers the
+     Other as a repository of love. The residue of inarticulable need
+     returns from this Otherness as desire.
+
+ 36. Need/demand/desire. Lacan reiterates the relationship between
+     the three: "desire is neither the appetite for satisfaction, nor
+     the demand for love, but the difference that results from the
+     subtraction of the first from the second" (287). Thus, while
+     real needs can be satisfied, imaginary demands may
+     persist--opening a gap generative of desire. This intrapsychic
+     formula for desire leads Lacan to think relationally, and so he
+     goes on to rework the role of the Other in terms of the sexual
+     relation. Now, the sexual relation is rendered enigmatic because
+     it is "doubly 'signifying'" and ambiguous because of "the Other
+     in question." The ambiguity arises here from the fact that the
+     Other has a place in both the discourse of the registers and the
+     discourse of desire. Here, moreover, the intrapsychic and the
+     interpersonal seem utterly and ambiguously mixed. Thus, "for
+     both partners in the relation, both the subject and the Other,
+     it is not enough to be subjects of need, or objects of love,
+     but... they must stand for the cause of desire" (287).
+     Subject/object/Other meet Subject/object/Other Lacan seems to be
+     saying--weaving a double discourse of the intrapsychic with the
+     interactive.
+
+ 37. Since the sexual relation seems to involve the signifying
+     phallus irretrievably in the interpersonal beyond of
+     signification, I want to review the intrapsychic dynamics of
+     this crucial Lacanian concept. First, Lacan has repeatedly told
+     us that the signifier is binary--and he has exemplified this
+     binary signifier in paired relations such as day/night, and red
+     cards/black cards. The sexed (reproductive) relation is binary
+     as well, feminine/masculine. Next, however, Lacan tells us that
+     the phallus is a "privileged signifier," a signifier of the
+     sexual relation that we are to take in the "literal
+     (typographical) sense of the term" (287). And how is this
+     literal phallic pictogram of "the sexual relation" written? F
+     Thus, Lacan concludes, the phallus is "equivalent... to the
+     (logical) copula" (287). In the larger context of Lacan's
+     discussion of the binary symbolic signifier, the phallus is the
+     foundation signifying as such. The phallic signifier, the
+     foundational difference in and of itself, is rendered latent by
+     the emergence of the signifying binary terms. "The phallus is
+     the signifier of this Aufhebung itself, which it inaugurates
+     (initiates) by its disappearance" (288); thus "reproduction"
+     disappears leaving behind the signifying difference
+     "female"/"male" or "race" disappears from the foundational
+     distinction "black"/"white." Where has the phallus gone now that
+     the paired terms appear? It is retained as the bar separating
+     the terms, a signifier rendered inarticulable by the terms it
+     leaves behind, yet simultaneously a signifier imperative to
+     their signifying difference.
+
+ 38. To those who feel this reading of "The Signification of the
+     Phallus" constitutes a recuperation of an irreparably
+     phallogocentric discourse, I can only say that Lacan's logic of
+     the phallus captures the foundation in foundational thinking
+     vividly. As a result, this phallogicentrism provides an
+     extraordinarily valuable analytic tool. For me, the
+     phallogicentrism of the essay is a discourse separable from the
+     essay's 1950s-style cultural discourse on the role of the man
+     and the role of the woman in the comedy of intercourse. When
+     Lacan begins to read the cultural "relation between the sexes"
+     (289) in the essay's concluding polemic against Melanie Klein,
+     he lapses into a heteronormative construction of sexed Love that
+     ends with an apparent affirmation of Freud's intuition that
+     there is "only one libido" and it is masculine. On first
+     reading, years ago now, this section of the essay struck me as
+     irrecuperably sexist and heterosexist--though it is imperative
+     here to point out that the Freudian libido has nothing (no
+     thing?) in common with the Lacanian imaginary. I can only note
+     with some amusement that I found penciled in my margin of this
+     concluding section "time for a lesbian deconstruction." On this
+     account, Judith Butler has read my desire. Now, since Butler has
+     returned, I want to bring back theories of identity for one last
+     encounter with Lacanian Otherness.
+
+     "The unconscious is the discourse [emphasis mine] of the Other"
+
+ 39. The widespread insistence that Lacan's brief écrit on the
+     phallus is about dominance (and only dominance) rather than
+     difference exemplifies the kind of foundationalism Lacan
+     indicates by the phrase "having the phallus." Moreover, folding
+     this foundation back into an imaginary identification--presuming
+     that one is oneself the "Other" of a Self/Other binary--is an
+     instance of "being the phallus." Gayatri Spivak notes just such
+     a phallic politics of identification in "the fierce turf battles
+     in radical cultural studies in multiracial cultures as well as
+     on the geo-graphed globe, where the only possible politics seems
+     sometimes to be the politics of identity in the name of being
+     the Other" (159). Preferring the symbolic to the imaginary (as
+     Lacan himself does), Spivak applauds those who stand up for the
+     rights of groups with whom they are not primarily identified.
+     Playing the F card (whether the phallic investment is in sex,
+     race, class, or nation) may well be the solution to putting
+     one's own identity concerns on the table--both for Lacan and for
+     his critics--but in terms of the registers, this solution
+     refuses the encounter with the unconscious as the discourse of
+     the Other. Instead, the primarily identified analyst understands
+     rather than listens; knows in advance rather than finds out.
+     Consequently, phallic foundationalism is a tactic with which
+     Lacan does not agree, though it is a tactic to which he is not
+     himself perpetually immune, especially when he is caught up in
+     polemics over the practice of psychoanalysis.
+
+ 40. In matters of politics more generally, Lacan remains skeptical,
+     feeling that those who oppose oppression today will, once
+     empowered, commit the very oppression they accuse. He compares
+     the idealistic reformer to Hegel's belle âme. The beautiful soul
+     lives "(in every sense, even the economic sense of making a
+     living) precisely on the disorder that it denounces" (Écrits
+     126), enabling us to "understand how the constitution of the
+     object is subordinated to the realization of the subject" (80).
+     More briefly and cynically put, the entified "Other" may be no
+     more than a pretext for the subject's speech, or tenure. By
+     contrast, analysis shows the way in which "identity is realized
+     as disjunctive of the subject" (80). It is precisely because the
+     subject is not the same as the ego identity that interpersonal
+     misapprehension can trigger the anxiety of intrapsychic
+     Otherness. Since the gesture of disowning Otherness is so very
+     protective of identity, it seems counterintuitive to own
+     alienation when it appears. At the moment of alienation the
+     subject has not merely reached its boundaries, it has exceeded
+     them. Grasping onto fixed identity as an anchor with which to
+     master the impending decentering is only logical--yet mastery is
+     ineffectual, and "analysts have to deal with slaves who think
+     they are masters, and who find in a language whose mission is
+     universal the support of their servitude, and the bonds of its
+     ambiguity" (Écrits 81).
+
+ 41. Since Lacanian analysis supports neither the discourse of
+     categorical identity nor the rhetoric of blame that so
+     frequently accompanies it, it might appear that Lacan has little
+     to offer political analysis, especially where issues of identity
+     are foremost. However, I believe that neither the otherness of
+     hostile objectification nor the Otherness productive of
+     alienation alone offers the resource for political critique that
+     examining the disjunction between the two affords. Carlos
+     Mencia's joke points to the alternative, to the location of
+     politicized difference in another scene that addresses the
+     phallic investment itself rather than the terms by which that
+     investment is veiled. Analysis can indeed locate the political
+     in another scene that is both a decentering of the subject and
+     an exposé of the epistemology of a fixed or fixable Otherness.
+     If ego identity is the certainty from which the subject is
+     decentered, then "the art of the analyst must be to suspend the
+     subject's certainties until their last mirages have been
+     consumed" (Écrits 43). If "psychoanalysis... reveals both the
+     one and the other [the individual and the collective] to be no
+     more than mirages" (80), then analysis seems at odds with the
+     Platonic emphasis on a Self/Other binary though not with
+     identity politics as a whole. Where identity is at issue, Lacan
+     insists that "it is not a question of knowing whether I speak of
+     myself in a way that conforms to what I am, but rather of
+     knowing whether I am the same as that of which I speak" (165).
+     Regarding alterity, Lacan's register theory would have us
+     withhold our demands and acknowledge our desires as our own so
+     that we can better listen for the discourse of the Other--if the
+     Other's Truth is what we genuinely desire to hear. And what is
+     Truth? "Truth is nothing other than that which knowledge can
+     apprehend as knowledge only by setting ignorance to work a real
+     crisis in which the imaginary is resolved, thus engendering a
+     new symbolic form" (296).
+
+ 42. Since the engendering of a new symbolic form was very much at
+     issue in the Macy Conferences on Cybernetics, I draw one final
+     example of the political use of decentered Otherness from N.
+     Katherine Hayles's critique of the Conference proceedings in her
+     recent book How We Became Posthuman (50-83). The Other's Truth
+     emerges through Hayles's analysis, even though her argument for
+     the dangerous supplementarity of embodiment to information
+     theory is, at least in part, a rejection of Lacan. The role of
+     Otherness here is all the more compelling because the discussion
+     illustrative of alterity is not an application of Lacanian terms
+     to cultural texts. Rather, Hayles's reading of the substitution
+     of one signifier for another recovers a woman held under erasure
+     by the same mark-effacing mechanism at work in Mencia's comic
+     replications of ethnicity.
+
+ 43. The woman in question appears in a photograph taken at the 1952
+     Macy Conference, the meeting at which psychoanalyst Lawrence
+     Kubie made his last ditch attempt to insert subjectivity into
+     the debates defining information as universally portable,
+     disembodied data. Unlike Kubie, Gregory Bateson, Margaret Mead,
+     and the other intellectual luminaries, the woman sits with her
+     back to the photographer. The position of her hands and body
+     suggest that she is typing. Though the picture's notation
+     identifies her as Janet Freud, Katherine Hayles points out that
+     she is in all probability Janet Freed, who appears throughout
+     the Macy transcripts as "assistant to the conference program"
+     (81). In the substitution of a famous man for an anonymous woman
+     Hayles has all she needs to propound a feminist reading of the
+     photograph as evidence of woman as "Other," marshalling the
+     remaining conference materials in support of this gendered
+     difference. But such a reading would betray a phallic investment
+     in gender, and Hayles does not yield to the temptation to play
+     phallic politics with Freud. Instead, she turns her attention to
+     another error: a handwritten note dating the photo of the 1952
+     Conference as "1953."
+
+ 44. By holding the 1952 meeting under erasure, attendees distanced
+     themselves from the hostilities erupting in its wake. At that
+     conference, the dueling paradigms of homeostasis and reflexivity
+     met head to head over the issue of scientific objectivity. The
+     dominant group of intellectuals, including the neurophysiologist
+     Warren McCulloch (credited as one of the fathers of the neural
+     net), propounded an idea of information founded on assumptions
+     of a detached observer safely distanced from the observed.
+     Arguing against McCulloch was the hard-line Freudian analyst
+     Lawrence Kubie, who insisted on the implication of the observer
+     in the observation. The stand-off between the two paradigms and
+     their champions exceeded the conference. A subsequent exchange
+     of demands testified to the otherness of theory as a mirror of
+     the ego identity of the theorist: McCulloch offered a fiery
+     denunciation of psychoanalysis; in response, Kubie set fellow
+     psychoanalysts the task of secretly observing McCulloch out of
+     "concern" for the scientist's emotional health. Though the
+     vehemence of this exchange suggests an irreconcilable face off,
+     both sides of the debate revolved around a single axis of
+     argument informed by a series of signifying oppositions:
+     objective/subjective, dispassionate/affective,
+     empirical/reflexive, rational consciousness/ unconscious
+     motivation--the thick epistemology of the 1950s.
+
+ 45. These are the oppositions across whose boundary conference
+     organizer Frank Fremont-Smith could not effect rapproachment,
+     perhaps because Kubie had angered the other participants by
+     seeing their positions as "resistance" to his own (Hayles
+     70-73). The aggressive emotional charge attached to
+     psychoanalysis could account for the phonemic association that
+     replaced the name of Fremont-Smith's assistant Janet /Fr/eed by
+     that of the trouble-making /Fr/eud. The double displacements of
+     name and of conference date bequeath their textual challenge to
+     Katherine Hayles in her search for the Truth of the Other of
+     information articulated by Janet Freed's return from the
+     repressed. Here is Hayles's analysis:
+
+          "Take a letter, Miss Freed," he says... A woman comes in,
+          marks are inscribed onto paper, letters appear, conferences
+          are arranged, books are published. Taken out of context,
+          his words fly, by themselves, into books. The full burden
+          of the labor that makes these things happen is for him only
+          an abstraction, a resource diverted from other possible
+          uses, because he is not the one performing the labor...
+          Miss Freed has no such illusions. Embedded in context, she
+          knows that words never make things happen by themselves...
+          On a level beyond words, beyond theories and equations, in
+          her body and her arms and her fingers and her aching back,
+          Janet Freed knows that information is never disembodied...
+          (82-83)
+
+     Having refused the easy politics of labeling Freed the Other,
+     Hayles discovers in Janet Freed the Truth of embodiment, at the
+     same time evoking a powerful feminist statement from the paradox
+     of Freed's visible invisibility. In the rich multivocality of
+     Otherness, Hayles hears Janet Freed speak for a class of labor
+     as well as for her gender: Freed's erasure by the proponents of
+     abstracted information suggests that free-floating information
+     feels intuitively true only to men of a certain class who are
+     "in a position to command the labors of others" (82). Finally,
+     in allowing Janet Freed's Truth to call into question the very
+     desire for decontextualized information itself, Hayles uncovers
+     a paradigmatic politics informing the 1952 Macy Conference on
+     Cybernetics.
+
+ 46. In all, N. Katherine Hayles's analysis demonstrates the
+     multi-discursivity of the Other's Truth; when asked to speak,
+     the Other has a lot to say. As a result, Hayles practices a
+     Lacanian politics of close listening. What she hears in the
+     Truth of the decentered Other is the encounter between the
+     discourse of desire and the discourse of the registers; thus,
+     Janet Freed appears in disappearing beneath the waves of
+     conferees' affect, beneath the sediment of their theoretical
+     language. Because Janet Freed speaks, because Hayles listens, we
+     find in their analytic encounter one final Lacanian Other. Janet
+     Freed returns as the authentic subject of interpersonal
+     exchange, the Other of whom the analyst must be perpetually
+     innocent. Lacan speaks of this "authentic Other" as another
+     subject to be appreciated for its alterity, its capacity to
+     surprise. This authentic Other is available to any subject who
+     is willing, like the Lacanian analyst, to annul the resistance
+     of her intrapsychic other and to accept the anxiety aroused
+     within her intrapsychic Otherness. Then the vital encounter
+     between two authentic subjects can aim "at the passage of true
+     speech, joining the subject to an other subject, on the other
+     side of the wall of language. That is the final relation of the
+     subject to a genuine Other, to the Other who gives the answer
+     one doesn't expect, which defines the terminal point in
+     analysis" (Sem II 246).
+
+ 47. And the terminal point in this discussion...
+
+                                 Department of English and Philosophy
+                                               Idaho State University
+                                                    vantamis@isu.edu
+
+     ----------------------------------------------------------------
+
+     COPYRIGHT (c) 2000 BY TAMISE VAN PELT, ALL RIGHTS RESERVED. THIS
+     TEXT MAY BE USED AND SHARED IN ACCORDANCE WITH THE FAIR-USE
+     PROVISIONS OF U.S. COPYRIGHT LAW. ANY USE OF THIS TEXT ON OTHER
+     TERMS, IN ANY MEDIUM, REQUIRES THE CONSENT OF THE AUTHOR AND THE
+     PUBLISHER, THE JOHNS HOPKINS UNIVERSITY PRESS.
+
+     THIS ARTICLE AND OTHER CONTENTS OF THIS ISSUE ARE AVAILABLE FREE
+     OF CHARGE UNTIL RELEASE OF THE NEXT ISSUE. A TEXT-ONLY ARCHIVE
+     OF THE JOURNAL IS ALSO AVAILABLE FREE OF CHARGE. FOR FULL
+     HYPERTEXT ACCESS TO BACK ISSUES, SEARCH UTILITIES, AND OTHER
+     VALUABLE FEATURES, YOU OR YOUR INSTITUTION MAY SUBSCRIBE TO
+     PROJECT MUSE, THE ON-LINE JOURNALS PROJECT OF THE JOHNS HOPKINS
+     UNIVERSITY PRESS.
+
+     ----------------------------------------------------------------
+
+                                  Notes
+
+     1. For a discussion of otherness in Plato's Sophist see
+     "Non-Being" in Stanley Rosen's Plato's Sophist: The Drama of
+     Original and Image, 269-290.
+
+     2. See de Beauvoir's note on Levinas in the introduction to The
+     Second Sex (New York: Vintage, 1989) xxii. The note is
+     interesting because de Beauvoir contains Levinas's discussion of
+     radical alterity as absolute contrariety by insisting it is
+     written from a masculine point of view that disregards "the
+     reciprocity of subject and object." However, for Levinas, as for
+     Lacan, subject and object are decidedly non-reciprocal--the
+     point Lacan expresses by distinguishing the imaginary register
+     of the image from the symbolic register of the radical Other.
+     Levinas reconsiders the idea of alterity in Outside the Subject
+     (Stanford: Stanford UP, 1994), trans. Michael B. Smith. See,
+     particularly, the concluding essay by that name.
+
+     3. Fanon himself does not hypothesize the term Other in Black
+     Skin, White Masks, but rather draws upon and critiques a number
+     of analysts and philosophers who do including Jean Veneuse,
+     Sartre, and Lacan.
+
+     4. See also Homi K. Bhabha's detailed study of post-colonialism
+     and alterity in "The other question: Stereotype, discrimination
+     and the discourse of colonialism," chapter three in his
+     collection The Location of Culture.
+
+     5. An entertaining account of Lacan's early interests and of his
+     overwhelming reliance on case studies involving women can be
+     found in Catherine Clément's "The Ladies' Way" in The Lives and
+     Legends of Jacques Lacan, 53-101.
+
+     6. It might seem that a reader innocent of Lacanian discourse
+     might be a "better" reader of JanMohamed's essay, since the
+     naïve reader would not discern the discursive impossibility of
+     the "'imaginary' Otherness." But in discourse as elsewhere,
+     ignorance of the law is no excuse. Since the naïve reader has no
+     discursive pact with the writer, what passes for reading is an
+     extra-symbolic exercise in idiosyncrasy. Lacking the pact,
+     "reading" would be a species of parasitic narcissism held
+     together--if it is held together at all--by the reader's
+     imaginary identification with the writer, a mirroring instance
+     of "reading" as "writing."
+
+     7. Butler is an astute critic of psychoanalysis and has,
+     throughout her career, raised significant issues about
+     psychoanalytic theory. Her article "Gender Trouble, Feminist
+     Theory, and Psychoanalytic Discourse" offers Butler's
+     characteristically precise analysis of psychoanalysis' and
+     feminist theory's implications for each other. See
+     Feminism/Postmodernism 324-40.
+
+     8. The irony of Butler's reading and its notable omission of the
+     imaginary other is emphasized by her apt focus on Lacan's most
+     emphatically structural of the early seminars, The Seminar of
+     Jacques Lacan, Book II, The Ego in Freud's Theory and in the
+     Technique of Psychoanalysis.
+
+     9. Reducing Lacanian theory to a unified field as Judith Butler
+     does supports binary notions of subject and symbolic Other,
+     turning Lacan's intrapsychic model into an interpersonal model
+     and rewriting Lacan in the terms of theories of identity more
+     discursively assimilable to a paradigm of performativity. This
+     interpersonal model is clearly politicizable and compatible with
+     the kinds of Foucauldian and deconstructive political impulses
+     that characterize Butler's own theory of "performance as
+     citation and gender as iteration" (Whitford, cover).
+     Politically, then, Butler needs to situate the point of infinite
+     substitution within a dualistic imaginary to accomplish her own
+     theoretical goals. Thus, the imaginary, in Butler's analysis, is
+     regarded as a field that functions in a structurally
+     unproblematic way.
+
+                               Works Cited
+
+     Ashcroft, Bill, Gareth Griffiths, and Helen Tiffin, eds. The
+     Post-Colonial Studies Reader. London: Routledge, 1995.
+
+     Bhabha, Homi K. "The other question: Stereotype, discrimination
+     and the discourse of colonialism." The Location of Culture.
+     London: Routledge, 1994.
+
+     ---. "Cultural Diversity and Cultural Differences." The
+     Post-Colonial Studies Reader. Ed. Bill Ashcroft, Gareth
+     Griffiths, and Helen Tiffin. London: Routledge, 1995. 206-209.
+
+     Brenkman, John. "The Other and the One: Psychoanalysis, Reading,
+     The Symposium." Literature and Psychoanalysis: The Question of
+     Reading: Otherwise. Ed. Shoshana Felman. Baltimore: Johns
+     Hopkins UP, 1982. 396-456.
+
+     Butler, Judith. Bodies that Matter: On the Discursive Limits of
+     "Sex." New York: Routledge, 1993.
+
+     ---. Subjects of Desire: Hegelian Reflections in
+     Twentieth-Century France. New York: Columbia UP, 1987.
+
+     ---. "Gender Trouble, Feminist Theory, and Psychoanalytic
+     Discourse." Feminism/Postmodernism. Ed. Linda J. Nicholson. New
+     York: Routledge, 1990. 324-340.
+
+     Chater, Melville. "Under the South African Union." The National
+     Geographic Magazine 59.4 (April 1931): 391-512.
+
+     Chen, Xiaomei. "Occidentalism as Counterdiscourse." In
+     Identities. Ed. Kwame Anthony Appiah and Henry Louis Gates, Jr.
+     Chicago: U of Chicago P, 1995. 63-89.
+
+     Clément, Catherine. The Lives and Legends of Jacques Lacan.
+     Trans. Arthur Goldhammer. New York: Columbia UP, 1983.
+
+     de Beauvoir, Simone. The Second Sex. New York: Vintage, 1989.
+
+     Fanon, Franz. Black Skin, White Masks. New York: Grove, 1967.
+
+     Feldstein, Richard, Bruce Fink, and Maire Jaanus, eds. Reading
+     Seminars I and II: Lacan's Return to Freud. Albany: SUNY Press,
+     1996.
+
+     Fink, Bruce. "The Subject and the Other's Desire." In Reading
+     Seminars I and II. Ed. Feldstein, Fink, and Jaanus. Albany: SUNY
+     Press, 1996. 76-97.
+
+     Freud, Sigmund. The Standard Edition of the Complete
+     Psychological Works of Sigmund Freud. Trans. and ed. James
+     Strachey. London: Hogarth Press and the Institute of
+     Psycho-Analysis; New York: Norton, 1953-73.
+
+     ---. "On Narcissism: An Introduction." SE XIV. 73-102.
+
+     Goldie, Terry. "The Representation of the Indigene." The
+     Post-Colonial Studies Reader. Ed. Bill Ashcroft, Gareth
+     Griffiths, and Helen Tiffin. London: Routledge, 1995. 232-236.
+
+     Greimas, A.J. On Meaning: Selected Writings in Semiotic Theory.
+     Trans. Paul J. Perron and Frank H.Collins. Minneapolis: U of
+     Minnesota P, 1987.
+
+     Hayles, N. Katherine. How We Became Posthuman: Virtual Bodies in
+     Cybernetics, Literature, and Informatics. Chicago: U of Chicago
+     P, 1999.
+
+     Jameson, Fredric. "Imaginary and Symbolic in Lacan: Marxism,
+     Psychoanalytic Criticism, and the Problem of the Subject." In
+     Literature and Psychoanalysis: the Question of Reading:
+     Otherwise. Ed. Shoshana Felman. Baltimore: Johns Hopkins UP,
+     1982. 338-396.
+
+     ---. Foreword. On Meaning: Selected Writings in Semiotic Theory
+     by A. J. Greimas. xvi.
+
+     JanMohamed, Abdul R. "The Economy of Manichean Allegory." The
+     Post-Colonial Studies Reader. Ed. Bill Ashcroft, Gareth
+     Griffiths, and Helen Tiffin. London: Routledge, 1995. 18-23.
+
+     Lacan, Jacques. De la Psychose Paranoïaque dans ses Rapports
+     avec la Personnalité. Thèse de Doctorat en Médecine de Paris.
+     Paris: Le François, 1932.
+
+     ---. "Discourse of Rome" or, more formally, "The function and
+     field of speech and language in psychoanalysis." Écrits, A
+     Selection. 30-113.
+
+     ---. Écrits, A Selection. Trans. Alan Sheridan. Ed.
+     Jacques-Alain Miller. New York: Norton, 1977.
+
+     ---, with Henri Claude and P. Migault. "Folies simultanées."
+     Société médico-psychologique, 21 May 1931. Annales médico
+     psychologique 1 (1931): 483-90.
+
+     ---. "Il n'y a pas d'Autre de l'Autre." Ornicar? 26/27 (1983):
+     26-36.
+
+     ---. Introduction. Écrits. 44-54.
+
+     ---. "The Mirror Stage as Formative of the Function of the I as
+     Revealed in Psychoanalytic Experience." Écrits, A Selection.
+     1-7.
+
+     ---. "Motifs du crime paranoïaque: le crime des soeurs Papin."
+     Le minotaure 3/4 (1933): 25-28.
+
+     ---. The Seminar of Jacques Lacan, Book I, Freud's Papers on
+     Technique, 1953-1954. Trans. John Forrester. Ed. Jacques-Alain
+     Miller. New York: Norton, 1991.
+
+     ---. The Seminar of Jacques Lacan, Book II, The Ego in Freud's
+     Theory and in the Technique of Psychoanalysis. Trans. Sylvana
+     Tomaselli. Ed. Jacques-Alain Miller. New York: Norton, 1991.
+
+     ---. The Seminar of Jacques Lacan, Book III, The Psychoses,
+     1955-1956. Trans. Russell Grigg. Ed. Jacques-Alain Miller. New
+     York: Norton, 1993.
+
+     ---. "Seminar on 'The Purloined Letter.'" The Purloined Poe:
+     Lacan, Derrida, and Psychoanalytic Reading. Eds. John P. Muller
+     and William J. Richardson. Baltimore: Johns Hopkins UP, 1988.
+     28-54.
+
+     ---. "Seminar VI: Le désir et son interpretation (1958-59)." Ed.
+     Jacques-Alain Miller. Ornicar? 24 (1981): 7-31; 25 (1982):
+     13-36; and 26/27 (1983): 7-44.
+
+     ---. Speech and Language in Psychoanalysis. Trans. Anthony
+     Wilden. Baltimore: Johns Hopkins UP, 1989.
+
+     Laplanche, J. and J.-B. Pontalis. The Language of
+     Psycho-Analysis. Trans. Donald Nicholson-Smith. New York:
+     Norton, 1973.
+
+     Levinas, Emmanuel. Outside the Subject. Trans. Michael B. Smith.
+     Stanford: Stanford UP, 1994.
+
+     Mencia, Carlos. The Tonight Show, NBC, August 8, 1997.
+     <http://www.nbc.com/tonightshow/tsw/tstswss080897.html>
+
+     Parry, Benita. "Problems in Current Theories of Colonial
+     Discourse." The Post-Colonial Studies Reader. Ed. Bill Ashcroft,
+     Gareth Griffiths, and Helen Tiffin. London: Routledge, 1995.
+     36-44.
+
+     Plato. Sophist. Plato: Collected Dialogues. Bollingen Series
+     LXXI. Trans. F.M. Cornford. Eds. Edith Hamilton and Huntington
+     Cairns. Princeton: Princeton UP, 1961.
+
+     Rosen, Stanley. Plato's Sophist: The Drama of Original and
+     Image. New Haven: Yale UP, 1983.
+
+     Sartre, Jean-Paul. Being and Nothingness: An Essay on
+     Phenomenological Ontology. Trans. Hazel E. Barnes. New York:
+     Philosophical Library, 1956.
+
+     Selden, Raman. A Reader's Guide to Contemporary Literary Theory,
+     Third Edition. Lexington, KY: UP of Kentucky, 1993.
+
+     Spivak, Gayatri Chakravorty. "Acting Bits/Identity Talk."
+     Identities. Eds. Kwame Anthony Appiah and Henry Louis Gates, Jr.
+     Chicago: U of Chicago P, 1995. 147-180.
+
+     Zizek, Slavoj. Enjoy Your Symptom!: Jacques Lacan in Hollywood
+     and Out. New York: Routledge, 1992.
+

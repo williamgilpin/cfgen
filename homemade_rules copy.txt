@@ -1,0 +1,19 @@
+S -> NP VP
+PP -> IN NP
+NP -> DT NN | DT NN PP
+VP -> VB NP | VP PP
+S -> NP NP NP VP
+NP -> NP PP
+NP -> DT NN
+PP -> IN NP
+NP -> DT JJ NN
+NP -> DT NN
+NP -> NP PP
+NP -> JJ NN
+PP -> IN NP
+NP -> NNP NNP
+VP -> VBD NP PP
+NP -> DT JJ NN
+PP -> IN NP
+NP -> JJ NN
+PRNxSBAR -> IN S

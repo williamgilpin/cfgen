@@ -1,0 +1,418 @@
+     ----------------------------------------------------------------
+     The Real Happens
+
+     Jason B. Jones
+     Emory University
+     jbjones@emory.edu
+
+     © 2000 Jason B. Jones.
+     All rights reserved.
+     ----------------------------------------------------------------
+
+     Review of:
+     Alenka Zupancic, Ethics of the Real: Kant, Lacan. New York:
+     Verso, 2000.
+
+          The point of Lacan's identification of the Real with the
+          impossible is not simply that the Real is some Thing that
+          is impossible to happen. On the contrary, the whole point
+          of the Lacanian concept of the Real is that the impossible
+          happens. This is what is so traumatic, disturbing,
+          shattering--or funny--about the Real. The Real happens
+          precisely as the impossible. ("Signs")
+
+  1. Though they appear nowhere in her splendid first book, Ethics of
+     the Real, these sentences neatly telescope the rigor, clarity,
+     and good humor characteristic of Alenka Zupancic's work.[1]
+     These traits will not surprise attentive readers of Slavoj
+     Zizek's collection, Everything You Ever Wanted to Know About
+     Lacan, But Were Afraid to Ask Hitchcock, or the two volumes in
+     the SIC series from Duke University Press, Gaze and Voice as
+     Love Objects and Cogito and the Unconscious, all of which
+     feature significant contributions by Zupancic. Beyond the
+     obvious attraction for admirers of the particular Ljubljanian
+     conjunction of philosophy, Lacanian psychoanalysis, and pop
+     culture, Ethics of the Real merits the serious attention of
+     anyone interested in one of the great ethical crises of our
+     time: Why is nothing but fundamentalism deemed worth dying for
+     any longer?
+
+  2. Ethics of the Real satisfies three quite disparate interests.
+     First, it offers a fascinating Lacanian account of causality and
+     freedom in the ethical domain. In this sense, it belongs in the
+     tradition of works such as Joan Copjec's Read My Desire and
+     Charles Shepherdson's Vital Signs. Second, Zupancic advances
+     stimulating and novel readings of Laclos's Les liaisons
+     dangereuses, Molière's Don Juan, Sophocles's Oedipus the King
+     and Oedipus at Colonus, and Claudel's The Hostage. Zupancic's
+     reading of The Hostage is insightful in its own right; it should
+     have the additional merit of attracting the attention of
+     American scholars to Lacan's extensive discussion of Claudel's
+     play in Seminar VIII: Le transfert. Finally, Ethics of the Real
+     is also useful as a guide to two recent trends in Lacanian
+     theory and scholarship: first, the argument that politics and
+     ethics can be understood as a mode of traversing the (social)
+     fantasy; and second, the increased attention to Alain Badiou's
+     philosophical and political thought.[2] In this review, I
+     concentrate on Zupancic's interrogation of causation and her
+     readings of tragedy.
+
+  3. Zupancic begins by quickly mapping the terrain laid out by Lacan
+     in both Seminar VII: The Ethics of Psychoanalysis and "Kant with
+     Sade." For Lacan, psychoanalytic praxis must refuse any idea of
+     "the good." Analysis cannot center on the analyst's conception
+     of the good, because then it would turn into a gratification of
+     the analyst's narcissism, measuring progress in the treatment by
+     the extent to which the analysand slavishly imitates the
+     analyst's ego. Then again, the analysis clearly cannot focus on
+     the analysand's idea of the good, either, because the suffering
+     that drives the analysand to analysis in the first place
+     indicates a disconnect between the analysand's desire or drive
+     and his or her idea of "the good"--an idea that is bound up with
+     the ego. Finally, the analysis also cannot appeal to cultural
+     ideals of "the good" without turning psychoanalysis into a
+     strictly normative endeavor. Instead, by the end of the Ethics
+     seminar, Lacan proposes that "the only thing one can be guilty
+     of is giving ground relative to one's desire [cédé sur son
+     désir]" (321; see Dean 33n14 for a discussion of the stakes
+     involved in this translation). This formulation has caused
+     considerable controversy when applied to Antigone, the figure
+     under discussion in the last section of the seminar. Are we to
+     take Antigone as an ethical hero? Moreover, shortly after this
+     seminar, Lacan begins increasingly to emphasize the drive,
+     instead of desire, as the endpoint of analysis. In the later
+     view, desire is understood as a defense against the satisfaction
+     of drive. How can we reconcile these two arguments in a
+     discussion of ethics? Zupancic shows with great clarity that the
+     drive should be understood as the farthest point of desire, as
+     it were, and not as strictly opposed to it. That is, one can
+     only reach the drive by going through desire.
+
+  4. Fine, but where is Kant in all of this? The crucial Kantian
+     point, for Zupancic, is that "ethics demands not only that an
+     action conform with duty, but also that this conformity be the
+     only 'content' or 'motive' of that action" (14). This is the
+     only way the subject can free herself of pathological
+     contaminants of her will.[3] However, as Zupancic points out,
+     this is thoroughly paradoxical: "how can something which is not
+     in itself pathological (i.e., which has nothing to do with the
+     representation of pleasure or pain, the 'usual' mode of
+     subjective causality) nevertheless become the cause or drive of
+     a subject's actions?" (15). Or, more simply, "how can something
+     which, in the subject's universe, does not qualify as a cause,
+     suddenly become a cause?" (15).
+
+  5. What is the difference in outcome of an act done according to
+     one's duty and one done exclusively for that duty's sake?
+     Nothing. There is a perceptible difference however, at the level
+     of form. Zupancic points out that this introduces a pure form: a
+     "form which is no longer the form of anything, of some content
+     or other, yet it is not so much an empty form as a form
+     'outside' content, a form that provides form only for itself"
+     (17). The form itself is "pure" insofar as it is exclusively a
+     surplus. Zupancic connects Kant's surplus with that famous
+     Lacanian surplusage, the objet a. Although pure form and objet a
+     would appear to be antagonistic (a form vs. an object), Zupancic
+     suggests that such a reading is too hasty. For Kant, the proper
+     drive of the will is "defined precisely in terms of pure form as
+     an absence of any Triebfeder [drive]" (18). Similarly, for
+     Lacan, "desire can be defined precisely as the pure form of
+     demand, as that which remains of demand when all the particular
+     objects (or 'contents') that may come to satisfy it are removed.
+     Hence the objet petit a can be understood as a void that has
+     acquired a form" (18). For both Kant and Lacan, there is thus a
+     form of deferred action at work (Zupancic calls it a "temporal
+     'in-between'" [19]). In Kant, the absence of motive itself must
+     acquire motive force. For Lacan, likewise, the objet a marks the
+     "that's not it" coextensive with any object one might attain; it
+     thus becomes the motive for desire to slide to the next
+     potential object.
+
+  6. To understand this temporal ambiguity, Zupancic embarks on a
+     closely-argued investigation of causality, freedom, and
+     determinism. Kant places humans entirely under the laws of
+     causality. It will not do to affirm "psychological" freedom
+     against "biological" or "material" determinism, because one
+     could always adduce psychological causes for one's actions. Here
+     Zupancic takes, as it were, a left turn: Rather than grounding
+     her discussion of freedom on "Of the Deduction of the Principles
+     of Pure Practical Reason," she focuses on the "Critical
+     Elucidation of the Analytic of Pure Practical Reason." In that
+     chapter, she finds a theme dear to any
+     psychoanalytically-inclined reader's heart: guilt. Guilt, in
+     Zupancic's reading of Kant, is the very foundation of freedom.
+
+  7. We must be very clear about this "guilt," however. The essential
+     point is the "fact that we can feel guilty even if we know that
+     in committing a certain deed we were, as Kant puts it, 'carried
+     along by the stream of natural necessity.' We can feel guilty
+     even for something which we knew to be 'beyond our control'"
+     (26). The point here is not that we "really" or "deep-down"
+     wanted to commit the deed that we inescapably committed, nor
+     that we are mistaken about the extent to which events were
+     beyond our control. Instead, the guilt registers our freedom.
+     According to Zupancic:
+
+          Where the subject believes herself autonomous, Kant insists
+          on the irreducibility of the Other, a causal order beyond
+          her control. But where the subject becomes aware of her
+          dependence on the Other (such and such laws, inclinations,
+          hidden motive... ) and is ready to give up,... Kant
+          indicates a "crack" in the Other, a crack in which he
+          situates the autonomy and freedom of the subject. (28)
+
+     For Zupancic, this is therefore another meeting ground between
+     Kant and Lacan: Kant is, in effect, claiming that "There is no
+     Other of the Other." Freedom comes because "there is in causal
+     determination a 'stumbling block' in the relation between cause
+     and effect" (29). This does not mean of course that we can clap
+     our hands together, rejoice in the gap between cause and effect,
+     and revel in our freedom. Freedom is not characterized by "the
+     arbitrary, or the random as opposed to the lawlike" (33).
+     Instead, freedom is the "point where the subject itself plays an
+     (active) part in lawful, causal necessity" (33, emphasis in
+     original). Zupancic's argument clarifies the Lacanian
+     proposition that psychoanalysis is neither a mode of determinism
+     nor of performative voluntarism, and that those aren't even the
+     most interesting or politically efficacious models of
+     subjectivity available.
+
+  8. An excellent example of this "freedom" is, as Zupancic points
+     out, the psychoanalytic idea of the "choice of neurosis" (35).
+     Consider, for example, this description from Freud's "The
+     Dynamics of Transference" (1912):
+
+          It must be understood that each individual, through the
+          combined operation of his innate disposition and the
+          influences brought to bear on him during his early years,
+          has acquired a specific method of his own in his conduct of
+          his erotic life--that is, in the preconditions to falling
+          in love which he lays down, in the instincts he satisfies
+          and the aims he sets himself in the course of it. This
+          produces what might be described as a stereotype plate (or
+          several such), which is constantly repeated--constantly
+          reprinted afresh--in the course of the person's life.
+          (99-100)
+
+     On the one hand, nothing strips the subject of autonomy more
+     than this "stereotype plate." On the other hand, though, even
+     grammatically Freud indicates that the subject has something at
+     stake here: it is the subject who lays down the preconditions
+     for falling in love, and so forth. Zupancic claims, following
+     Lacan, that this "choice" is in fact "the very condition of
+     possibility of psychoanalysis"--the end of analysis occurs when
+     the subject can take up a new position vis-à-vis her
+     determinants; when she can, in other words, choose a different
+     neurosis (35). Zupancic summarizes the dilemma of freedom
+     nicely:
+
+          The subject is forced to confront herself as mere object of
+          the will of the Other, as an instrument in the hands of
+          mechanical or psychological causality. At this point Kant
+          intervenes with his second gesture, which concerns the
+          choice of the Gesinnung [disposition]. This gesture opens
+          the dimension of the subject of freedom. The subject of
+          freedom is indeed the effect of the Other, but not in the
+          sense of being an effect of some cause that exists in the
+          Other. Instead, the subject is the effect of the fact that
+          there is a cause which will never be discovered in the
+          Other; she is the effect of the absence of this cause, the
+          effect of the lack in the Other. (40-41)
+
+  9. I cannot do justice to the complexities of Zupancic's argument
+     here, but I hope that this brief account demonstrates the
+     advantages of engaging closely with her work. Ethics of the Real
+     is more than a gloss on the canonical Lacanian references to
+     Kant; it so forcefully connects the two thinkers that we are
+     left wondering how, precisely, we got along without Kant in
+     psychoanalysis. Moreover, Zupancic's argument usefully clarifies
+     the dynamics by which the Lacanian category of the Real can
+     achieve genuine political and social purchase. Even though we
+     "know that 'God is dead' (that the Other does not exist)" and
+     "He knows it too" (255), an ethics of the Real could gesture
+     towards a realization of the infinite.
+
+ 10. To make these claims clearer, I want briefly to sketch
+     Zupancic's novel argument about Oedipus. She advances the
+     startling proposition that Oedipus is not guilty of anything,
+     and therein lies his tragedy. Her reading begins with Oedipus's
+     self-blinding. Oedipus blinds himself after learning that he
+     has, after all his precautions, fulfilled the prophecy that said
+     he would murder his father and marry his mother. The traditional
+     interpretation of Oedipus's self-inflicted wound is that he
+     thereby acknowledges his guilt and takes up his foretold
+     destiny. However, Sophocles shows us something slightly
+     different when Oedipus appears before the Chorus. Oedipus wails,
+     "A curse upon the shepherd who released me from the cruel
+     fetters of my feet, and saved me from death, and preserved me,
+     doing me no kindness! For if I had died then, I would not have
+     been so great a grief to my friends or to myself" (467). The
+     Chorus extends this argument: "I do not know how I can say that
+     you were well advised; you would have been better dead than
+     living but blind" (467). This sentence refers both to Oedipus's
+     self-punishment--suicide would clearly be the nobler way out of
+     this situation--and to his past--better to have died as an
+     infant than to live under the misconception as to his parentage.
+     Oedipus rebukes the Chorus, however, crying "Do not try to show
+     me that what has been done was not done for the best" (469).
+
+ 11. Zupancic argues that rather than internalizing his guilt,
+     Oedipus identifies with his symptom: "Oedipus does not identify
+     with his destiny, he identifies--and this is not the same
+     thing--with that thing in him which made possible the
+     realization of this destiny: he identifies with his blindness"
+     (179). Oedipus the King thus ends somewhat like an analysis:
+     with the traversal of fantasy, in which the analysand becomes,
+     not the subject of desire, but the subject of the drive. This
+     process is more of an "objectification" than a
+     "subjectification"; that is, the analysand identifies with his
+     or her enjoyment rather than with his or her desire. As Renata
+     Salecl puts it, the logic of the drive is "'I do not want to do
+     this, but I am nonetheless doing it'"; she further explains that
+     this logic of the drive is opposed to the logic of desire "since
+     the subject does not desire to do something, but nonetheless
+     enjoys doing exactly that" (106). At the end of analysis, the
+     subject comes to identify with the enjoyment that he or she has
+     disavowed for so long. Similarly, Oedipus literalizes his
+     blindness as a way to continue being blind, even after he is
+     confronted with knowledge.
+
+ 12. However, it is not enough to say that Oedipus is self-deceiving.
+     Zupancic insists that when Oedipus says "it's not my fault," we
+     are convinced (181). She asserts that "guilt, in the sense of
+     symbolic debt, arises when the subject knows that the Other
+     knows" (182-83). This refers not simply to a knowledge of one's
+     actions. Instead, it is a sort of "'surplus-knowledge,' a
+     knowledge to which the desire of the subject is attached. This
+     'surplus-knowledge'... is related to the place from which
+     knowledge (of parricide and incest, for example), is enunciated"
+     (185-86). Oedipus's problem is that his knowledge has been
+     displaced from the beginning. This "rob[s] him of his desire
+     (which alone could have rendered him guilty). In exchange he is
+     given over to someone else, to the 'social order' (to the
+     throne) and to Jocasta" (186). He cannot recognize his father.
+     Oedipus's complaint is thus:
+
+          If only I were guilty! If these words suggest a complaint
+          about injustice..., they also suggest something perhaps
+          even more radical. If only I were guilty--but you took from
+          me even that honour, that place in the symbolic (open to me
+          by right)! After all the suffering I have undergone, I am
+          not even guilty (this emphasizes the non-sense of his
+          destiny, not its Sense or Meaning). (195)
+
+     To the extent that Oedipus's destiny is meaningful, it will not
+     be due to the oracle's prophecy.
+
+ 13. While in this argument Oedipus is not guilty of desiring to
+     marry his mother and murder his father, it does not follow that
+     he is not responsible for his destiny. Zupancic also draws
+     attention to Oedipus's confrontation with the Sphinx, following
+     Lacan's argument from Seminar XVII: L'envers de la psychanalyse.
+     In this argument, the crucial thing about Oedipus's solving the
+     riddle isn't that he somehow divined an unknowable truth, but
+     rather, in answering it "the subject actually gives
+     something--he must give or offer his words; thus he can be taken
+     at his word" (Zupancic 203). The subject's answer thus produces
+     an irrevocable truth that was in no way determined in advance.
+     The result is the curious psychoanalytic perspective on ethics
+     and freedom: "Meaning is never determined in advance; in order
+     to find its determination and be 'fixed,' an act of the subject
+     is required" (210); or, to put it another way, Oedipus "installs
+     the Other (the symbolic order) while simultaneously
+     demonstrating that the Other 'doesn't exist'" (211).
+
+ 14. Ethics of the Real is an arresting book, one that amply repays
+     the attention it exacts. As a guide to Lacanian arguments about
+     ethics, Zupancic's book serves the dual purposes of explication
+     and polemic, while sacrificing neither. Her readings, both of
+     Kant and Lacan on the one hand, and of literary works on the
+     other, are provocative and insightful. The result is a book
+     about the "ethics of the real" that takes both ethics and the
+     real seriously.
+
+                                               Department of English
+                                                    Emory University
+                                                   jbjones@emory.edu
+
+     ----------------------------------------------------------------
+
+     COPYRIGHT (c) 2000 JASON B. JONES. READERS MAY USE PORTIONS OF
+     THIS WORK IN ACCORDANCE WITH THE FAIR USE PROVISIONS OF U.S.
+     COPYRIGHT LAW. IN ADDITION, SUBSCRIBERS AND MEMBERS OF
+     SUBSCRIBED INSTITUTIONS MAY USE THE ENTIRE WORK FOR ANY INTERNAL
+     NONCOMMERCIAL PURPOSE BUT, OTHER THAN ONE COPY SENT BY EMAIL,
+     PRINT, OR FAX TO ONE PERSON AT ANOTHER LOCATION FOR THAT
+     INDIVIDUAL'S PERSONAL USE, DISTRIBUTION OF THIS ARTICLE OUTSIDE
+     OF A SUBSCRIBED INSTITUTION WITHOUT EXPRESS WRITTEN PERMISSION
+     FROM EITHER THE AUTHOR OR THE JOHNS HOPKINS UNIVERSITY PRESS IS
+     EXPRESSLY FORBIDDEN.
+
+     THIS ARTICLE AND OTHER CONTENTS OF THIS ISSUE ARE AVAILABLE FREE
+     OF CHARGE UNTIL RELEASE OF THE NEXT ISSUE. A TEXT-ONLY ARCHIVE
+     OF THE JOURNAL IS ALSO AVAILABLE FREE OF CHARGE. FOR FULL
+     HYPERTEXT ACCESS TO BACK ISSUES, SEARCH UTILITIES, AND OTHER
+     VALUABLE FEATURES, YOU OR YOUR INSTITUTION MAY SUBSCRIBE TO
+     PROJECT MUSE, THE ON-LINE JOURNALS PROJECT OF THE JOHNS HOPKINS
+     UNIVERSITY PRESS.
+
+     ----------------------------------------------------------------
+
+                                  Notes
+
+     1. The quoted passage is from "Signs and Lovers," Zupancic's
+     presentation at the Affiliated Psychoanalytic Workgroups
+     Conference at Emory in May. The paper is forthcoming in ERR, the
+     journal of APW.
+
+     2. The argument that politics should amount to a sort of
+     traversing of the fantasy has been most ably articulated by
+     Zizek in many places, most recently in The Ticklish Subject
+     247-399. On Badiou, also see Ticklish 128-67; additionally, the
+     Umbr(a) issue featuring Badiou is an excellent introduction to
+     his work (in addition to the four essays by Badiou, see
+     Gillespie "Subtractive" and "Hegel"; Fink).
+
+     3. Keeping in mind here the Kantian, and not psychoanalytic,
+     definition of pathological: the pathological is anything that
+     compels our actions. It is thus the field of normality itself,
+     and not opposed to the normal.
+
+                               Works Cited
+
+     Dean, Tim. Beyond Sexuality. Chicago: U of Chicago P, 2000.
+
+     Fink, Bruce. "Alain Badiou." Umbr(a) 1 (1996): 11-12.
+
+     Freud, Sigmund. "The Dynamics of Transference." 1912. The
+     Standard Edition of the Complete Psychological Works of Sigmund
+     Freud. Ed. and trans. James Strachey. Vol. 12. London: Hogarth,
+     1953-74. 97-108. 24 vols.
+
+     Gillespie, Sam. "Hegel Unsutured: An Addendum to Badiou."
+     Umbr(a) 1 (1996): 57-70.
+
+     ---. "Subtractive." Umbr(a) 1 (1996): 7-10.
+
+     Lacan, Jacques. The Seminar of Jacques Lacan, Book VII: The
+     Ethics of Psychoanalysis, 1959-1960. Ed. Jacques-Alain Miller.
+     Trans. Dennis Porter. New York: Norton, 1992.
+
+     Salecl, Renata. "The Satisfaction of Drives." Umbr(a) 1 (1997):
+     105-110.
+
+     Sophocles. "Oedipus Tyrranus." In Sophocles I: Ajax, Electra,
+     Oedipus Tyrranus. Ed. and trans. Hugh Lloyd-Jones. Cambridge,
+     MA: Harvard UP, 1994. 323-483.
+
+     Zizek, Slavoj. The Ticklish Subject: The Absent Centre of
+     Political Ontology. New York: Verso, 1999.
+
+     Zupancic, Alenka. Ethics of the Real: Kant, Lacan. New York:
+     Verso, 2000.
+
+     ---. "Signs and Lovers." ERR 3 (Forthcoming): manuscript. Paper
+     delivered at "Reading: The Second Annual Conference of
+     Affiliated Psychoanalytic Workgroups." Emory University,
+     Atlanta, GA. 19-21 May 2000.
+

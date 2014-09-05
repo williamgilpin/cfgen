@@ -1,0 +1,434 @@
+Active Information, Meaning and Form
+
+F. David Peat
+
+ABSTRACT
+
+It is proposed, in the spirit of open speculation, that science is 
+now ready to accommodate a new principle, that of active 
+information, that will take its place alongside energy and 
+matter. Information connects to concepts such as form and 
+meaning which are currently being debated in a variety of 
+fields from biology and the neurosciences, to consciousness 
+studies and the nature of dialogue. It may well provide the 
+integrating factor between mind and matter.
+
+While the principle of Information has considerable potential it 
+also raises a variety of questions whose clarification and 
+resolution may help to increase understanding in other fields.
+
+INTRODUCTION
+
+Towards the end of the 1980s David Bohm introduced the 
+notion of Active Information into his Ontological Interpretation 
+of Quantum Theory. His idea was to use the activity of 
+information as a way of explaining the actual nature of 
+quantum processes and, in particular, the way in which a 
+single physical outcome emerges out of a multiplicity of 
+possibilities. Initially this idea, of Information as a physical 
+activity, was tied to Bohm's particular theory but, as this essay 
+paper proposes, it is possible to go further and elevate 
+"Information" to the level of a new physical concept, one that 
+can be placed alongside Matter and Energy.
+
+Information connects to clusters of fertile ideas being debated 
+in physics, biology, consciousness research and the 
+neurosciences. These are grouped around the notions of 
+Information, Form and Meaning, each of which is discussed 
+below.
+
+At present it is by no means clear how these ideas will finally 
+integrate together but the resonance between them is striking 
+and should provide a profitable nucleus for further research 
+and speculation. On the one hand the notion of information is 
+firmly based within the physical sciences, yet has immediate 
+application to, for example, consciousness studies. Such 
+ideas are also particularly rich in the way they connect to new 
+approaches in health, healing, dialogue and the cohesion of 
+society.
+
+When ideas begin to come together in this way it suggests that 
+a fundamental break-through may not be far behind. One 
+thinks of the web of approaches and notions being debated in 
+the first years of this century and the how they finally 
+coalesced into quantum theory and relativity. Similar 
+unresolved discussions abound today, about the nature of 
+mind, brain function and consciousness, pre-space and 
+algebras that lie below quantum theory, and the nature of 
+health and healing. Information is something that could play a 
+significant role in understanding the nature of the physical 
+universe and, at the same time, have a key role in the 
+operation of consciousness. Concepts of meaning, form and 
+information could well play an integrating role in bringing unity 
+to whole areas of speculation.
+
+The individual topics of Information, Form and Meaning, 
+together with their interconnections, are discussed below. 
+Following this questions are posed and directions for future 
+work suggested.
+
+
+INFORMATION
+
+At first sight "information" plays no role in the world of physics. 
+Facts, data and information are contained in books, or collated 
+by scientists, but have no independent, objective existence in 
+the physical world apart from their interpretation by human 
+subjects. Shannon and Weaver's "Information Theory", for 
+example, is concerned with the way data - bites of information 
+- travels along a telephone line or within other transmission 
+system. The "meaning" of a particular message is irrelevant, 
+what is significant is only the mechanism of its encoding and 
+decoding, plus the relative roles played by noise and 
+redundancy.
+
+Yet a deeper investigation suggests that things are more 
+subtle and less obvious. The notion of entropy, for example, is 
+present in both Information theory and thermodynamics. It is 
+another concept that began with an uncertain ontology. On the 
+one hand in thermodynamics entropy is related to well defined 
+variables, like temperature and heat capacity, on the other, it is 
+spoken of, somewhat subjectively, as the degree of "disorder" 
+within a system, or as the break down of order and 
+information, or the degradation of the information content of a 
+message.
+
+There is the question of the amount information required to 
+define a system. An apparently "ordered" system, exhibiting 
+strictly periodic behavior requires little information for its 
+definition. Highly complex or random systems, on the other 
+hand, are defined by a potentially infinite amount of 
+information. But are these purely objective measures or do 
+they always depend upon some human subject to assign 
+significance? Prigogine is attempting to place the concept of 
+entropy within a clearer objective basis but the debate 
+continues.
+
+The mystery of information deepens with Beckenstein's 
+discovery of the relationship between amount of information 
+passing through an event horizon, entropy content, and the 
+radius of a Black Hole. Here is a totally objective, quantitative 
+definition of information within physics. (In this case, however, 
+it is the amount of information rather than its actual content or 
+meaning that is significant.) The section below, on Form, also 
+discusses ways in which form (related to in-form-ation) plays a 
+significant role in quantum physics.
+
+The breakthrough in giving information a more "physical" role 
+comes with Bohm's proposal that information plays an active 
+role in quantum systems. Bohm's 1952 Hidden Variable 
+papers proposed an alternative approach to quantum theory in 
+which the electron is a real particle guided by a new kind of 
+force, the quantum potential. While at first sight Bohm's theory 
+appears somewhat "classical" - electrons have real paths - the 
+quantum potential is entirely novel. Unlike all other potentials 
+in physics its effects do not depend upon the strength or "size" 
+of the potential but only on its form. It is for this reason that 
+distant objects can exert a strong influence on the motion of an 
+electron.
+
+In the double slit experiment, a paradigm-shifting experiment 
+of quantum theory, the effects of the slits are be experienced 
+by electrons located many centimeters away. This is very 
+difficult to explain in conventional terms but follows quite 
+naturally once a quantum potential has been introduced. 
+Indeed, it is this quantum potential that is responsible for all 
+the novel effects exhibited by quantum theory. The form of the 
+quantum potential is extremely complex and reflects the entire 
+physical set-up of a quantum measurement. The complexity of 
+its form is also what gives rise to the apparently random 
+processes of the quantum world, such as the disintegration of 
+a radio-active nucleus, or the dual wave-particle nature of the 
+electron.
+
+Bohm's approach to his own theory became more subtle over 
+the years and he soon began to speak of not only of the form 
+of the quantum potential and also of the "information" it 
+contains. The action of the quantum potential is not to push or 
+pull the electron along its path. Rather, Bohm likened it to a 
+radar signal that guides a ship approaching a harbor. The 
+information within the radar signal acts, via a computer or 
+automated steering device, to change the direction of the ship. 
+Information itself does not push the ship, rather it "in-forms" the 
+gross energy of the engines.
+
+Information therefore allows a distinction to be made between 
+what could be called raw or "un-formed" energy an a more 
+subtle energy, an activity that can be identified with 
+information. This information acts on raw energy to give it 
+form.
+
+Later versions of Bohm's theory pictured the electron not so 
+much as a real physical particle but as a process, a wave 
+continually collapsing inward to a localized region and then 
+expanding outward. This process is guided by a super-
+quantum potential. An activity of information is responsible for 
+the existence quantum particles and quantum events.
+
+In discussing the quantum measurement problem Bohm, and 
+his coworkers, further developed the notion of "Active 
+Information". Take the double slit experiment, as an example. 
+In Bohm's theory an electron has the potentiality to take a 
+multiplicity of paths that pass through either one of the two 
+slits. In actuality, an electron takes only a single path. Bohm 
+suggested that the quantum potential contains information 
+about the experimental set-up. This information is potentially 
+active, but once the electron has "chosen", and begun to move 
+along a particular path the information about alternative paths 
+becomes inactive.
+
+For reasons of space this is an oversimplification of Bohm's 
+approach, but the essential idea should be clear. Information, 
+in this case about the context of an experimental set-up, is 
+carried, in some sort of active form, at the quantum level. This 
+information acts directly on matter, (eg via the form it imposes 
+on the "unformed"). Information is being used in an objective 
+way. It is not something that depends on the point of view of a 
+human observer.
+
+The actual nature of the information and the way it is carried is 
+not yet entirely clear. Is it really correct, for example, to speak 
+of a "field" of information, since information does not fall off 
+with distance, neither is it associated with energy in the usual 
+sense. Possibly the notion of field should be widened or, at 
+the quantum level. we should be talking about pre-space 
+structures, or about algebraic relationships that precede the 
+structure of space and time.
+
+Bohm's notion of "active information" is tied to his  "Ontological 
+Interpretation" (formerly the Causal or Hidden Variable 
+Interpretation). I propose it be freed from any particular theory 
+and raised to the level of a General Principle. Bohm never 
+considered his Ontological Interpretation to be the last word 
+on quantum theory, rather that it would suggest insights and 
+avenues for further research. I believe that one of the most 
+valuable is this notion of information.
+
+Newtonian physics was concerned with the movements of 
+matter under forces and mechanical contact. Nineteenth 
+century physics generalized the whole notion of energy, as 
+that which causes the transformations, rearragements and 
+motions of matter. I suggest that Information is the final 
+element in a triad - information is that which gives form to 
+energy. (It is the "subtle" energy spoken of in Eastern 
+science.)
+Information would have an objective nature. It would play an 
+active role in giving "form" to energy and be responsible for 
+quantum processes. As a "field" of active information it 
+provided a collective, global form for a superconductor or 
+superfluid. Information would be copresent as an aspect of 
+physical law, but also through what appear to be more 
+subjective elements such as meaning and significance. It 
+particular, Information may be responsible for global 
+processes in the brain and have a role to play in the nature of 
+consciousness.
+
+It could be argued that, in giving information an active role in 
+science, the face of physics will change. But this has already 
+happened several times before. On each occasion more 
+subtle notions were introduced. Thermodynamics, for 
+example was born in the transformation of caloric from a fluid 
+to a non-material concept - energy. Electromagnetism was 
+found not to be the result of mechanical vibrations in an ether 
+but the manifestation of the more subtle notion of field. In our 
+own century matter the notion of "independent elements of 
+reality" was abandoned at the quantum level, physical 
+properties were discovered not to be intrinsic to objects but to 
+be context dependent. The force of gravity melted in 
+geometry. In each case the movement has been from the 
+material and mechanical into the subtle. Information could well 
+be the next stage in this evolution of ideas. Its integrating role 
+would extend over physics, biology and the study of 
+consciousness.
+
+In the two sections below the relationship of information to 
+form and meaning is discussed.
+
+FORM
+
+Form is a key concept in biology. The function of everything 
+from the activity of an enzyme to a cell or organ is related to its 
+physical form. Growth from the fertilized cell to the adult is a 
+process of differentiation and transformation of form; hence 
+biologists from Aristotle to Waddington, Sheldrake and 
+Goodwin have postulated notions of "morphic fields".
+
+The universal nature of form and its transformation was, in the 
+1960s, the subject of a new branch of mathematics, Rene 
+Thom's Catastrophe Theory. Form has associated with it the 
+idea of a Gestalt, of global patterns, perception and non-
+locality; such notions connect with the functioning of 
+consciousness and with the Immune system.
+
+Form has its role to play in physics. In classical physics it is the 
+form of the Hamiltonian that remains invariant under canonical 
+transformations. In this way, Newtonian mechanics can be 
+transformed from the mechanical interaction of individual 
+particles into global form-preserving processes. Likewise, 
+General relativity is about the invariance of form under all 
+possible coordinate transformations. In this sense, motion 
+under gravity has to do with the preservation of form. One 
+could perhaps generalize the concept of inertia to that of the 
+"law of persistence of form".
+
+Most dramatically form appears in the guise of the wave 
+function. It is the global form of the wave function (symmetric 
+or antisymmetric) that is responsible for the existence of 
+Fermi-Dirac or Bose-Einstein statistics. The fact that such 
+forms are non-factorizable (into spatially independent 
+components) is the deep reason for quantum non-locality 
+(Bell's mysterious correlation between distant particles). The 
+form of the wave function is ultimately responsible for 
+collective modes in physics - plasma, superfluid, 
+superconductor and hypothetical Frochlich systems. The form 
+of the wave function orchestrates each of an astronomical 
+number of particles into a highly coordinated dance.
+
+Bohm's quantum potential is unique in that the magnitude of its 
+effects, on the motion of electrons, does not arise from its 
+strength or intensity but from the "form" of the potential - that is, 
+its particular complex shape. It is for this reason that the effects 
+of the quantum potential do no fall off with distance and that 
+well separated quantum objects can remain strongly 
+correlated.
+
+It is highly suggestive that form may also be responsible for 
+global quantum proper within the brain that give rise to 
+consciousness. Form, a global property as opposed to a local 
+one, may have something to do with the evolution of space-
+time structure out of some more primitive quantum pre-space. 
+Penrose, for example, proposes that the quantum mechanical 
+"collapse of the wave function" is a global phenomenon 
+connected with the geometrical properties of space-time. He 
+also speculates that global quantum process have a role to 
+play in the liaison between consciousness and brain structure.
+
+These are speculative, but compelling, speculations that 
+revolve around the same cluster of ideas and connect different 
+areas of interest, such as consciousness, life and fundamental 
+physics. They raise the question: How does the global nature 
+of form relate to Active Information? Is Information a new 
+principle of the physical world that applies in a wide variety of 
+fields of interest? The answer to this question must begin with 
+a period of "sorting out" and clarification of basic ideas and 
+their multiple interconnections.
+
+
+MEANING
+
+If Form begins with biology (and leads into quantum theory) 
+Meaning surely starts in psychology. It was Carl Jung who 
+stressed the role of meaning in the Synchronicity - that region 
+where form and pattern spill over the boundaries between 
+mind and matter. For Jung the key was the deep internal 
+significance associated with an experience of synchronistic 
+patterns, a significance that did not end at the boundaries of 
+personal consciousness. Meaning was both subjective and 
+objective. As Wolfgang Pauli emphasized, just as psychology 
+had uncovered the objective in psyche (the collective or 
+objective unconscious) so physics must find the subjective in 
+matter. Jung termed this speculum between matter and mind 
+as the "psychoid", its integrating factor is meaning.
+
+In the context of Dialogue groups Bohm spoke of a "field of 
+meaning" shared by all participants. He also stressed that the 
+way to bring about effective social change is through an 
+overall change of meaning. Meaning, which could be thought 
+of as a field of form, Bohm associated this with the Immune 
+system. The Immune system is what keeps the body whole, it 
+processes coordinated and is another manifestation of 
+meaning. if meaning is degraded the body becomes sick. 
+Bohm stressed that his maxim "a change of meaning is a 
+change of being" was to be taken literally. That assailant seen 
+on a dark night turns out to be the shadow of a tree trunk. 
+Immediately a flurry of electrochemical changes takes place in 
+mind and body. Laboratory research suggests that shifts in 
+"meaning" bring about subtle restructuring of nerve pathways 
+and the sensitivities of connections. Meaning, which is 
+normally taken to be subjective turns out to have an objective, 
+physical consequence.
+
+Meaning can act on matter and, presumably, matter on 
+meaning. (The significance of what we see or think is affected 
+by the electrochemical environment of our bodies.) Does the 
+idea extend from consciousness into the physical world? I 
+believe it does. Information is, in some way, encoded in the 
+wave function, or some sort of a field of form, or some set of 
+prequantum algebraic relationships. Yet what information is 
+encoded? One solution is that all information, about the entire 
+universe is encoded, or enfolded, within the global form. (Or 
+as Bohm may have said, within the Implicate Order.) Yet only 
+that which has meaning, or significance, for the electron is 
+"active". Consciousness becomes a certain dynamical aspects 
+of this underlying field or order. Mind is fundamentally 
+distributed throughout the material world.
+
+Information by itself is nothing more than an abstract set of 
+binary digits (Shannon and Weaver's Information Theory) but if 
+it is to act, if it is to affect the motion of the electron, coordinate 
+the dance of a plasma, and the global movement of electrical 
+activity within the brain, then it must have a particular 
+significance within a given context. Meaning comes down to 
+the way the information acts within different contexts.
+
+Again deep speculative connections exist between 
+Information, Form and Meaning, between quantum theory, 
+brain function and consciousness.
+
+
+CONCLUSION AND DIFFICULTIES
+
+It is proposed that science can accommodate a new general 
+principle, Active Information, alongside matter and energy. 
+Information is connected to ideas of form and meaning and 
+leads to questions that are being debated in consciousness 
+studies, healing and dialogue.
+
+Supposing one is willing to accept the existence of a new 
+explanatory principle in science; what is the next step? Clearly 
+there is much to sort out and clarify. How exactly is information 
+encoded, decoded and transmitted? Is the metaphor of the 
+field valid or do we need some new concept, something that 
+exists at the level of prespace? And just what sort of 
+information is encoded?
+
+That final question goes right back to Neils Bohr and his 
+emphasis that a quantum system must always be defined 
+within the context of the experiment. But just what does this 
+context consist of? What information is relevant - the location 
+of the laboratory? the material out of which the double slits are 
+made? What aspects of the universe comprise objective, 
+active information and which are purely subjective? No one 
+seems to know at preset. What may be considered relevant 
+information for one context may be irrelevant in the next. Could 
+it be that while much information is encoded within some sort 
+of "information field", only certain aspects are decoded by the 
+electron?  How does one quantum system - an enzyme, for 
+example, become the "environment" or "information" for some 
+other biologically active information.
+
+Many more questions can be raised and debated.
+
+PROPOSALS
+
+The ideas and speculations discussed in this essay have 
+considerable potential for further development. They are 
+nuclei for new discussions in quantum theory, biology and the 
+neurosciences. At present, however, these ideas lack critical 
+mass and there is a great danger than, following Bohm's death 
+for example, interest could dissipate or discussion fall back to 
+more mechanistic approaches.
+
+It is proposed that a concerted effort be made in this general 
+area. A useful first step is to combine speculation with 
+clarification, to discover just what is being said by various 
+thinkers about information, meaning and form in quantum 
+theory, consciousness research, biology and so on? How are 
+various terms being used, where does common ground lie 
+and what questions are being formulated? Where is 
+clarification needed? Are any new experiments suggested? In 
+what direction should these concepts be developed? Who are 
+the main players in this area and is advantage to be gained by 
+bringing them together at this point? Would it be useful to 
+publish a review or overview in this field?
+

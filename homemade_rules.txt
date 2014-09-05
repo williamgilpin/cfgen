@@ -1,0 +1,145 @@
+S -> NP VP
+PP -> IN NP
+NP -> DT NN | DT NN PP
+VP -> VB NP | VP PP
+S -> NP NP NP VP
+PRNxSBAR -> IN S
+S -> NP xcomma NP NP VP xperiod
+NP -> NP PP
+NP -> DT NN
+PP -> IN NP
+NP -> DT JJ NN
+NP -> DT NN
+NP -> NP PP
+NP -> JJ NN
+PP -> IN NP
+NP -> NNP NNP
+VP -> VBD NP PP
+NP -> DT JJ NN
+PP -> IN NP
+NP -> JJ NN
+NPxSBARxS -> S S
+S -> NP VP
+NP -> DT NN
+VP -> VBZ NP
+NP -> NP PP
+NP -> DT NN
+PP -> IN NP
+NP -> DT JJ NN
+S -> CC VP xperiod
+VP -> VBZ VB PP
+PP -> IN NP
+NP -> NP CC DT NN PP
+NP -> NP PP
+NP -> DT NN
+PP -> IN NP
+NP -> PRPx NN
+PP -> IN NP
+NP -> PRPx NN
+UCP -> NN xcomma NN CC NN xcomma PP VP CC VP CC S
+PP -> IN NP
+NP -> NN
+VP -> JJ
+VP -> VBN PP
+PP -> TO NP
+NP -> PRPx NN
+S -> NP NP xcomma NP NP VP xperiod
+NP -> VBG NNS
+NP -> NP PP
+NP -> DT NN
+PP -> IN NP
+NP -> NNP
+NP -> PRPx JJ NN
+NP -> CC NN
+VP -> xcomma SBAR
+SBAR -> WHNP SxVP
+WHNP -> WDT
+SxVP -> VBD NP
+NP -> DT JJ NN
+PRNxSBAR -> IN S
+S -> NP CC NP xcomma NP ADVP VP xperiod
+NP -> NP PP
+NP -> NNS
+PP -> IN NP
+NP -> DT JJ NN
+NP -> NP PP
+NP -> JJ NN
+PP -> IN NP
+NP -> JJ NN
+NP -> PRP
+ADVP -> RB
+VP -> VBD PP VBN CC VBN
+PP -> IN NP
+NP -> PRPx NN
+S -> NP ADVP xcomma VP xperiod
+NP -> DT NN
+ADVP -> RB
+VP -> VBD NP SBAR
+NP -> DT NN
+SBAR -> IN S
+S -> NP CC NP xcomma CC PP xcomma NP VP
+NP -> DT NN
+NP -> JJ NN
+PP -> IN NP
+NP -> PRPx ADJP NN
+ADJP -> JJ RB VBN
+NP -> PRP
+VP -> VBN RB VB NP
+NP -> PRP
+SxSBAR -> S xcomma S
+S -> NP VP
+NP -> PRP
+VP -> VBN PP
+PP -> IN NP
+NP -> DT NN
+S -> SBAR xcomma ADVP SxVP PRN NP VP xperiod
+SBAR -> WHNP SxVP
+WHNP -> WDT
+SxVP -> VBD VP
+VP -> VBN PP
+PP -> IN NP
+NP -> NP PP
+NP -> NNS
+PP -> IN NP
+NP -> NP PP
+NP -> NNS
+PP -> IN NP
+NP -> DT NN
+ADVP -> RB
+SxVP -> TO VP
+VP -> VB VBN PP
+PP -> IN NP
+NP -> NNS
+PRN -> xcolon S xcolon
+S -> NP VP
+NP -> PRP
+VP -> VBN PP
+PP -> IN NP
+NP -> DT NN
+NP -> PRP
+VP -> VBD SxVP
+SxVP -> TO VP
+VP -> VB NP
+NP -> PRPx NN
+NPxS -> NP VP
+NP -> DT NN
+VP -> PP SBAR
+PP -> IN NP
+NP -> JJ CC NNS
+SBAR -> WHNP S
+WHNP -> WDT
+S -> NP VP
+NP -> PRP
+VP -> VBD VBD SBARxS
+SBARxS -> NP VP
+NP -> CC DT JJ NN
+VP -> ADVP VBD SBARxS
+ADVP -> RB
+SBARxS -> NP VP
+NP -> NP PP
+NP -> NN
+PP -> TO NP
+NP -> JJ NN
+VP -> CC VBG PP
+PP -> IN NP
+NP -> NN

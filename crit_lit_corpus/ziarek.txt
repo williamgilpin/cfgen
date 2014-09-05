@@ -1,0 +1,1146 @@
+     -----------------------------------------------------------------
+     Love and the Debasement of Being: Irigaray's
+     Revisions of Lacan and Heidegger
+
+     Krzysztof Ziarek
+     University of Notre Dame
+     Krzysztof.Ziarek.2@nd.edu
+
+     © 1999 Krzysztof Ziarek.
+     All rights reserved.
+     -----------------------------------------------------------------
+
+  1. In Écrits Lacan remarks: "Of all the undertakings that have been
+     proposed in this century, that of the psychoanalyst is perhaps
+     the loftiest, because his task is to act in our time as a
+     mediator between the man of care and the subject of absolute
+     knowledge" (105).[1] These words are quoted at the beginning of
+     Richardson's 1983 essay "Psychoanalysis and the Being-question,"
+     and taken to mean that, in developing the logic of desire, Lacan
+     attempts to mediate between Heidegger's critique of the subject,
+     that is, the idea of Dasein as care, and the Hegelian notion of
+     absolute knowledge. Noting Lacan's proximity to Heidegger in the
+     1950s and disputing his later assertion that the references to
+     Heidegger were merely propadeutic, Richardson goes on to sketch a
+     Heideggerian reading of some of the key notions in Lacanian
+     psychoanalysis, among them, language, desire, and the Other. He
+     suggests that Heidegger's redefinition of language underlies
+     Lacan's reformulation of Saussurean linguistics and ties the
+     notion of desire to the ecstatic temporality of Dasein. In a way
+     what Richardson outlines, although very briefly and not exactly
+     in those terms, is the critical project of rethinking the subject
+     of desire through the ontico-ontological difference, that is,
+     through the unstable and repeatedly erased difference between
+     being as event and beings as things or entities. What
+     Richardson's essay does not address is the reciprocal effect that
+     the problematic of sexual difference might have on the question
+     of being, on the idea of a "pre-sex" Dasein as the temporalizing
+     structure of the human mode of being. For such a reformulation of
+     the question of being we need to look to Irigaray, whose work
+     should be approached, I would argue, in terms of a double
+     re-reading: on the one hand, in L'oubli de l'air and certain
+     other texts, particularly in An Ethics of Sexual Difference,
+     Irigaray reconceives the question of being through sexual
+     difference; on the other hand, and this is a point which
+     Irigaray's reception has almost completely missed, Irigaray
+     revises Lacanian psychoanalysis and the role that sexual
+     difference has played in philosophical discourse, including
+     Heidegger's own, through the prism of the ontico-ontological
+     difference. What emerges from this criss-crossing critique is a
+     rethinking of love and sexual difference, which reformulates the
+     relation to the other outside the logic of both recognition and
+     desire. As I argue in this essay, Irigaray's double intervention
+     into psychoanalysis and philosophy shifts the discussion of love
+     and sexual relation away from negation and lack to temporality
+     and embodiment.
+
+  2. This reading I am tracing in Irigaray's work takes Lacan's remark
+     from Écrits at its word and situates the Lacanian subject of
+     desire between Heidegger and Hegel, or, more specifically,
+     between Dasein's originary temporality and unhomeness
+     (Unheimlichkeit) and Hegel's dialectics of recognition. It is
+     important to note that, at the time when interpretations of Lacan
+     concentrate on Kant and Hegel, Irigaray's work pursues, although
+     critically, a decidedly post-Heideggerian path. Of the many
+     provocative implications of Irigaray's Heideggerian turning of
+     Lacan, I will focus here on her rethinking of love in the context
+     of the debasement of being and the various forms it takes in
+     Lacan's Encore: knowledge, truth, certain forms of love, the
+     good, beauty. What this approach makes possible is the
+     articulation of Irigaray's pivotal move from the critique of the
+     subject of desire to the reformulation of love in terms of
+     temporality and wonder. The significance of this reformulation of
+     Lacan through the prism of Heidegger's revision of temporality
+     lies in underscoring the openings in Lacan discourse beyond the
+     logic of desire, which remains the focus of contemporary Lacanian
+     readings. Recent innovative approaches to Lacan have tended to
+     elaborate the logic of desire and sexual relation either in terms
+     of the Hegelian dialectic of desire and recognition or by way of
+     the Kantian notion of das Ding. Zizek's interpretations of Lacan
+     in the context of popular culture and political ideology
+     emphasize the dependence of Lacan's understanding of desire and
+     the Other on the Hegelian dynamic of recognition. In Tarrying
+     with the Negative, Zizek reads Hegel and Kant through each other
+     in order to emphasize the limit to subjectivation, the
+     unsignifiable real which marks the gap or lack in the
+     constitution of the subject. He illustrates how substance, the
+     Real, and the Thing are mirages instantiated retroactively by the
+     surplus of desire. In another influential reading, Joan Copjec
+     reaffirms and reformulates in "Sex and The Euthanasia of Reason"
+     the Kantian thread in Lacan, explaining the Lacanian formulas of
+     sexuation through Kant's antinomies of reason in order to
+     illustrate the extra-discursive existence of sex. Although
+     emphatically not prediscursive, sex in Copjec's argument, like
+     Kant's thing-in-itself, "is still unknown and must remain so"
+     (234).
+
+  3. Irigaray's work revises these arguments specifically in terms of
+     what Kant's formulation, at least in Heidegger's opinion, does
+     not thematize: temporality. For Irigaray, sexual difference
+     signifies the limit of language not in terms of Kant's
+     thing-in-itself but in terms of the Heideggerian withdrawal of
+     being. The limit then indicates the impossibility of presence
+     marked by the ecstatic character of temporality, by the unfolding
+     of time irreducible to the historicist conceptualization of
+     history. In other words, Irigaray follows neither the Kantian nor
+     the historicist route. Rather, her reformulation of love
+     demonstrates how the logic of desire, which produces the
+     substantialization of the (foreclosed) Real, is itself put into
+     motion by an evacuation of temporality and a consequent
+     "debasement" of being into things, objects, or substances. For
+     Irigaray, the fact that the limit is not the non-signifiable real
+     but futural temporality implies a critical change in the function
+     of the negative: it no longer signifies negation or repression
+     but becomes the marker of transformation, the sign of the
+     possibility of love and ethical relation.[2]
+
+  4. What I am proposing, therefore, is a turn in reading Lacan, which
+     would foreground the issue of temporality and its bearing on the
+     problematics of love, desire, and sexual relation--a turn that
+     might finally open up a constructive and critical dialogue
+     between Irigarayan and Lacanian scholars. Fleshing out the
+     revision of the subject of desire through the Heideggerian
+     rethinking of temporality becomes critical for such a project,
+     because it allows us to open up the space of relating to the
+     Other that "escapes" and revises the logic of desire dominant in
+     current discussions of this problem. Heidegger's revision of
+     temporality provides a critique of both Hegel's dialectical
+     conception of history and the Kantian notion of the inaccessible
+     thing-in-itself, and makes possible an important rethinking of
+     the very dynamic of relation to otherness from within the
+     temporal unfolding of being. The approach I outline here
+     underscores the role of temporality and non-appropriative
+     relatedness to the Other which Irigaray reformulates from
+     Heidegger and Levinas. My approach also complicates the
+     relationship between Lacan and Irigaray beyond the current
+     feminist interpretations of Irigaray, which still underplay the
+     importance of Heidegger for her critique. It also calls into
+     question the refusal to engage Irigaray's reformulations of Lacan
+     on the part of most Lacanian critics, a disavowal that follows in
+     part from the misrecognition of Heidegger's import for Lacan's
+     thinking. I argue that the critique and contextualization of
+     desire in relation to the temporality of para-being, which Lacan
+     signals in Encore, makes visible unexplored proximities between
+     late Lacan and Irigaray and allows us to address the multiple
+     points of Irigaray's engagement and reformulation of Lacan's
+     work: desire, love, the Other. It highlights the ways in which
+     Lacan's Encore opens beyond its own formulations of jouissance
+     and sexual relation and points beyond the logic of desire toward
+     the non-appropriative relation which Irigaray redefines in terms
+     of wonder.
+
+  5. These revisions underscore the need for an important
+     reformulation of the current discourse on desire and power which
+     characterize many approaches from Lacanian psychoanalysis and
+     readings of Irigaray, to Foucault studies, and cultural and
+     postcolonial studies. The approach that I negotiate between
+     Lacan, Heidegger, and Irigaray, makes it possible to propose a
+     modality of relatedness to the other that eschews the logic of
+     the negative and of constitutive lack. To open up this
+     perspective, desire and its entanglements with power need to be
+     rethought in terms of the event temporality of being, through
+     which Irigaray resignifies relationality into the
+     non-appropriative and transformative wonder. At stake in this
+     critique is the possibility of a relationality that is no longer
+     structured in terms of lack and desire, power and subjection, and
+     that remains "ethical" and non-appropriative. Heidegger sees the
+     possibility of such freedom in the very temporal modality of
+     human being (Dasein), i.e. in its unhomeness, or openness to what
+     is other. The temporality of this openness ruptures the pathways
+     of desire and makes possible an encounter with the other without
+     confusing it with sameness or elevating it into sublimity. This
+     reading of Irigaray's Heideggerian intervention into Lacan and
+     her Lacanian reformulation of Heidegger's Dasein enables the
+     reformulation of sexual relation in terms of a future-oriented
+     and transformative being-two, to recall Irigaray's most recent
+     articulation of the problematic of sexual difference.
+
+  6. Drawing on Heidegger's rethinking of temporality and being, I
+     will explain how Irigaray redefines love beyond narcissism and
+     fusion, and reworks the Hegelian labor of the negative, which
+     remains so pivotal to Lacan's logic of desire. This redefinition
+     of love, however, can be carried out only in conjunction with the
+     simultaneous reformulation of the question of being through
+     sexual difference. Offering those revisions, Irigaray's critique
+     of psychoanalysis is never simply negative: it is not criticism
+     and certainly not a rejection of Lacan but is a transformative
+     encounter, a further elaboration of the openings which Lacan
+     himself makes in Encore. The critique of love as a certain
+     debasement of being, as a veiling of the temporality and finitude
+     of existence, is obviously at the heart of Encore. Tracing an
+     historical path from Aristotle through courtly love and the
+     baroque aesthetic to Freud and contemporary linguistics, Lacan's
+     Seminar XX reappraises the questions posed in the ethics seminar
+     in order to explore the possibility of ethical love
+     differentiated from the ideal of the One in which Lacan sees one
+     of the forms of the foreclosure of both the historicity and the
+     jouissance of being--a collapse or debasement of being's
+     occurrence into substantiality or ideality. Repeating his own
+     formulas of sexuation, his understanding of the work of desire
+     and of the deceptions of love, Lacan points in Seminar XX toward
+     the possibility of rethinking love in connection with a certain
+     jouissance and in terms of the revised notion of being as
+     para-being. Encore opens a path to thinking the ethics of love
+     outside of the mirroring enclosures of narcissism and the effects
+     of sameness associated with the idea of the One. This possibility
+     pivots on redrawing the very notion of relation to the other into
+     a new, non-appropriative mode of relationality which is not
+     encompassed by desire, narcissistic or fusional love, or the
+     labor of the negative.
+
+  7. Recalling de Beauvoir's hope that the future will bring new,
+     re-imagined relations, Irigaray develops such relationality into
+     a redefinition of sexual difference as a transformative event in
+     which an encounter with the sexed other keeps reinventing
+     difference and thus opens the possibility of a new future. The
+     issues of the debasement of being and the possibility of ethical
+     love are closely connected in Irigaray's revision of sexual
+     difference and form her response to Lacan's repeated assertion
+     that sexual relationship does not take place. For Irigaray the
+     failure of sexual relation reflects the effective erasure of
+     sexual difference within the cultural paradigms of sexuation: the
+     figuration of "woman" as absence or the not-whole, as the other
+     to "man"--which issues from the metaphysical desire for sameness
+     and the unity of being--forecloses the possibility of exchange in
+     sexual relation and produces the illusion of unified and
+     universalizable experience. It is only by redefining the relation
+     between the sexes outside of the metaphysical strictures of
+     presence and absence, negation and unity, that it may become
+     possible to rethink the sexuate dimension of being beyond its
+     phallocratic debasement. Considering Irigaray in the context of
+     Heidegger's thought, I reappraise her redefinition of the
+     relationality of love in terms of a rethinking of Dasein into an
+     ethical, non-appropriative event of being-two. At stake in this
+     redefinition of love as a non-appropriative encounter, as is the
+     case with Lacan's seminars VII and XX, is also the question of
+     ethics.
+
+  8. To illustrate these re-negotiations between Lacan, Irigaray, and
+     Heidegger, I will focus on the implications of thinking the
+     subject of desire as a mediation, a middle link between Dasein
+     and being, on the one hand, and the subject of absolute
+     knowledge, on the other. Lacan's reading of Freud brings the
+     question of lack and absence, reformulated as the work of the
+     signifier, to bear on the Cartesian subject of certainty and also
+     on the Hegelian idea of history as the manifestation of the
+     subject's development toward absolute knowledge. It is the
+     structuring and grounding function of lack that dislocates the
+     Cartesian subject and opens it onto the subject of desire, which
+     emerges as another layer of subjectivity, constantly enveloping
+     and fracturing the subject of knowledge. Examining various forms
+     of love against the backdrop of the splits and lack intrinsic to
+     subjectivity, Lacan indicates that love functions as a supplement
+     both to the lack that structures desire and to the failure of
+     sexual relationship. Love takes two primary forms: narcissism, a
+     self-love described by Freud, and the philosophical-theological
+     idea of unity which, as Lacan puts it, has to do with the One,
+     that is, with the ideal of oneness and fusion that can be traced
+     back at least as far as Plato's Symposium. Against these two
+     dominant forms, Encore (hereafter abbreviated E) signals the
+     importance of rethinking love with respect to the failure of
+     sexual relationship, which, Lacan insists, although articulated
+     as a negation, marks something positive: "Yes, I am teaching
+     something positive here. Except that it is expressed by a
+     negation" (E 59). What fails in sexual relationship is objective;
+     what fails is, in fact, the object or objet a, which the desiring
+     subject keeps searching for and ascribing to the Other. "The
+     essence of the object is failure" (E 58). One crucial historical
+     instance of this failure of the object or of the object as
+     failure that Lacan analyzes in Encore is courtly love, which
+     sublimates the absence of sexual relation into poetic rhetoric.
+     In courtly love, which seems to have had a lasting influence on
+     European conceptions of love, love becomes the symptom of the
+     absence of sexual relation, a compensation for the lack in the
+     double form of idealized femininity and one's "courtly" relation
+     to it. Lacan's remark that the failure of sexual relation
+     represents something positive implies, however, that grasping
+     this failure as lack or negativity is already a misinterpretation
+     of the "being" of sexual relation, of the very manner in which
+     sexes relate. It is indeed possible to regard Encore as a series
+     of attempts to signal the positivity of the failure of sexual
+     relation, to open the door to reimagining this failure outside
+     the logic of supplementarity and its tendency toward
+     substantialization of being. I would argue that Seminar XX,
+     though at points hesitant and unclear, can be read in terms of an
+     effort to think difference and relation beyond the various forms
+     of negativity, logical or dialectical, in order to discern the
+     positivity marked in the failure of sexual relation.
+
+  9. As supplements to the failure in the "object" of love, the
+     diverse forms of love which Lacan mentions in the course of
+     Seminar XX produce a certain debasement of being, enclosing the
+     subject within narcissistic desire or evacuating the temporality
+     of being into phantasmatic objects or metaphysical ideals. An
+     attempt to counter this "depreciation" of being, Lacan's comments
+     about a certain positivity manifested in the failure of sexual
+     relationship which does not require supplements allow us to read
+     this failure as opening a path, a different trail, as it were, to
+     the other. These remarks indicate the need for reformulating the
+     discourse of love into a new mode of relationality, disengaged
+     from knowledge and desire. More importantly, they can be read as
+     signaling the critical importance of rethinking relationality
+     apart from the logic of negativity which underpins the
+     metaphysical articulations of being and the cultural logic of
+     sexuation. The ending of Encore expressly dissociates love from
+     the order of knowledge (E 146). Since love may occur only as that
+     something positive marked negatively as the failure of sexual
+     relation, it does not require the support of objet a and,
+     although related, perhaps often inextricably, to desire, does not
+     belong to the same order or operate the same relation. Such "new"
+     love points to a different layer of subjectivity, marked within
+     but at the same time pointing beyond the subject of knowledge and
+     the subject of desire. Lacan does not expand on the possibility
+     of this "may be" of love in Encore, hinting only that it has to
+     do with the body and with a jouissance whose economy "should not
+     be/could not fail to be phallic" or that of the not-whole which
+     Lacan associates with the possibility of feminine jouissance.
+
+ 10. This jouissance emerging from Lacan's remarks dispersed
+     throughout Encore marks a certain mode of bodily being, which
+     Lacan associates with the para-being of signifierness
+     (signifiance) and opposes to the substantialized being and its
+     diverse avatars: truth, knowledge, supreme being, soul, etc. (E
+     71). If the soul unifies the body, jouissance "writes" it, i.e.
+     unfolds the bodily being as a certain drift and a text or texture
+     of experience, irreducible to our knowledge of it (E 110-112).
+     The jouissance occurs in the mode of "failing to be," that is, it
+     fails to be substantialized, it eschews the substantive and
+     signified forms of being, marking itself as the positivity of
+     this failure. Since it fails to ever be (as substantive), this
+     jouissance cannot be known: it represents an affect or passion of
+     para-being, a passion that has neither the positivity of presence
+     nor the negativity of absence. This is why Lacan refers to it as
+     a "passion for ignorance" (E 121), opposed to the passion for
+     knowledge and working beyond the dialectic of love and hate. If
+     knowledge works within or at least toward the temporality of
+     presence and desire operates the temporality of absence and lack,
+     the passion for ignorance would have to be thought in terms of a
+     different temporality, one that cannot be explained by the logic
+     of progress, negation, or accumulation. It is neither the
+     positivity of the one nor the negativity of the not-whole, with
+     its "failing," accumulative logic of one plus one plus one. As
+     this mode of being, the jouissance that Lacan is after is also
+     differentiated from objet a and the symbolic, which produce
+     semblance of being and block the path to the other (E 93-94).
+     Such a jouissance is never properly of language (langue) or
+     appropriate to it but, rather, operates as its inter-dit: as
+     lalangue (E 121). Inter-said only in its interdiction, this
+     jouissance of being finds itself prior to signification, prior to
+     the effects of the signifier and its "stupid" logic of
+     collectivization. This jouissance undermines the hold that truth
+     and thought have on being, a hold that debases being into the
+     "stupidity" of the One and the illusory permanence of
+     substantives. As Lacan suggests, this jouissance allows us "to
+     relegate the truth to the lowly status it deserves" (E 108). In a
+     Heideggerian gesture, Lacan opposes to the truth the pathway, the
+     changing and temporalizing path of wisdom offered by Taoism.
+     Finally, since this jouissance is inappropriate for language or
+     truth, it is linked to the fact that sexual relationship fails,
+     that is, fails to be ever constituted. The positivity of the
+     failure of sexual relation has to do with pathways of this bodily
+     jouissance, with the temporality of its being, which prohibits
+     sexual relationship, that is, lets it happen only as inter-dit,
+     as inter-said. Inter-dit marks the different temporality of
+     jouissance, which refracts the logic of presence and absence, and
+     therefore fails to articulate itself in terms of the operations
+     of negation. It is in relation to this different
+     temporality--neither of knowledge nor of desire--that we need to
+     rethink the failure of sexual relation.
+
+ 11. Irigaray's Speculum and This Sex Which Is Not One reformulate
+     feminine morphology and the jouissance Lacan discusses in Encore
+     away from the economy of the not-whole and into a new
+     relationality of proximity, based on a critical appropriation,
+     through the prism of sexual difference, of Heidegger's idea of
+     nearness (Nähe) and Levinas's proximity, together with their
+     explicit ethical connotations. In an important way, Irigaray's
+     notions of proximity and wonder, critical to her project in An
+     Ethics of Sexual Difference (hereafter abbreviated ESD) form a
+     response to the Levinasian rethinking of ethical relation as a
+     radical proximity in Totality and Infinity and Otherwise than
+     Being or Beyond Essence, a response that resignifies proximity
+     specifically in terms of sexual difference.[3] The notion of
+     proximity developed by Irigaray, delineating an interval which
+     cannot be crossed or thematized, is also evocative in its
+     spatio-temporal drift of Lacan's inter-dit: the writing
+     in-between words or lines, both prohibited by language and
+     representation and yet marked and thus in some way arriving in
+     the very interdiction that forecloses its expression. Proximity
+     inter-says itself between presence and absence, between knowledge
+     and desire, mapping a relationality that is too close for
+     producing either identification (sameness) or separation
+     (negation). As Irigaray refers to it, proximity is "neither one
+     nor two," it has to do neither with the One nor with negation.
+     The modality of relation which Irigaray calls proximity provides
+     an alternative to the subject-object relation and its basis in
+     the logic of negation with the corollary opposition between
+     presence and absence. It is a relation that fails to "be," i.e.
+     fails to identify the one with the other, that, in other words,
+     does not submit to the labor of the negative. Without either
+     becoming present or being simply absent, proximity does not fail
+     to mark difference, albeit otherwise, in its non-substantive,
+     spatio-temporal drift.
+
+ 12. Lacan's inter-dit recalls Heidegger's distinction between logos
+     and glossa from Introduction to Metaphysics, where logos refers
+     to what gets said between words, as it were, and, at the same
+     time, becomes veiled by the play of signs.[4] This distinction
+     reappears in Heidegger's 1951 essay "Logos," which Lacan
+     translated into French: "Thus, the essential speaking of
+     language, Legein as laying, is determined neither by vocalization
+     fwnh nor by signifying shmainein. Expression and signification
+     have long been accepted as manifestations which indubitably
+     betray some characteristics of language. But they do not
+     genuinely reach into the real of the originary, essential
+     determination of language, nor are they at all capable of
+     determining this realm in its primary characteristics" (Early
+     64). There is something of language beyond signification and
+     articulation, beyond the play of the signifier and the
+     solidifying force of the signified. Heidegger claims that
+     signification does not determine the originary realm of language,
+     i.e. that spatio-temporal event which in each moment has always
+     already laid out the relationality within which signification
+     becomes possible. This laying out of a relationality is the
+     meaning of logos as a language "beyond" language: logos is the
+     saying that inter-says itself in the play of significations, both
+     marked and foreclosed by the logic of the signifier. This
+     rethought Heideggerian logos is then non-logocentric and refers
+     to a relationality that, within the spatio-temporal unfolding of
+     being, fails to be either present or absent, and yet marks a
+     certain positivity, a non-metaphysical pulsation of being which
+     cannot be reduced to negation or lack. Still, logos cannot fail
+     but to conceal itself within the negative logic of being, within
+     the opposition between presence and absence. Making a distinction
+     between words and signs, Heidegger remarks that logos is the word
+     marked as erased between signs, the word that sinks down into and
+     becomes concealed in language (Einführung 131). Logos then marks
+     the rhythm in which being lays itself out, its historico-temporal
+     unhoming, that is, its intrinsic openness onto the unheimlich.
+     Reinterpreting truth as aletheia or unconcealment, Heidegger
+     remarks in "On the Essence of Truth" that unconcealment happens
+     in the midst of concealment, within the non-essence (Un-Wesen )
+     or pre-essential essence (vor-wesende Wesen ) of truth, which is
+     constituted as a Geheimnis, a mystery (Pathmarks 148; "Vom Wesen"
+     191). The mystery at stake in Dasein is not "mystical," but
+     rather concerns the unhoming intrinsic to Dasein, its modality of
+     being itself as unheimlich. Playing with Heidegger's later
+     remarks on the function of Ge- in Ge-stell, or the "enframing"
+     characteristic of modern technology (note to "The Question
+     Concerning Technology") we could say that this mystery
+     (Geheimnis) or concealment relates the various ways in which
+     otherness and being-outside-itself constitute Dasein into the
+     disclosedness of beings.
+
+ 13. As inter-dit, Lacan's jouissance from Encore can be interpreted
+     in terms of the concealing temporality of the logos and its
+     Unheimlichkeit. What interdicts jouissance is its modality of
+     para-being, its concealment from both presence and absence, its
+     neither negative nor positive logic. If this jouissance always
+     fails it is because its positivity has the mode of logos:
+     inscribed into the logic of fulfillment and lack, such jouissance
+     has always already failed. Not because it fails to fulfill the
+     expectation and thus marks a lack but because jouissance's logos
+     is not of the logic of fulfillment, which presupposes presence
+     and immediately brings with it its negation: lack. Lacan suggests
+     that this inter-dit grants us access to a certain kind of the
+     real which needs to be exposed (E 119), unconcealed in its logos
+     of concealment. At stake in the inter-dit is, therefore, a
+     different logos of relationality, a mode of relatedness that
+     inhabits the real beyond the signification of this logos as
+     having to do with the one, as "sayable" in terms of the
+     metaphysical logic of being and its labor of the negative. The
+     difficulty of exposing this real lies in its refraction of
+     presence, a refraction which, however, cannot be mistaken for the
+     force of negation and subsequently constituted into lack. Such
+     real is not the inaccessible Kantian Ding, separated from
+     language and perception, but is rather the inter-said whose
+     "failed positivity" inlays and de-structures language. While
+     little of this real remains accessible in terms of signification,
+     it is hardly absent from language, continuously inlaying
+     expression.
+
+ 14. For Irigaray, this real and its different mode of relationality
+     takes place as the event of wonder, constituted as the fluid
+     proximity between the one and the other: "A third dimension. An
+     intermediary. Neither the one nor the other" (Ethics 82). This
+     event where there is neither one nor two, where, in other words,
+     the logic of identity and difference underpinning the subject's
+     relation to the other does not operate, frames Irigaray's attempt
+     to articulate new, so far unimagined forms of sexual relations--a
+     new relationality of love. In order to articulate this new
+     relationality more clearly, I will examine Irigaray's work in
+     terms of the effects that the ontico-ontological difference and
+     the ecstatic temporality it encodes produce on both the subject
+     of knowledge and the subject of desire. Her writings discern a
+     certain parallel between the operations of knowledge and desire
+     with respect to temporality and the ontico-ontological
+     difference: both desire and knowledge end up collapsing the
+     ontico-ontological difference and, thus, conceal the finitude of
+     being. While the subject of knowledge effaces the temporality of
+     being by constituting consciousness into the presence of
+     representations, desire, as a relation structured through lack,
+     clothes the paradoxically constitutive absence into the desired
+     presence of objet a. Both knowledge and desire are structured in
+     terms of the opposition between presence and absence: knowledge
+     as the sublation of difference into presence, desire as lack or
+     the lost presence of primary jouissance. For Irigaray, desire
+     remains coupled with the fantasy of origin, of the original or
+     primary satisfaction, and can only with difficulty be
+     disconnected from the gesture of encircling or taking hold of. It
+     seems that for Irigaray both the subject of consciousness and the
+     subject of desire are still metaphysical, although in different
+     ways. The first one sublates absence into the presence of
+     knowledge and the self-presence of consciousness; the other, in
+     Lacan's re-reading of Hegel, foregrounds the structuring force of
+     absence, the effect of the signifier, the lack desiring its own
+     perpetuation.
+
+ 15. These appropriative tendencies in knowledge and desire lead
+     Irigaray to reconceptualize love in a way that calls into
+     question both the subject of knowledge and the subject of desire.
+     In An Ethics of Sexual Difference, this critical reformulation is
+     developed through a reading of Descartes' philosophy of passions,
+     in which Irigaray points out that for Descartes desire remains
+     secondary to wonder (ESD 77) and she comments on the conspicuous
+     absence of wonder in Freud's theory of passions: "[Descartes]
+     does not differentiate the drives according to the sexes.
+     Instead, he situates wonder as the first of the passions. Is this
+     the passion that Freud forgot?" (ESD 80). Although Irigaray does
+     not develop her comments on the relation between wonder and
+     desire, the direction of her argument is clear: she considers
+     wonder to be the first passion, prior to desire and knowledge,
+     though not in a developmental or linear sense. Wonder can be,
+     then, seen as parallel to that third jouissance, to the passion
+     for ignorance, which Lacan opposes to love and hate toward the
+     end of Encore. Freud forgets this passion because it is covered
+     over not only by knowledge but also by the logic of desire.
+     Preceding desire, wonder functions as the very intermediary of
+     relations, their third term (ESD 82). Irigaray thinks of wonder
+     as the passion in which there is no separation between body and
+     mind, between thought and affect, between thought and action: "A
+     passion that maintains a path between physics and metaphysics,
+     corporeal impressions and movements toward an object, whether
+     empirical or transcendental" (ESD 80). It becomes clear, then,
+     that rereading Descartes,[5] Irigaray is also reinterpreting the
+     Lacanian subject of desire in relation to the bodily jouissance
+     of being reformulated as admiration or wonder. What this
+     rereading points to is another layer, or better, a different mode
+     of being, beyond both the subject of knowledge and the subject of
+     desire: it is the temporality of wonder in terms of which
+     Irigaray redefines love.
+
+ 16. To flesh out this opening of the subject of desire onto a new
+     relationality of love beyond narcissism and the idea of the One,
+     Irigaray reinterprets Diotima's speech from Symposium, not only
+     setting Diotima's remarks explicitly against the idea of unity
+     but also using them to distinguish between the workings of love
+     and desire. She situates desire in the context of will,
+     intention, and teleology, contrasting it with wonder, which
+     describes a non-appropriative and transformative relation to the
+     other. Tracing this distinction between love and desire, Irigaray
+     remarks that love (eros)--the pathos that guides wonder--has the
+     force of an intermediary but becomes stymied and declines when
+     desires, aims, and objectification set in: "It seems that during
+     the course of her speech, she diminishes somewhat this daimonic,
+     mediumistic function of love, such that it is no longer really a
+     daimon, but an intention, a reduction to the intention, to the
+     teleology of human will, already subjected to a kind of thought
+     with fixed objectives, not an immanent efflorescence of the
+     divine of and in the flesh. Love was meant to be an irreducible
+     mediator, at once physical and spiritual, between the lovers, and
+     not already codified duty, will, desire" (ESD 30, my emphasis).
+     As the passion of wonder, love remains prior to desire, because
+     desire operates on the level of intention and, turning what is
+     desired into an object or a goal, "debases" its being.
+     Elaborating on this critical change in being, Irigaray remarks
+     that, instead of loving one's lover, one begins to desire one's
+     beloved: "In the universe of determinations, there will be goals,
+     competitions, and loving duties, the beloved or love being the
+     goal.... Love becomes a kind of raison d' état " (ESD 30). When
+     love becomes distanced from becoming, the temporality of wonder,
+     its jouissance, becomes collapsed into goals and reasons: family,
+     procreation, the state, politics, production and so on.
+
+ 17. Perhaps the most important aspect of wonder is that, unlike
+     desire, it is not constituted through lack. Wonder operates as a
+     transformative interval, in which the other's difference is
+     encountered in a "positive" way, i.e. it produces a change not
+     simply in the manner of the subject's being but in the very mode
+     of the relation itself. As Irigaray puts it, wonder is "the
+     opening of a new space-time" and "a mobilization of new energies"
+     (ESD 75). This distinction between desire and wonder is critical
+     for Irigaray, specifically with respect to how the other's
+     difference becomes manifested and affects the valency of
+     relation. Lack points to alienation; it is read negatively, as a
+     repeatedly missed satisfaction. It could be argued that the logic
+     of lack presupposes the idea of presence: even though lack is the
+     effect of the signifier and the signifier never produces full
+     presence, the very notion of lack becomes accessible via its
+     presupposed opposition to presence. As Lacan points out, access
+     to language is opened through the mastering of the absence of the
+     lost object. But the paradigm of absence/presence already marks a
+     certain forgetting of the temporality of being: the oedipal logic
+     operates as a covering of the originary event-temporality, as a
+     veiling of the para-being (par-être), which Lacan explores in
+     Encore.[6] If desire owes its dynamic to a lost origin, i.e., to
+     primary satisfaction, then it is put into motion by a
+     (mis)reading of being in terms of possession and lack--a logic
+     that substantializes and objectifies the non-substantive
+     spatio-temporality of being in an attempt to appropriate it. This
+     is why in her remarks on Descartes Irigaray emphasizes the force
+     of motion intrinsic to wonder: this force marks the
+     non-substantive and non-essential modality of being, indicating
+     that being is not about having or losing, since in wonder there
+     is nothing, literally no-thing or object that could be possessed.
+     Wonder is a modality of relatedness that does not transpire in
+     terms of the subject-object relation, it is a disposition in
+     which there are no positions that are proper to subjectivity or
+     its objects. While desire is haunted by the specter of
+     satisfaction, wonder is about jouissance without satisfaction,
+     without objects, real or imaginary.
+
+ 18. What changes in the turn from wonder to desire is the mode of
+     relating: from non-appropriation and proximity to relation
+     instituted in terms of goals, appropriation, hierarchy,
+     subordination, and command. From the perspective of wonder one
+     could say that desire is a repetition of the missed satisfaction
+     not because such satisfaction cannot be recovered, i.e., because
+     it belongs to a lost past, but rather because being in its
+     temporality is not about satisfaction or having. Lacan's critique
+     in Encore of the logic of presence and absence in terms of
+     para-being indicates that desire keeps misreading its own
+     dynamic, it keeps missing the way being works only as para-being.
+     As a result, desire keeps knotting being into the cause of
+     desire, a cause that remains without substance, a void. In other
+     words, desire still reads being metaphysically, in terms of lack
+     and absence. Desire feeds on this lack and replenishes it in
+     order to reproduce its own circular or knotting logic. From
+     Heidegger's perspective, this logic is nihilistic: "In the
+     forgetfulness of being to drive [betrieben] only at beings--this
+     is nihilism" (Einführung 155).[7] When the force, the pulsation
+     of being becomes forgotten and what is repeatedly belabored,
+     driven at, are objects or beings, nihilism takes over existence.
+     Nihilism is not annihilation of beings or lack of values, but is,
+     on the contrary, the forgetting of being in the fixation on
+     objects, whether real, imaginary, or symbolic. These objects
+     include values, ideas, knowledge, the One of love and the One of
+     knowledge. It is only in relation to such objects that being can
+     be seen as lacking. The fact that being is not and lacks in being
+     an object or a substance to be possessed, brings desire into
+     being--desire that wants to forget being and imagine objects in
+     place of the non-appropriable event. At the same time, the fact
+     that being is not, that it is no-thing, no thing or object,
+     undoes any and all such attempts: no being or entity, because it
+     occurs, because it is in being, can ever be an object and live up
+     to desire. Nihilism produces its own frustration and feeds on its
+     repetition. To undermine the hold of this nihilism, it is
+     necessary to call into question the debasement of being's
+     historico-temporal event into objects--it is, in other words, to
+     question the logic of desire.
+
+ 19. In her reformulation of wonder, Irigaray thinks para-being
+     precisely as a counter to the appropriative, nihilistic logic of
+     desire, and to the lack that it marks in being. To explain this,
+     I would need to flesh out in more detail the similarities and
+     differences in Lacan's and Heidegger's approaches to language.
+     Let me just suggest here that such a comparison would disclose
+     the possibility of rethinking the logic of the Lacanian signifier
+     from the effect of lack to what, in Heideggerian parlance, might
+     be called an event temporality, which operates beyond the idea of
+     lack and satisfaction. Lacan himself gestures in this direction
+     with his comments on para-being, on the par-être that does not
+     appear. This understanding of temporality underpins Irigaray's
+     notion of wonder, to which she explicitly refers as an event: an
+     event and advent of the other. To explain the implications of
+     Irigaray's idea of wonder, I will focus on two of its aspects:
+     temporality and the sense of otherness disclosed in it, and I
+     will do so by commenting on those two facets in Heidegger's
+     discussion of Dasein in Being and Time. I suggested earlier that
+     Irigaray reads Lacan as diagnosing the "missing" link, the
+     subject of lack, located between Dasein and the subject of
+     knowledge. This reading allows Irigaray not only to rethink Lacan
+     encore, as it were, through Heidegger but also to reconsider
+     Dasein in relation to desire and sexual difference.
+
+ 20. The term Dasein refers to the specifically human mode of being in
+     its finite temporality. It does not designate the subject but,
+     rather, describes the pre-subjective and embodied mode of being,
+     which comes to understand itself in terms of an open context of
+     relations which make up Dasein's spatio-temporal
+     being-in-the-world. Those relations include Being-with, or
+     Dasein's comportments toward other human beings. In the
+     frequently misunderstood remarks about authenticity from Being
+     and Time, Heidegger maintains that Dasein is "authentic"
+     (eigentlich) only in the mode of Unheimlichkeit, that is,
+     uncanniness or, better, "unhomeness." Dasein occurs authentically
+     only at the moments when the temporalizing force of its finitude
+     undermines the impersonal familiarity of its daily
+     identifications. Heidegger calls these identifications the
+     "they-self," the self that comprises the realm of language,
+     symbolic and imaginary identities: "It is Dasein in its
+     uncanniness [unhomeness]: originary thrown being-in-the-world as
+     'not-at-home,' the naked 'that' in the nothingness of the world"
+     (Being 255, slightly modified).[8] The term Un-zuhause
+     (not-at-home) makes clear that Heidegger's notion of
+     Unheimlichkeit places the emphasis on being "un-homed,"
+     understood as the mode of being in which Dasein occurs as
+     "authentic." To put it differently, Dasein is "authentic" in an
+     originary exposition to alterity, which means that it is its-self
+     as unhomed toward what is other, as divested of stable or
+     substantive identities offered in its culture. When Dasein
+     experiences itself as "at home" in its everyday being, it has
+     forgotten the otherness, the "un-homing" at work in its own
+     temporal mode of being, and has covered over its originary
+     openness to what is other. The originary opening to the other
+     constitutes a temporal event, in which the modality of being is
+     not presupposed or imposed but, instead, brought about and
+     co-constituted in relation to the other. To put it differently,
+     the shape or the form which being-in-the-world takes depends on
+     the modality of relating to the other, on whether one does not
+     forget that the familiarity of everyday being--with its "routine"
+     forms of experience, understanding, and representation--takes
+     place each moment within an originary "unhomeness."
+
+ 21. Dasein understands itself without ever being able to articulate
+     this understanding into a knowledge, because this understanding
+     is "practical": it happens as the activity of being-in-the-world
+     in which Dasein comports itself toward things and others. What is
+     so unhoming in this understanding, i.e. in the human mode of
+     being, is finitude, and the de-substantializing effects of its
+     temporality, which disclose to Dasein the fact that things are
+     not substantive, that they are never objects, that, in
+     psychoanalytic terms, they cannot be satisfactory in the way our
+     desire wants them to be. Heidegger's rethinking of Freud's
+     uncanny certainly indicates that the finite temporality of Dasein
+     calls into question the logic of desire, that it forces a
+     rethinking of the dynamic of relation to what is other. That
+     dynamic would have to be rethought from what Heidegger calls the
+     ecstatic temporality particular to Dasein. Heidegger writes that
+     Dasein's time unfolds as an always momentary complex of the three
+     ecstasies of time: the has been (Gewesenheit or the "past"), the
+     making present, and the coming-toward (Zu-kunft) or the future.
+     For our purposes, what matters in Heidegger's detailed
+     explanation of the rise of the common concept of time out of the
+     ecstatic temporality of Dasein[9] is that ecstatic temporality
+     provides a critique of the concepts of time and history grounded
+     in the metaphysical opposition between presence and absence. As
+     the name indicates, ecstatic temporality is the originary mode of
+     being outside itself, that is, of being open to otherness:
+     "Temporality is the originary 'outside-of-itself' [Ausser-sich]
+     in and for itself" (BT 377/329 modified). Temporality means being
+     always extended outside itself, beyond what becomes present.
+     Dasein occurs as concerned with the "outside-of-itself," and this
+     concern or care, as Heidegger refers to it, takes the form,
+     especially in his later writings, of letting-be. In other words,
+     the possibility of letting what is other be as what it is in its
+     difference is linked with the temporal occurrence of Dasein as an
+     originary "outside-of-itself." What makes Dasein Dasein, that is,
+     what constitutes the human mode of being, is this originary
+     extending or openness toward otherness.
+
+ 22. Dasein "understands" itself existentially in terms of its
+     project, i.e. as a projection onto its possibilities for being,
+     it sees itself futurally in relation to its power to be. Within
+     this projection, the past is not a matter of re-membering or
+     reconstructing past situations with historical exactness, but of
+     retrieving it "existentially," that is, as a kind of
+     (self)interpretive acting which always already extends the
+     present's paths into the future. Therefore, history is primarily
+     futural: its temporalizing matrix works as a disjoining
+     structure, in which historical being orients itself in terms of a
+     sheaf of possibilities. As Heidegger remarks, temporality
+     discloses "the silent force of the possible" (die stille Kraft
+     des Möglichen) (Sein 394) as intrinsic to the dynamic of being.
+     This silent force of the possible indicates that transformation
+     is intrinsic to the very dynamic of occurring: it is tied to the
+     shape which the relation to the other takes.
+
+ 23. This transformative vector of temporality is of critical
+     importance to understanding Irigaray's remarks about wonder. In
+     Heidegger, Dasein names a mode of being, which does not have a
+     place but occurs as an interval, as a temporal project, if you
+     will, within which the relation between the subject and the other
+     unfolds. In "On the Essence of Truth," Heidegger explains that
+     Dasein does not belong to human beings but constitutes a
+     relationality of freedom into which humans can be "released":
+     "The human being does not possess freedom as property. At best,
+     the converse holds: freedom, ek-sistent, disclosive Dasein,
+     possesses the human being...." (Pathmarks 145). Dasein stands for
+     a relatedness to being in which the human being can participate,
+     a relatedness which is always tuned in a particular way, as the
+     play of concealment and unconcealment. It is the manner in which
+     beings become unconcealed that brings Dasein into an attuning (a
+     Gestimmtheit or a Stimmung) in which it can be free. Stimmung,
+     pitch or mood, cannot be understood here in terms of psychology
+     or lived experience. Instead, it refers to what is best
+     understood as a disposition, a disposing of relations between
+     being, beings, and human beings. The site, the there or the Da of
+     such a disposition is called Da-sein, there-being. Entering into
+     this modality of being, humans find themselves within a certain
+     relatedness where their relation to being and beings becomes
+     disposed into either a disclosive freedom, a non-appropriative
+     mode of relationality, or into a grasping, appropriative relation
+     that obscures the disposition of Dasein. In Heidegger, the
+     non-appropriative and appropriative exist in a tension, which
+     marks the occurrence of the event or Ereignis. The notion of
+     Dasein as a temporal project marked by the transformative force
+     of the possible allows Heidegger to disentangle a mode of being
+     which remains free from the Hegelian dialectic of recognition and
+     its intricate mesh of desire and knowledge. Heidegger shows that,
+     as such a temporal project, Dasein is in each moment "mine";
+     however, it is "mine" not by way of possession or identity, but
+     is "mine" in its very force to be, in its transformative, futural
+     vectors.
+
+ 24. I see Lacan's remarks from Encore on para-being and jouissance as
+     the context that allows Irigaray to introduce into this
+     Heideggerian way of thinking a critical reformulation of Dasein
+     into what Irigaray's recent writings call being-two.[10] If
+     Dasein is the in-between, the fold from which the relation
+     between subject and the Other emerges, the change Irigaray
+     suggests is that this in-between is itself vectored as being-two.
+     Being-two refers not to the subject's relation to the other but
+     to a mode of encounter, in which there is no "one" as the subject
+     and no "other" as the object of desire: "one" and "other" only
+     occur in the mode of being two, which does not signify the split
+     or the lack that (un)grounds the subject but the originary
+     openness to otherness as the possibility of the future and
+     transformation. According to Irigaray, prior to the uneasy
+     embrace of the subject of desire and the subject of knowledge,
+     there is a mode of being-two, a mode of
+     being-in-sexual-difference. In this openness constitutive of
+     being two, otherness has the positive valency of the possibility
+     of transformation: it is not a sign of lack or threat but of the
+     possibility of freedom and change as the vectors of the encounter
+     with the other. Being-two thus redefines otherness beyond the
+     subject-object opposition on the level of knowledge, and beyond
+     the subject-Other relation on the level of desire. If Dasein is a
+     temporal project of possibilities-to-be, within being-two, this
+     project is already inflected, asymmetrical; it is transformative
+     by virtue of the other's singularity. It is in this specific
+     sense that I refer to Irigaray's wonder as originary: Heidegger's
+     term ursprünglich, mistakenly interpreted as primordial, does not
+     refer to a past which Dasein would somehow try to repeat or get
+     back to but to the originary force with which each moment opens
+     itself into the futural possibilities for being. To say that
+     wonder is originary does not mean that it refers to an origin, to
+     a primal moment or scene, but that it happens with the
+     transformative force of a future-opened temporal project. If
+     desire operates in relation to a primary satisfaction, to an idea
+     of an original jouissance, wonder sketches a different dynamic of
+     relation, one turned toward the future as the new.
+
+ 25. Being-two is Irigaray's way of marking being with sexual
+     difference and also her attempt to rethink love in terms of
+     wonder. As she remarks in Être Deux, "The dualism of subject and
+     object is no longer overcome in the fusion or ecstasy of the One
+     but in the incarnation of the two, a two irreducible to the
+     One...." (108).[11] Being-two becomes the figure for a mode of
+     being that bespeaks neither the unity of the one nor the
+     difference between the two (or more, i.e. multiplicity), but
+     refers to an incarnated and concrete mode of being that eschews
+     both monism and dualism. In social and political terms, being-two
+     sketches an economy of relations alternative to the dominant
+     paradigm of sociality conceived as the integration of individuals
+     into a social totality. For Irigaray universality is not produced
+     by sublating particularity into generality but marks itself
+     within the singularity of the event of being-two. Being-two
+     functions an "existential," i.e. incarnate and concrete,
+     universal from which existence unfolds: "[w]ithout doubt, the
+     most appropriate content for the universal is sexual difference.
+     Indeed, this content is both real and universal" (I Love 47).
+     This revised universality eludes the idea of totality or
+     homogeneity and inscribes, instead, an unquantifiable proximity
+     between the two (sexes) from which social and political relations
+     develop. Such a "universal" remains intrinsically futural: it is
+     not produced as unified totality but remains to be enacted,
+     carried out and decided, futurally, as the transformative and
+     differential event of being-two.
+
+ 26. Irigaray's remarks about being-two allude to Lacan's critique of
+     love in Encore, and try to spell out a new relationality of love
+     as the asymmetrical event of being-two beyond narcissism and the
+     idea of the One. The unhoming (unheimlich) and transformative
+     temporality of this event make it possible to rethink sexual
+     relation in the following way: the failure of sexual relation
+     becomes the mark of its event dynamic, it reflects the fact that
+     sexual relation cannot be written, signified, or substantialized,
+     because it is real. Sexual relation becomes "real" not in any
+     substantive or atemporal, unreachable sense, but precisely by
+     virtue of the silent force of the possible that it literally
+     keeps incarnating in the event of being-two. Rethinking
+     Irigaray's being-two in the context of Heidegger's analytic of
+     Dasein lets us flesh out the real in terms of its futural
+     temporality and its forces of the possible. Irigaray would say
+     that it is precisely love as sexual relation that enacts, as it
+     were, and keeps incarnating the real as the transformative force
+     of being. In being-two, the unhoming/transformative force of
+     being becomes real. Reformulating de Beauvoir's "one becomes a
+     woman," Irigaray would say that love and sexual difference become
+     real with each pulsation of being, and they become real to the
+     extent that the unhoming force of the encounter is not produced
+     as lack but as the force of the possible.
+
+ 27. Conceiving being-two in futural terms as a transformative
+     relationality can be seen as a response to the problem of the
+     debasement of being, which Lacan's Encore associates with the
+     logic of presence and absence, with the opposition between being
+     and non-being. What such a "debasement" forecloses is precisely
+     the futural vector of the "silent force of the possible," to
+     recall Heidegger's remark from Being and Time. Irigaray rewrites
+     this force of the possible into a relationality of love, into a
+     space of freedom and transformation marked in the proximity of
+     being-two. Irigaray's wonder disengages desire from the logic of
+     lack and reformulates it in terms of the futural vector of the
+     possible: "Desire would be the vectorialization of space and
+     time, the first movement toward, not yet qualified.... In a way,
+     wonder and desire remain the spaces of freedom between the
+     subject and the world. The substrate of predication? Of
+     discourse?" (ESD 76). Desire thought in the register of wonder
+     has no cause, only a momentum which vectorializes relations
+     without qualifying or substantializing them; it is desire that
+     does not operate on lack and repetition but in terms of excess
+     and the new.
+
+ 28. Lacan's Encore reappraises the question of ethical love in terms
+     of jouissance, the body, and para-being as the alternative to the
+     phantasmatic logic of desire and the power of the One. How thin a
+     line separates the possible ethical jouissance of para-being in
+     our relation to the other from the domains of desire and
+     knowledge is staged by the ending of Encore. Staged, not
+     articulated, because Lacan clearly disengages the possibility of
+     the different understanding of love Encore is after from
+     knowledge, from the kind of love that knows the other as the One:
+     "to know what your partner will do is not a proof of love" (E
+     146). This sentence closes the last page of Seminar XX, the page
+     on which Lacan plays with the idea of encore as both enacting and
+     subverting the logic of desire: "Shall I say, "See you next
+     year"? You'll notice that I've never ever said that to you. For a
+     very simple reason--which is that I've never known, for the last
+     twenty years, if I would continue next year. That is part and
+     parcel of my destiny as object a" (E 146). The not-knowing in
+     this remark is part and parcel of the logic of objet a, tempting
+     with the possibility of its own impossible materialization. Lacan
+     positions his discourse as objet a, enticing with the supposed
+     final knowledge, desiring it yet again, encore, and making it
+     still (encore) to come. This doubling encore can be read as the
+     lack constitutive of the nihilistic desire to know or as a
+     freeing encore, liberating the event (of the end of the seminar)
+     from the logic of presence and absence into the event's possible
+     force of the future to be. One could say that the not-knowing
+     Lacan mentions masks the understanding of how the futurity of
+     being makes desire unsatisfiable; and yet desire cannot help but
+     keep collapsing being's event into an object. What emerges from
+     Lacan's performance is a distinction between two senses of
+     possibility. In the first sense, possibility is grasped in terms
+     of the knowledge of what it might be; possibility is either
+     conceived in its deferred presence or enacted in its repeated
+     lack, the two sides of the repetition of absence in desire. In
+     the first sense, possibility is either grasped in terms of the
+     knowledge of what it might be, and thus conceived in its deferred
+     presence, or enacted in its repeated lack, the two sides of the
+     repetition of absence in desire.
+
+ 29. Irigaray's An Ethics of Sexual Difference, seen as a response to
+     Encore, explores the collapse of these two possibilities in terms
+     of the turn from wonder to the logic of lack, lack which desire
+     keeps repeating and knowledge tries to supplement. Both Lacan and
+     Irigaray indicate the difficulty of keeping this difference in
+     play, and both underscore its importance for the possibility of
+     love and ethical relation to the other. To articulate this
+     originary relation of wonder apart from lack and negativity, I
+     have brought together Heidegger's critical approach to being,
+     more specifically, his reading of being in terms of a futural
+     temporality opened by the critique of the subject in Being and
+     Time, and Irigaray's appropriation of it in her reformulation of
+     sexual difference. The futural relationality in terms of which
+     Dasein understands itself as being-in-the-world breaks free of
+     the dialectical labor of the negative, at the same time that it
+     does not entail positing the real as unchangeable or
+     inaccessible. Such a futural-transformative modality of
+     relatedness allows Irigaray to articulate the being-two of love
+     as a relation in which difference marks itself neither in terms
+     of negation nor separation but as the transformative interval, as
+     the proximity that keeps reformulating the very parameters of
+     relation and obligation to the other. My tiered reading of Lacan,
+     Irigaray, and Heidegger suggests a new direction for Lacanian
+     interpretation, one that takes neither the Kantian nor the
+     Hegelian route but revises the question of (sexual) relation and
+     love in terms of the Heideggerian rethinking of being through
+     temporality. This perspective reinforces Irigaray's critique of
+     Hegel's understanding of love and helps further radicalize her
+     reworking of the labor of the negative in terms of the
+     transformative relatedness of wonder beyond negation. It makes
+     possible fleshing out the problem of love in radically temporal
+     and embodied terms, as the ethical relationality of wonder
+     distinct from the temporal logic of negation and lack. Such an
+     ethics of wonder becomes distinguished in the "positivity" of its
+     transformative event from the labor of negation which underlies
+     the repetitive replaying of the possible as the deferred or
+     missed possibility of actualization. Reading Lacan's Seminar XX
+     in relation to Irigaray and Heidegger illustrates how love and
+     ethics, always encore, ride on this distinction in the vectors of
+     possibility between lack and wonder.
+
+                                                 Department of English
+                                              University of Notre Dame
+                                            Krzysztof.Ziarek.2@nd.edu
+
+     -----------------------------------------------------------------
+
+     COPYRIGHT (c) 1999 BY KRZYSZTOF ZIAREK, ALL RIGHTS RESERVED. THIS
+     TEXT MAY BE USED AND SHARED IN ACCORDANCE WITH THE FAIR-USE
+     PROVISIONS OF U.S. COPYRIGHT LAW. ANY USE OF THIS TEXT ON OTHER
+     TERMS, IN ANY MEDIUM, REQUIRES THE CONSENT OF THE AUTHOR AND THE
+     PUBLISHER, THE JOHNS HOPKINS UNIVERSITY PRESS.
+
+     THIS ARTICLE AND OTHER CONTENTS OF THIS ISSUE ARE AVAILABLE FREE
+     OF CHARGE UNTIL RELEASE OF THE NEXT ISSUE. A TEXT-ONLY ARCHIVE OF
+     THE JOURNAL IS ALSO AVAILABLE FREE OF CHARGE. FOR FULL HYPERTEXT
+     ACCESS TO BACK ISSUES, SEARCH UTILITIES, AND OTHER VALUABLE
+     FEATURES, YOU OR YOUR INSTITUTION MAY SUBSCRIBE TO PROJECT MUSE,
+     THE ON-LINE JOURNALS PROJECT OF THE JOHNS HOPKINS UNIVERSITY
+     PRESS.
+
+     -----------------------------------------------------------------
+
+                                   Notes
+
+     1. I quote this remark in the slightly modified version given by
+     William Richardson in "Psychoanalysis and the Being-Question,"
+     139.
+
+     2. This argument underpins Irigaray's I Love to You: Sketch for a
+     Felicity within History; see, for instance, 56-57.
+
+     3. Irigaray's first response to Levinas comes in "The Fecundity
+     of the Caress" (ESD 82). In her later "Questions to Emmanuel
+     Levinas," she underscores the ethical tenor of Heidegger's work
+     to suggest the possibility of opening ethics beyond the relation
+     to other human beings. The link between Levinas's and Lacan's
+     approaches to ethics, at least suggested in Irigaray's work, is
+     the focus of a recent collection of essays Levinas and Lacan: The
+     Missed Encounter, ed. Sarah Harasym.
+
+     4. "So finden wir denn bei Parmenides die scharfe Entgegensetzung
+     von logos und glwssa (Frg. VII, v. 3 ff.)" (Einführung 132).
+
+     5. For Descartes wonder brings with it the possibility of being
+     overwhelmed and crushed by what is other: it marks the anxiety
+     afflicting the subject of certainty who finds itself in the face
+     of what exceeds the grasp of its knowledge. (I would like to
+     thank Dalia Judovitz for drawing my attention to this aspect of
+     Descartes' theory of passions.) Irigaray clearly reformulates
+     Descartes' wonder and this revision would have to be explained in
+     the context of her trilogy about the elements, in which one of
+     the organizing factors is the engagement with the pre-Socratic
+     notion of wonder and with Heidegger's rethinking of it. For
+     Heidegger, wonder pertains to both the affective and the
+     intellectual registers. In What Is Philosophy?, Heidegger regards
+     thinking, passion, and action as the axes of philosophia, whose
+     meaning Heidegger redefines, in the context of Pre-Socratics, as
+     the striving after that which astonishes. "The rescue of the most
+     astonishing thing--beings in Being [Seiendes im Sein] was
+     accomplished by a few who started off in the direction of this
+     most astonishing thing, that is, the sophon" (51). Philosophy is
+     not motivated by the desire to know but names as a certain
+     relatedness or disposition (Heidegger's term is Stimmung) in
+     which what is astonishes--it is a question of maintaining thought
+     in wonder of what is.
+
+     6. "What we must get used to is substituting the 'para-being'
+     (par-être)--the being 'para,' being beside--for the being that
+     would take flight [fuir]," 44; see also 45.
+
+     7. "In der Vergessenheit des Seins nur das Seiende betreiben--das
+     ist Nihilismus."
+
+     8. The original reads: "Er ist das Dasein in seiner
+     Unheimlichkeit, das ursprüngliche geworfene In-der-Welt-sein als
+     Un-zuhause, das nackte 'Das' im Nichts der Welt" (Sein 276-277).
+
+     9. The whole of Division Two of Being and Time is devoted to the
+     discussion of temporality; for Heidegger's revision of the idea
+     of temporality see, in particular, sections I, II, and III;
+     section VI discusses the "vulgar" concept of time.
+
+     10. This term is the translation of the title of Irigaray's
+     recent book Être Deux.
+
+     11. "Ce n'est plus dans la fusion ou l'ecstase de l'Un que se
+     surmonte alors le dualism entre sujet et objet. Mais dans
+     l'incarnation de deux, un deux irréductible à l'Un..." (my
+     translation).
+
+                                Works Cited
+
+     Copjec, Joan. Read My Desire: Lacan Against the Historicists.
+     Cambridge, MA: MIT, 1994.
+
+     Harasym, Sarah, ed. Levinas and Lacan: The Missed Encounter.
+     Albany: SUNY Press, 1998.
+
+     Heidegger, Martin. Being and Time. Trans. Joan Stambaugh. Albany:
+     SUNY Press, 1996.
+
+     ---. Early Greek Thinking: The Dawn of Western Philosophy. Trans.
+     David Farrell Krell and Frank A. Capuzzi. San Francisco: Harper
+     and Row, 1975, 1984.
+
+     ---. Einführung in die Metaphysik. Tübingen: Max Niemeyer Verlag,
+     1966.
+
+     ---. Pathmarks. Ed. William McNeill. Cambridge: Cambridge UP,
+     1998.
+
+     ---. Sein und Zeit. Tübingen: Max Niemeyer Verlag, 1986.
+
+     ---. "Vom Wesen der Wahrheit." Wegmarken. Frankfurt am Main:
+     Vittorio Klostermann, 1978.
+
+     ---. What Is Philosophy? Trans. and intro. William Kluback and
+     Jean T. Wilde. [NY]: Twayne, 1958.
+
+     Irigaray, Luce. An Ethics of Sexual Difference. Trans. Carolyn
+     Burke and Gillian C. Gill. Ithaca, NY: Cornell UP, 1993.
+
+     ---. Être Deux. Paris: Grasset, 1997.
+
+     ---. I Love to You: Sketch for a Felicity within History. Trans.
+     Alison Martin. NY: Routledge, 1996.
+
+     ---. "Questions to Emmanuel Levinas." The Irigaray Reader. Ed.
+     Margaret Whitford. Oxford: Basil Blackwell, 1991.
+
+     Lacan, Jacques. Écrits: A Selection, trans. A. Sheridan. NY:
+     Norton, 1977.
+
+     ---. Encore. Trans. Bruce Fink. New York: Norton, 1997.
+
+     Richardson, William. "Psychoanalysis and the Being-Question."
+     Interpreting Lacan. Ed. Joseph H. Smith and William Kerrigan. New
+     Haven: Yale UP, 1983.
+
+     Zizek, Slavoj. Tarrying with the Negative: Kant, Hegel, and the
+     Critique of Ideology. Durham: Duke UP, 1993.
+
