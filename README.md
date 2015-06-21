@@ -11,8 +11,8 @@ Parse a text corpus and generate sentences in the same style using context-free 
 + [pyStatparser](https://github.com/bendavis78/pyStatParser)
 + NLTK
 
-    >> conda install nltk
-    >> 
+     >> conda install nltk
+     >> pip install git+git://github.com/bendavis78/pyStatParser
 
 ## Instructions
 
