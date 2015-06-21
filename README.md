@@ -5,14 +5,15 @@ Parse a text corpus and generate sentences in the same style using context-free 
 *Created by William Gilpin, 2014*
 
 
-## Requirements
+## Requirements and Installation
 
 + Python 2
 + [pyStatparser](https://github.com/bendavis78/pyStatParser)
 + NLTK
 
-     >> conda install nltk
-     >> pip install git+git://github.com/bendavis78/pyStatParser
+     $ git clone https://github.com/williamgilpin/cfgen
+     $ conda install nltk
+     $ pip install git+git://github.com/bendavis78/pyStatParser
 
 ## Instructions
 
