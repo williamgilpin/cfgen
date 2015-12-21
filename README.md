@@ -12,6 +12,7 @@ Parse a text corpus and generate sentences in the same style using context-free 
 + NLTK
 
 You can install these by running these commands
+
 ##
 	$ git clone https://github.com/williamgilpin/cfgen
     $ conda install nltk
