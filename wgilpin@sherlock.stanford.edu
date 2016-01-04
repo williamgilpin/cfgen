@@ -1,0 +1,578 @@
+import nltk
+
+from nltk import data, CFG, ChartParser, Nonterminal
+from nltk.tokenize import word_tokenize
+from random import choice
+
+import string
+import glob
+import random
+import os.path
+import warnings
+
+
+try:
+    from stat_parser import Parser
+    has_parser = True
+except ImportError:
+    warnings.warn('Could not import pyStatParser. Sentence structures will be' \
+                  ' randomly selected from a pre-computed set of rules instead.')
+    has_parser = False
+    
+try: 
+    import language_check
+    has_language_tool = True
+except ImportError:
+    warnings.warn('Could not import language-check or LanguageTool. Rule-based' \
+                   ' post-processing will not be applied to generated text.')
+    has_language_tool = False
+
+def list_overlaps(list1, list2, asymmetric=False):
+    '''
+    Find overlapping elements in a list, including repeats
+    if asymmetric=True, repeats will only matter for second argument
+    
+    Parameters
+    ----------
+    
+    list1 : list
+    list2 : list
+        The two lists that are being compared
+    
+    asymmetric : bool
+        count only redundancies in the second list
+        towards the total
+        
+    
+    '''
+    if asymmetric:
+        member_set = set(list1)
+    else:
+        member_set = list1
+    
+    all_overlaps = list()
+    for member1 in member_set:
+        commons = [member2 for member2 in list2 if member2==member1]
+        all_overlaps.extend(commons)
+        
+    return all_overlaps
+
+def clean_corpus(path, lower=True):
+    '''
+    Clean up a corpus by removing characters and expressions that 
+    just aren't worth dealing with
+    
+    path : str
+        A string to a .txt file containing a corpus
+        
+    lower : bool
+        Convert corpus to all lowercase
+    
+    '''
+    filename_root = os.path.dirname(path)
+    corpus_members=glob.glob(path)
+    corpus = ''
+
+    # get rid of random line breaks and exclude troublesome expressions like quotes
+    for member in corpus_members:
+        with open (member, "r") as openfile:
+            data = openfile.read()
+            badchars = ['\t','\n','\r','-\n','\"','\'','|','--']
+#             badchars = ['\t','\n','\r','-\n','\"','\'','|','--']
+            for badchar in badchars:
+                data = data.replace(badchar, ' ')
+            data = data.replace('.','.')
+            #data = data.replace('`','\'')
+            data = data.replace(',',',')
+            data = data.replace(';',';')
+            data = data.replace(':',':')
+        corpus = corpus + ' ' + data
+    
+    if lower:
+        corpus = corpus.lower()
+    
+    return corpus
+        
+def tag_corpus(corpus):
+    '''
+    Use NLTK to identify the linguistic function of
+    the words in a corpus. 
+    
+    This is only necessary to compile the full list of possible
+    terminal symbols. And so Terminal tokens that require special rules
+    (like punctuation) are excluded.
+    
+    Parameters
+    ----------
+    
+    corpus : str
+        A corpus that has been stripped of all troublesome
+        characters using the clean_corpus() function
+        
+    Returns
+    -------
+    
+    revised_tokens : list of tuples
+        A list of tuples consisting of a word in position 1,
+        and its function within the sentence in position 2
+    
+    Development
+    -----------
+    
+    This function appears to only be called to supply input to
+    make_terminal_rules()
+    
+    '''
+    
+    tokens = nltk.word_tokenize(corpus)
+    pos_tagged_tokens = nltk.pos_tag(tokens)
+    
+    return pos_tagged_tokens
+
+def make_terminal_rules(pos_tagged_tokens):
+    '''
+    Search through a list of tagged words and obtain
+    all of the Terminal characters
+    
+    Clean up the troublesome terminal characters
+    
+    path : str
+    
+    '''
+    
+    all_rules = ''
+    
+    tags = list({tupe[1] for tupe in pos_tagged_tokens})
+    
+    badtags = ['#','$',',','-NONE-','.',':','TO','POS',"''",'(',')']
+    # badtags = ['#','$',',','-NONE-','.',':','TO','POS',"''",'(',')'] # bad terminal tags
+    tags = [item for item in tags if item not in badtags]
+    for tag in tags:
+        allsyms = [('\'' + tupe[0] + '\'') for tupe in pos_tagged_tokens if tupe[1]==tag]
+        gr_rule = (tag + " -> ")
+        gr_rule += ' | '.join(allsyms)
+        gr_rule += '\n'
+        gr_rule = gr_rule.replace('PRP$','PRPx')
+        gr_rule = gr_rule.replace('WP$','WPx')
+        gr_rule = gr_rule.replace('-NONE-','xNONEx')
+        all_rules += gr_rule
+
+    #all_rules +=('''xperiod -> '.'\n''')
+    all_rules +=('''xcomma -> ','\n''')
+    all_rules +=('''xcolon -> ':'\n''')
+    all_rules +=('''xsemicolon -> ';'\n''')
+    all_rules +=('''openparen -> '('\n''')
+    all_rules +=('''closeparen -> ')'\n''')
+    all_rules +=('''xapostrophe -> "\'"\n''')
+    all_rules +=('''xquote -> "''"\n''')
+    all_rules +=('''TO -> 'to'\n''')
+    
+    return all_rules
+
+
+def parse_sentence(my_sentence):
+    '''
+    
+    my_sentence : str
+        A single sentence (str) 
+    
+    '''
+       
+    parser = Parser()
+    parsee=parser.parse(my_sentence)
+
+    rules = ""
+    to_replace = [',','.',':',';',"''",'(',')','$','+']
+    replacements = ['xcomma','xperiod','xcolon','xsemicolon',\
+                    'xquote','openparen','closeparen','xdollar','xplus']
+
+    # possibly add: brackets, double quotes
+
+    for production in parsee.productions():
+        rules += str(production) + '\n'
+
+    # now re-tag special characters
+    swappairs = zip(to_replace, replacements)
+    for member in swappairs:
+        rules = rules.replace(member[0],member[1])
+
+    return rules
+
+
+def is_terminal(symb):
+    '''determine if a symbol is terminal
+    
+    Parameters
+    ----------
+    
+    symb : str
+    
+    Returns
+    -------
+    
+    out : bool
+        whether if symb is terminal
+
+    '''
+    out = hasattr(symb, '__hash__') and not isinstance(symb, Nonterminal)
+    return out
+
+
+def produce(grammar, symbol, depth=0, maxdepth=25):
+    '''
+    
+    grammar : nltk.grammar.CFG
+    
+    symbol : nltk.grammar.Nonterminal
+    
+    depth : int
+        The depth of the recursive tree search
+        
+    maxdepth : int
+        The maximum allowed recursion depth before throwing a
+        ValueError
+        
+    TODO: make a custom UserError type
+    
+    '''
+    if depth > maxdepth:
+        raise ValueError('Recursion went too deep, one of the example syntax' \
+                         ' sentences might be poorly formed or poorly parsed')
+    words = []
+    
+    productions = grammar.productions(lhs = symbol)
+    production = choice(productions)
+
+    for sym in production.rhs():
+        if is_terminal(sym):
+            words.append(sym)
+        else:
+            words.extend(produce(grammar, sym, depth=depth+1, maxdepth=maxdepth))
+    return words
+
+
+
+def produce_kgram(grammar, symbol, kgram_dict, depth=0, maxdepth=25, sent=[]):
+    '''
+    
+    grammar : nltk.grammar.CFG
+    
+    symbol : nltk.grammar.Nonterminal
+    
+    kgram_dict : dict
+        A dictionary with k-words as keys and all
+        of the following words as vals
+    
+    depth : int
+        The depth of the recursive tree search
+        
+    maxdepth : int
+        The maximum allowed recursion depth before throwing a
+        ValueError
+        
+    sent : list of str
+        The entirety of the sentence so far
+        
+    TODO: make a custom UserError type
+    
+    '''
+    
+    k = len( kgram_dict.keys()[0].split(' ') )
+
+    if depth > maxdepth:
+        raise ValueError('Recursion went too deep, one of the example syntax' \
+                         ' sentences might be poorly formed or poorly parsed')
+    words = []
+
+    productions = grammar.productions(lhs = symbol)
+    productions_clone = list(productions)
+    
+    if len(sent) >= k:
+        key_val = str(' '.join(sent[-k:]))
+#         key_val = str(sent[-1])
+    else:
+        key_val = ''
+
+    
+    if (len(productions_clone) > 10) and (len(sent) >= k) and  key_val in kgram_dict.keys():
+        all_production_words = [str(item.rhs()[0]) for item in productions_clone]
+        candidate_words = kgram_dict[key_val]
+        valid_words = list_overlaps(all_production_words, candidate_words, asymmetric=True)
+        if len(valid_words) > 0:
+            print('HIT!')
+            production_word = choice(valid_words)
+            production = list(grammar.productions(rhs = production_word))[0]
+        else:
+            production = choice(productions)
+    else:
+        production = choice(productions)
+
+    for sym in production.rhs():
+        if is_terminal(sym):
+            words.append(sym)
+            sent.append(sym)
+        else:
+            words.extend(produce_kgram(grammar, sym, kgram_dict, depth=depth+1, maxdepth=maxdepth, sent=sent))
+    
+    
+    return words
+
+# def make_sentence(corpus_sample, term_rules):
+#     '''
+    
+#     corpus_sample : str
+#         a string the CFG parse for a single sentence
+        
+#     term_rules : str
+#         a string containing all the terminal rules for the corpus
+        
+#     '''
+    
+#     cfg_str = corpus_sample + term_rules
+
+
+#     grammar = CFG.fromstring(cfg_str)
+#     parser = ChartParser(grammar)
+#     gr = parser.grammar()
+
+#     startpt = corpus_sample[:corpus_sample.find(' ->')]
+#     startpt = nltk.grammar.Nonterminal(startpt)
+    
+#     out_txt = (' '.join(produce(gr, startpt)) )
+    
+
+#     from_replace = [',','.',':',';',"''",'(',')','$','+']
+#     replacements = ['xcomma','xperiod','xcolon','xsemicolon',\
+#                     'xquote','openparen','closeparen','xdollar','xplus']
+
+#     # now re-tag special characters
+#     swappairs = zip(replacements,from_replace)
+#     for member in swappairs:
+#         out_txt = out_txt.replace(member[0],member[1])
+    
+#     return out_txt
+
+
+# def make_sentence(corpus, term_rules, kgram_dict, fixed_grammar=False, sample_sentence='', maxdepth=25):
+def make_sentence(corpus, term_rules, *args,**kwargs):
+    '''
+    
+    Generate sentences with random structure and word choice
+    using a context-free grammar
+    
+    The start point is taken from the sentence itself.
+    
+    Parameters
+    ----------
+    
+    corpus : str
+        a string containing the full, cleaned corpus
+        
+    term_rules : str
+        a string containing all the terminal rules for the corpus
+        
+    maxdepth : int
+        The maximum allowed recursion depth before throwing a
+        ValueError
+        
+    fixed_grammar : bool
+        Turn off the random sentence selection and used a fixed grammar
+        instead
+    
+    sample_sentence : str
+        When fixed_grammar is turned on, this is the sentence that will
+        be parsed
+        
+    Notes
+    -----
+    
+    Add the ability to turn off the kgram parsing, ideally by counting
+    the number of unnamed arguments
+    
+    '''
+
+    markov_flag = (not len(args)==0)
+    if markov_flag:
+        kgram_dict = args[0]
+    
+    fixed_grammar = kwargs.pop('fixed_grammar', False)
+    sample_sentence = kwargs.pop('sample_sentence', '')
+    maxdepth = kwargs.pop('maxdepth', 25)
+    
+    if fixed_grammar:
+        if sample_sentence=='':
+            warnings.warn('When using fixed_grammar, user should specify ' \
+                          'the keyword argument "sample_sentence". Using a default simple sentence.')
+            sample_sentence = 'The cow jumped over the moon.'
+        else:
+            pass
+    
+
+    flag = False
+    attempts = 0
+    while not flag and attempts < 30:
+        tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+       
+        if has_parser and not fixed_grammar:  
+            rsent = choice(tokenizer.tokenize(corpus))
+        elif fixed_grammar:
+            rsent = sample_sentence
+        elif not has_parser and not fixed_grammar:
+            # select from a parsed corpus of pre-approved grammars
+            print("not yet implemented")
+            rsent = "The dog walked up the stairs slowly."
+        else:
+            print("not yet implemented")
+            rsent = "The dog walked up the stairs slowly."
+        
+        parsed_syntax = parse_sentence(rsent)
+        cfg_str = term_rules + parsed_syntax
+        try:  
+            startpt = parsed_syntax[:parsed_syntax.find(' ->')]
+            startpt = nltk.grammar.Nonterminal(startpt)
+            grammar = CFG.fromstring(cfg_str)
+            parser = ChartParser(grammar)
+            gr = parser.grammar()
+            if markov_flag:
+                out_txt = (' '.join(produce_kgram(gr, startpt, kgram_dict, maxdepth=maxdepth, sent=[])) )
+            else:
+                out_txt = (' '.join(produce(gr, startpt,  maxdepth=maxdepth)) )
+            flag = True
+        except ValueError:
+            warnings.warn('Badly formed sentence encountered, resampling the corpus.')
+            attempts = attempts + 1
+
+    from_replace = [',','.',':',';',"''",'(',')','$','+']
+    replacements = ['xcomma','xperiod','xcolon','xsemicolon',\
+                    'xquote','openparen','closeparen','xdollar','xplus']
+
+    # now re-tag special characters
+    swappairs = zip(replacements,from_replace)
+    for member in swappairs:
+        out_txt = out_txt.replace(member[0],member[1])
+    
+    
+    return out_txt
+
+
+# def make_sentence2(corpus, term_rules, maxdepth=25):
+#     '''
+    
+#     Generate sentences with random structure and word choice
+#     using a context-free grammar
+    
+#     The start point is taken from the sentence itself.
+    
+#     Parameters
+#     ----------
+    
+#     corpus : str
+#         a string containing the full, cleaned corpus
+        
+#     term_rules : str
+#         a string containing all the terminal rules for the corpus
+        
+#     maxdepth : int
+#         The maximum allowed recursion depth before throwing a
+#         ValueError
+        
+#     Notes
+#     -----
+    
+#     Deprecated, to be merged into make_sentence in a later version
+        
+#     '''
+
+
+#     flag = False
+#     attempts = 0
+#     while not flag and attempts < 30:
+#         tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+#         rsent = choice(tokenizer.tokenize(corpus))
+#         parsed_syntax = parse_sentence(rsent)
+#         cfg_str = term_rules + parsed_syntax
+#         try:  
+#             startpt = parsed_syntax[:parsed_syntax.find(' ->')]
+#             startpt = nltk.grammar.Nonterminal(startpt)
+#             grammar = CFG.fromstring(cfg_str)
+#             parser = ChartParser(grammar)
+#             gr = parser.grammar()
+#             out_txt = (' '.join(produce(gr, startpt,  maxdepth=maxdepth)) )
+#             flag = True
+#         except ValueError:
+#             warnings.warn('Badly formed sentence encountered, resampling the corpus.')
+#             attempts = attempts + 1
+
+#     from_replace = [',','.',':',';',"''",'(',')','$','+']
+#     replacements = ['xcomma','xperiod','xcolon','xsemicolon',\
+#                     'xquote','openparen','closeparen','xdollar','xplus']
+
+#     # now re-tag special characters
+#     swappairs = zip(replacements,from_replace)
+#     for member in swappairs:
+#         out_txt = out_txt.replace(member[0],member[1])
+    
+    
+#     return out_txt
+
+def make_kgram(corpus, k=1, clean=True):
+    '''
+    
+    clean : bool
+        If activated, remove some troublesome characters
+        (introduces risk of markov chain throwing a KeyError)
+    add functions to strip all capitals and punctuation from a corpus
+    (only run punctuation one internally here)
+    '''
+    
+    clean_corpus = corpus 
+    
+    if clean:
+        to_replace = [',','.',':',';',"''",'(',')','$','+']
+        replacements = ['xcomma','xperiod','xcolon','xsemicolon',\
+                        'xquote','openparen','closeparen','xdollar','xplus']
+        swappairs = zip(to_replace, replacements)
+        for member in swappairs:
+            clean_corpus = clean_corpus.replace(member[0],member[1])
+
+        
+    mywords = word_tokenize(clean_corpus)
+    kgrams = dict()
+    for ii in range(len(mywords)-k):
+        keyname = ' '.join(mywords[ii:ii+k])
+        if keyname in kgrams.keys():
+            kgrams[keyname].append(mywords[ii+k])
+        else: 
+            kgrams[keyname] = [mywords[ii+k]]
+    return kgrams
+
+import language_check
+
+def clean_output_text(output_text):
+    '''
+    Post-processing to clean up the output returned by the
+    text generation program
+    
+    This uses the rule-based grammar checking of Language Tool
+    to correct minor capitalization and tense issues in the 
+    outputted text
+    
+    Parameters
+    ----------
+    
+    output_text : str
+    
+    '''
+    
+    output_text = output_text.replace('. ,',',')
+    output_text = output_text.replace(' i ',' I ')
+    output_text = output_text.replace(', ,',',')
+    output_text = output_text.replace('. .','.')
+    
+    if has_language_tool:
+        tool = language_check.LanguageTool('en-US')
+        matches = tool.check(output_text)
+        output_text = language_check.correct(output_text, matches)
+        output_text = str(output_text)
+    
+    return output_text
