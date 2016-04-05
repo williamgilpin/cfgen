@@ -337,7 +337,7 @@ def produce_kgram(grammar, symbol, kgram_dict, depth=0, maxdepth=25, sent=[]):
         candidate_words = kgram_dict[key_val]
         valid_words = list_overlaps(all_production_words, candidate_words, asymmetric=True)
         if len(valid_words) > 0:
-            print('HIT!')
+            #print('HIT!')
             production_word = choice(valid_words)
             production = list(grammar.productions(rhs = production_word))[0]
         else:
@@ -384,12 +384,19 @@ def make_sentence(corpus, term_rules, *args,**kwargs):
         When fixed_grammar is turned on, this is the sentence that will
         be parsed. This can be finicky with grammars containing specially
         punctuated constructions like quotations or positions
+
+    args[0] : dict()
+        Optional: a dictionary of kgrams and their subsequent words. If this
+        variable exists then cfgen will use this to pick the next words with
+        conditional weighting (The prescence of this argument turns on Markov
+        text generation features.)
         
     Notes
     -----
     
     Add the ability to turn off the kgram parsing, ideally by counting
     the number of unnamed arguments
+    ----> Added this option
     
     '''
 
@@ -483,6 +490,9 @@ def make_kgram(corpus, k=1, clean=True):
     return kgrams
 
 
+
+
+
 def make_sentence_markov(kgram_dict, nwords, start_word=''):
     '''
     Use a k-word markov model to generate text
@@ -522,6 +532,33 @@ def make_sentence_markov(kgram_dict, nwords, start_word=''):
     out = out.replace('xsemicolon', ';')
     
     return out
+
+
+def make_random_sentence(corpus, nwords, clean=True):
+    '''
+    Make a totally random sentence of a given length
+    
+    '''
+
+    clean_corpus = corpus 
+    
+    if clean:
+        swappairs = zip(to_replace, replacements)
+        for member in swappairs:
+            clean_corpus = clean_corpus.replace(member[0],member[1])
+
+    mywords = word_tokenize(clean_corpus)
+
+    sent = choice( mywords, nwords)
+    out = ' '.join(sent)
+    
+    # add a post-processing step here
+    out = out.replace('xcomma', ',')
+    out = out.replace('xperiod', '.')
+    out = out.replace('xsemicolon', ';')
+    
+    return out
+
     
 import language_check
 
@@ -570,6 +607,35 @@ def clean_output_text(output_text, use_language_tool=False):
 import language_check
 from numpy import median, floor
 
+
+def sample_corpus(corpus, samp_len):
+    '''Take a random continuous set of words from a text, 
+    return the sample and the text with the passage excised.
+    
+    Parameters
+    ----------
+    corpus : str
+    
+    samp_len : int
+    
+    Returns
+    -------
+    
+    text_sample, reduced_corpus : str, str
+    
+    '''
+    
+    all_words = corpus.split(' ') 
+    nrange = len(all_words) - samp_len - 1
+    nwords = len(all_words)
+    
+    sample_index = choice(range(nrange))
+    
+    text_sample = ' '.join(all_words[sample_index:sample_index+samp_len])
+    reduced_corpus = ' '.join(all_words[:sample_index] + all_words[sample_index+samp_len:])
+    
+    return text_sample, reduced_corpus
+
 def all_common_substring(s1, s2,threshold_length=15):
     '''
     Return a list of all substrings of a given length that two
@@ -579,20 +645,20 @@ def all_common_substring(s1, s2,threshold_length=15):
     
     '''
     
-    m = [[0] * (1 + len(s2)) for i in range(1 + len(s1))]
+    matches = [[0]*(1 + len(s2)) for i in range(1 + len(s1))]
     all_sub = list()
     longest, x_longest = 0, 0
-    for x in range(1, 1 + len(s1)):
-        for y in range(1, 1 + len(s2)):
-            if s1[x - 1] == s2[y - 1]:
-                m[x][y] = m[x - 1][y - 1] + 1
-                if m[x][y] == threshold_length:
-                    longest = m[x][y]
+    for x in range(1, 1+len(s1)):
+        for y in range(1, 1+len(s2)):
+            if s1[x-1] == s2[y-1]:
+                matches[x][y] = matches[x-1][y-1] + 1
+                if matches[x][y] == threshold_length:
+                    longest = matches[x][y]
                     x_longest = x
                     sout = s1[x_longest - longest: x_longest]
                     all_sub.append(sout)
             else:
-                m[x][y] = 0
+                matches[x][y] = 0
     return all_sub
 
 

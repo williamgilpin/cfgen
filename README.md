@@ -1,8 +1,8 @@
 # cfgen
 
-Parse a text corpus and generate sentences in the same style using context-free grammar.
+Uses a combination of Markov chains and context-free-grammars to generate random sentences with features of both language models.
 
-*Created by William Gilpin, 2014*
+*Created by William Gilpin, 2014-2016*
 
 
 ## Requirements and Installation
@@ -10,14 +10,34 @@ Parse a text corpus and generate sentences in the same style using context-free 
 + Python 2
 + [pyStatparser](https://github.com/bendavis78/pyStatParser)
 + NLTK
++ language-check (optional)
 
-You can install these by running these commands
+You can install the code and basic dependencies by running these commands
 
-##
 	$ git clone https://github.com/williamgilpin/cfgen
     $ conda install nltk
     $ pip install git+git://github.com/bendavis78/pyStatParser
 
+For scoring grammar or automatically correcting the resulting sentences, install the Python Package (language-check)[https://pypi.python.org/pypi/language-check].
+
+    $ pip install 3to2
+    $ pip install language-check
+
+## Basic Usage
+
+Point the tool to your corpus and set up the language model. Here we will use 2-grams of Mary Shelley's Frankenstein.
+
+	mycorp = clean_corpus('cfgen/full_books/frankenstein.txt')
+	tagged_corpus = tag_corpus(mycorp)
+	termrules_mycorp = make_terminal_rules(tagged_corpus)
+	my_kgram = make_kgram(mycorp, k=2)
+
+Now generate an example sentence
+
+	example_sentence = make_sentence(mycorp, termrules_mycorp, my_kgram)
+    corrected_example_sentence = clean_output_text(example_sentence, use_language_tool=True)
+    print(example_sentence + '\n')
+    print(corrected_example_sentence)
 
 ## Instructions
 
@@ -64,10 +84,13 @@ From a model trained on the Book of Revelations:
 
 	Their noise erase me.
 
-## TODO
+
+
+<!-- ## TODO
 
 + Make the code automatically parse a subset of sentences in a corpus in order to generate a subsetted set of nonterminal grammar rules
 
 + Use Bayesian methods to randomly select among possible clause constructions based on previous clauses in the sentence, and use a Markov model to select words contextually based on higher level grammatical features of the sentence.
 
 + Punctuation is terrible right now because it has to be scraped off of hte corpus to prevent the tokenizer from choking.
+ -->

@@ -1,0 +1,32 @@
+SINV -> S xcomma NP xperiod
+S -> PP NP VP
+PP -> IN NP
+IN -> 'in'
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'last'
+NN -> 'chapter'
+NP -> PRP
+PRP -> 'I'
+VP -> MD VB NP
+MD -> 'shall'
+VB -> 'give'
+NP -> NP PP
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'brief'
+NN -> 'recapitulation'
+PP -> IN NP
+IN -> 'of'
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'whole'
+NN -> 'work'
+xcomma -> 'xcomma'
+NP -> CC DT JJ VBG NN
+CC -> 'and'
+DT -> 'a'
+JJ -> 'few'
+VBG -> 'concluding'
+NN -> 'remarks'
+xperiod -> 'xperiod'
