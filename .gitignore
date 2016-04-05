@@ -64,3 +64,5 @@ target/
 
 # Remove temporary text files
 *~
+
+.ipynb_checkpoints
