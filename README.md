@@ -18,7 +18,7 @@ You can install the code and basic dependencies by running these commands
     $ conda install nltk
     $ pip install git+git://github.com/bendavis78/pyStatParser
 
-For scoring grammar or automatically correcting the resulting sentences, install the Python Package (language-check)[https://pypi.python.org/pypi/language-check].
+For scoring grammar or automatically correcting the resulting sentences, install the Python Package [language-check](https://pypi.python.org/pypi/language-check).
 
     $ pip install 3to2
     $ pip install language-check
@@ -39,13 +39,9 @@ Now generate an example sentence
     print(example_sentence + '\n')
     print(corrected_example_sentence)
 
-## Instructions
+A full workflow is given in the file **demos.ipynb**. 
 
-A full workflow is given in the file **crack_bot.ipynb**. 
-
-The code can currently tokenize and extract terminal symbols from an arbitrary text file (several are included in the repo). Generating valid non-terminal rules remains tricky, and so right now to make new nonterminal rules you have to parse single sentences and add them to a text file, checking every so often for unsual combinations and rare constructions
-
-I wrote about this project [on my blog.](https://gammacephei.wordpress.com/2014/08/17/algorithmic-trolling-of-social-networks/)
+<!-- I wrote about this project [on my blog.](https://gammacephei.wordpress.com/2014/08/17/algorithmic-trolling-of-social-networks/) -->
 
 ## Sample output
 
