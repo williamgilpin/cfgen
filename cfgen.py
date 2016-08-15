@@ -14,6 +14,7 @@ from nltk.tokenize import word_tokenize
 from random import choice
 
 import string
+import time
 import glob
 import random
 import os.path
@@ -606,6 +607,7 @@ def clean_output_text(output_text, use_language_tool=False):
 
 import language_check
 from numpy import median, floor
+from numpy.random import rand
 
 
 def sample_corpus(corpus, samp_len):
@@ -699,16 +701,25 @@ def similarity_score(s1, s2, threshold_length='auto'):
     
     return score
 
-def grammar_score(some_text):
+
+def rand_str(str_len):
+    '''Returns a random string of the specified length'''
+    
+    random_string = ''
+    char_set = 'abcdefghijklmnopqrstuvwxyz'
+    
+    for ii in range(str_len):
+        letter_ind = int(floor(rand()*len(char_set)))
+        random_string += char_set[letter_ind]
+        
+    return random_string
+
+def grammar_score_raw(some_text):
     '''
-    Count the total number of errors in a text
+    Find all grammatical errors in a text
     
     Excludes cosmetic errors, like misuse of capitals, 
     and instead focus on structural issues
-    
-    Parameters
-    ----------
-    some_text : str
     '''
     tool = language_check.LanguageTool('en-US')
     matches = tool.check(some_text)
@@ -726,8 +737,146 @@ def grammar_score(some_text):
         elif item.ruleId.find('ENGLISH_WORD_REPEAT_BEGINNING_RULE') != -1:
             continue
         else:
-            structural_errors.append(item)
+            
+            error_words = some_text[item.fromx:item.tox]
+            
+            replacement_word = item.replacements
+            
+            err_ind = item.contextoffset
+
+            try:
+                prior_word = some_text[:err_ind].split(' ')[-2]
+            except IndexError:
+                prior_word = ''
+            
+            structural_errors.append((error_words, prior_word, replacement_word))
+
+    
+    return structural_errors
+
+import ATD
+import time
+
+def grammar_score_atd_raw(some_text):
+    
+    ATD.setDefaultKey("cfgen call " + rand_str(5))
+
+    wait_time = 1
+    have_answer = False
+
+    while not have_answer:
+        try:
+            error_list = ATD.checkDocument(some_text)
+            have_answer = True
+        except:
+            print('ATD API is having trouble!')
+            print('waiting for: ' + str(wait_time) + ' sec.')
+            time.sleep(wait_time)
+            ATD.setDefaultKey("cfgen call " + rand_str(5))
+            wait_time = wait_time + 5
+    
+    all_errors = []
+    for error in error_list:
+        if error.type!='grammar':
+            continue
+        else:
+            all_errors.append((error.string, error.precontext))
+    return all_errors
+
+def grammar_score_comparative(some_text):
+    '''
+    For now, similar errors are detected based just on whether the
+    affected word is the same in both measurements
+    '''
+    
+    results_langtool = grammar_score_raw(some_text)
+    results_atd = grammar_score_atd_raw(some_text)
+    
+    err_words_langtool = [item[1] for item in results_langtool]
+    err_words_atd = [item[1] for item in results_atd]
+    
+    common_errs = set(err_words_atd).intersection(err_words_langtool)
+    
+    nboth = float(len(common_errs))
+    n1 = float(len(err_words_atd))
+    n2 = float(len(err_words_langtool))
+    nmiss = (n1 - nboth)*(n2 - nboth)/nboth
+    
+    return((n1,n2,nmiss))
+    
+import ATD
+
+def grammar_score(some_text, method='langtool'):
+    '''
+    Count the total number of errors in a text
+    
+    Excludes cosmetic errors, like misuse of capitals, 
+    and instead focus on structural issues
+    
+    Parameters
+    ----------
+    some_text : str
+
+    method : str
+        'langtool' or 'atd'
+    '''
+    if method=='langtool':
+        structural_errors = grammar_score_raw(some_text)
+    elif method=='atd':
+        structural_errors = grammar_score_atd_raw(some_text)
+    else:
+        warnings.ward("Unknown method choice for grammar score")
+        structural_errors = []
     
     error_score = float(len(structural_errors))/len(some_text)
     
     return error_score
+
+def score_sentences(fname, delim='. ',wait_time=0):
+    '''
+    fname : str
+        The path to a txt file containing a bunch of sentences split by some
+        delimiter
+        
+    delim : str
+        The delimiter between sentences. default period followed by space
+        
+    wait_time : float
+        The time (in seconds) to wait between successive calls to the ATD
+        API. If a strange error is being returned, try increasing this time
+        
+    Returns
+    -------
+    
+    scores : 2xN np.array
+        An array of scores for each sentence
+        
+    Examples
+    --------
+    
+    score_sentences('my_sentences.txt', delim='\n',wait_time=.25)
+    
+    '''
+    
+
+    with open(fname) as txt_file:
+        sents = txt_file.read()
+        
+    sents = sents.split(delim)
+    sents = [thing for thing in sents if thing not in ['', ' ','.']]
+
+    all_grammar_scores_langtool = []
+    all_grammar_scores_atd = []
+
+    #ii=0
+    for sent in sents:
+        #print(sent)
+        all_grammar_scores_langtool.append( grammar_score(sent,method='langtool') )
+        all_grammar_scores_atd.append( grammar_score(sent,method='atd') )
+        #print(ii);ii=ii+1
+        time.sleep(wait_time)
+        
+    scores = array([all_grammar_scores_langtool,all_grammar_scores_atd])
+    scores = scores.T
+    
+    return(scores)
