@@ -2,13 +2,13 @@
 
 Uses a combination of Markov chains and context-free-grammars to generate random sentences with features of both language models.
 
-*Created by William Gilpin, 2014-2016*
+*Created by [William Gilpin](http://www.wgilpin.com/), 2014-2019*
 
 
 ## Requirements and Installation
 
 + Python 2
-+ [pyStatparser](https://github.com/bendavis78/pyStatParser)
++ [pyStatparser](https://github.com/emilmont/pyStatParser)
 + NLTK
 + language-check (optional)
 
@@ -16,7 +16,7 @@ You can install the code and basic dependencies by running these commands
 
 	$ git clone https://github.com/williamgilpin/cfgen
     $ conda install nltk
-    $ pip install git+git://github.com/bendavis78/pyStatParser
+    $ pip install git+git://github.com/emilmont/pyStatParser
 
 For scoring grammar or automatically correcting the resulting sentences, install the Python Package [language-check](https://pypi.python.org/pypi/language-check).
 
@@ -27,16 +27,12 @@ For scoring grammar or automatically correcting the resulting sentences, install
 
 Point the tool to your corpus and set up the language model. Here we will use 2-grams of Mary Shelley's Frankenstein.
 
-	mycorp = clean_corpus('cfgen/full_books/frankenstein.txt')
-	tagged_corpus = tag_corpus(mycorp)
-	termrules_mycorp = make_terminal_rules(tagged_corpus)
-	my_kgram = make_kgram(mycorp, k=2)
+	my_model = GrammarModel('cfgen/full_books/frankenstein.txt', 2)  
 
 Now generate an example sentence
 
-	example_sentence = make_sentence(mycorp, termrules_mycorp, my_kgram)
+	example_sentence = my_model.make_sentence()
     corrected_example_sentence = clean_output_text(example_sentence, use_language_tool=True)
-    print(example_sentence + '\n')
     print(corrected_example_sentence)
 
 A full workflow is given in the file **demos.ipynb**. 
