@@ -66,3 +66,6 @@ target/
 *~
 
 .ipynb_checkpoints
+
+
+.DS_STORE
