@@ -1,26 +1,46 @@
 # cfgen
 
-Uses a combination of Markov chains and context-free-grammars to generate random sentences with features of both language models.
+Uses a combination of Markov chains and a context-free grammar to generate random sentences with features of both language models.
 
 *Created by [William Gilpin](http://www.wgilpin.com/), 2014-2019*
 
 
 ## Requirements and Installation
 
-+ Python 2
-+ [pyStatparser](https://github.com/emilmont/pyStatParser)
-+ NLTK
-+ language-check (optional)
+**Automatic installation**
 
-You can install the code and basic dependencies by running these commands
+Download and extract the repository and then run
+
+	$ python setup.py install
+
+Often, the parser will fail to install. So instead run
+
+	$ pip install git+git://github.com/emilmont/pyStatParser
+
+
+
+**Manual installation**
+
+Requirements
+
++ Python 2.7+ / Python 3.4+
++ Numpy
++ NLTK
++ [pyStatparser](https://github.com/emilmont/pyStatParser)
+
+Optional installs (to use all tools)
++ language-check (for fixing some basic errors)
++ After The Deadline (for scoring)
++ Jupyter Notebook (for tutorial)
+
+Manually install the code and basic dependencies by running these commands
 
 	$ git clone https://github.com/williamgilpin/cfgen
     $ conda install nltk
     $ pip install git+git://github.com/emilmont/pyStatParser
 
-For scoring grammar or automatically correcting the resulting sentences, install the Python Package [language-check](https://pypi.python.org/pypi/language-check).
+For scoring grammar or automatically correcting the resulting sentences, install the Python package [language-check](https://pypi.python.org/pypi/language-check).
 
-    $ pip install 3to2
     $ pip install language-check
 
 ## Basic Usage
